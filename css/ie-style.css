@@ -1,0 +1,6 @@
+.slide-intro, .slide-caption, .slide-link{
+	display: none !important;
+}
+.kopa-tab.style1 .nav-tabs:before {
+right: -20px;
+}

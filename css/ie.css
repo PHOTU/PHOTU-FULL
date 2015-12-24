@@ -1,0 +1,71 @@
+.col-md-12 {
+	width: 100%;
+}
+.col-md-11 {
+	width: 91.66666666666666%;
+}
+.col-md-10 {
+	width: 83.33333333333334%;
+}
+.col-md-9 {
+	width: 75%;
+}
+.col-md-8 {
+	width: 66.66666666666666%;
+}
+.col-md-7 {
+	width: 58.333333333333336%;
+}
+.col-md-6 {
+	width: 50%;
+}
+.col-md-5 {
+	width: 41.66666666666667%;
+}
+.col-md-4 {
+	width: 33.33333333333333%;
+}
+.col-md-3 {
+	width: 25%;
+}
+.col-md-2 {
+	width: 16.666666666666664%;
+}
+.col-md-1 {
+	width: 8.333333333333332%;
+}
+.entry-item .thumb-icon:before {
+    padding-right: 0px;
+}
+.main-menu > li > a > span{
+	display: none;
+}
+.entry-author img{
+    display: none;
+}
+.entry-author span{
+    display: inline-block;
+}
+.kopa-newsletter-widget .newsletter-form .input-area > input{
+	line-height: 18px;
+}
+.nav-tabs > li > a:before, .nav-tabs > li > a:after{
+	display: none;
+}
+.nav-tabs > li > a:hover:before, .nav-tabs > li > a:hover:after{
+	display: block;
+}
+.nav-tabs > li.active > a:before, .nav-tabs > li.active > a:after, 
+.nav-tabs > li.active > a:hover:before, .nav-tabs > li.active > a:hover:after, 
+.nav-tabs > li.active > a:focus:before, .nav-tabs > li.active > a:focus:after{
+	display: block;
+}
+.panel-group .panel .panel-heading:before{
+	display: none;
+}
+.panel-group .panel .panel-heading.active:before{
+	display: block;
+}
+.kopa-slider{
+	display: none;
+}

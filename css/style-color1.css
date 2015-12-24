@@ -1,0 +1,277 @@
+::selection {
+    background: #f15c22;
+}
+::-moz-selection {
+    background: #f15c22;
+}
+
+
+a:hover, a:active,
+h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .h1 a:hover, 
+.kopa-dropcap a:hover, .h2 a:hover, .h3 a:hover, .h4 a:hover, .h5 a:hover, .h6 a:hover, 
+.filters-options li a:hover, .txt-decoration-2, .txt-style, .kopa-dropcap, 
+.kopa-social-links.style4 ul li a:hover, .kopa-e-list.list-unorder,
+.kopa-ticker .ticker-content a:hover, .top-menu > li ul li a:hover, 
+.top-menu > li ul li.current-menu-item > a, 
+.top-nav-mobile .top-menu-mobile > li > a:hover, 
+.top-nav-mobile .top-menu-mobile > li ul li a:hover, 
+.top-nav-mobile .top-menu-mobile > li ul.sub-menu li a:hover, 
+.main-menu .sf-with-ul:after, .main-menu > li ul.sub-menu li a:hover,
+.main-menu > li ul.sub-menu li.current-menu-item > a, .sf-mega .entry-title a:hover,
+.kopa-list-sub-widget .widget-title, .main-nav-mobile .pull i, 
+.main-nav-mobile .main-menu-mobile > li > a:hover, 
+.main-nav-mobile .main-menu-mobile > li.current-menu-item > a, 
+.main-nav-mobile .main-menu-mobile > li .sub-menu li a:hover, 
+.main-nav-mobile .main-menu-mobile > li .sub-menu li.current-menu-item > a,
+.sf-mega-mobile .entry-title a:hover, .thumb-icon.style1, 
+.more-link:after, .entry-meta > span a, .entry-meta > p a,
+.entry-meta > a:hover span, .kopa-breadcrumb span,
+.contact-box .input-label > span, .comment-box .input-label > span, 
+.contact-info address a, .kopa-rating li, .kopa-loadmore, .widget-title.style1,
+.widget-title.style3 span, .widget-title.style5 span, 
+.widget-title.style5 a:hover, .widget_rss > ul > li a, .post-date,
+.tagcloud a:hover, .widget_calendar thead th, .widget_calendar tbody a,
+.kopa-newsletter-widget .newsletter-form .input-area label.error,
+.entry-content.style1 a:hover, .entry-content.style2 a:hover, 
+.entry-content.style3 a:hover, .entry-content.style1 .entry-meta > a:hover span, 
+.entry-content.style2 .entry-meta > a:hover span, 
+.entry-content.style3 .entry-meta > a:hover span, 
+.article-list-2 .pd-20 > ul > li .entry-item .entry-title a:hover,
+.article-list-2 .pd-20 > ul > li .order-num, .article-list-2 .more-link:hover,
+.num-rating, .kopa-comment-widget .pd-20 .entry-item > p a,
+.kopa-comment-widget .pd-20 .kopa-view-all a:hover, .article-list-14 a:hover,
+.article-list-23 .pd-20 .entry-item .entry-content .entry-meta > a span,
+.single-other-post > div > .entry-item .entry-content > a, 
+.kopa-author .author-content .author-name a, .error-404 .left-col p,
+.error-404 .right-col h1, .error-404 .right-col a:hover, #bottom-sidebar a:hover,
+#bottom-sidebar .textwidget > ul > li a:hover, #bottom-sidebar .tagcloud a:hover,
+#bottom-sidebar .entry-meta > a:hover span, #copyright a:hover, 
+.kopa-footer-nav .footer-menu li a:hover
+{
+    color: #f15c22;
+}
+
+blockquote span, .thumb-icon.style1:hover, .kopa-follow-widget a:hover span
+{
+    color: #f15c22 !important;
+}
+
+.element-title:before, .widget-title.style3:before, .widget-title.style5:before,
+.kopa-blockquote.style3, .txt-highlight, 
+.panel-group .panel .panel-heading:before, 
+.panel-group.style1 .panel .panel-heading.active > .panel-title a .btn-title,
+.panel-group.style1 .panel .panel-heading.active > .panel-title a:before,
+.nav-tabs > li > a:before, .kopa-tab.style1 .nav-tabs li > a:hover:before,
+.kopa-tab.style1 .nav-tabs li.active > a:before, 
+.kopa-tab.style1 .nav-tabs li.active > a:hover:before, 
+.kopa-tab.style1 .nav-tabs li.active > a:focus:before,
+.progress .progress-bar, .progress .progress-bar-danger, 
+.slider.slider-horizontal .slider-selection, .kopa-button:hover, .color-button:hover,
+.kopa-social-links.style-bg-color ul li a:hover, .kopa-search-box .search-form  .search-text,
+.main-menu > li:hover > a, .main-menu > li.current-menu-item > a, 
+.entry-thumb > h5, .entry-thumb .kopa-rating, .entry-thumb .entry-view,
+.thumb-icon, .kopa-pagination ul li span.current, .kopa-pagination ul li a.current,
+.kopa-pagination ul li a.prev:hover, .kopa-pagination ul li a.next:hover,
+.kopa-pagination ul li:hover a, .kopa-pagination ul li.current a,
+.owl-theme .owl-controls.style2 .owl-buttons div:hover,
+.owl-theme .owl-controls.style3 .owl-buttons div:hover,
+.owl-theme .owl-controls.style3 .owl-pagination .owl-page.active span, 
+.owl-theme .owl-controls.style3 .owl-pagination .owl-page:hover span,
+.kopa-owl-prev > i:hover, .kopa-owl-next > i:hover, 
+.contact-box input#submit-contact, .contact-box input#submit-comment, 
+.contact-box textarea#submit-contact, .contact-box textarea#submit-comment, 
+.comment-box input#submit-contact, .comment-box input#submit-comment, 
+.comment-box textarea#submit-contact, .comment-box textarea#submit-comment,
+.contact-box label.error, .comment-box label.error, 
+.filters-options li.active, .filters-options li:hover, 
+.btn-add-to-cart:hover, .btn-detail:hover, 
+.widget_search .search-form .search-submit, .kopa-follow-widget a i,
+.h5-content, .order-num, .sale-icon, .new-icon, .entry-categories.style-s a,
+.kopa-post-review .rv-thumb, .kopa-tag-box span, .kopa-share-post ul li a:hover,
+#comments > h3, 
+#comments .comments-list .comment .comment-wrap .media-body > header .comment-button > a:hover, 
+.error-404 .left-col p, .scrollup, .scrollup:hover, .entry-thumb
+{
+    background: #f15c22; 
+}
+.panel-group.style1 .panel .panel-heading.active > .panel-title a .btn-title,
+.progress.bar-danger, .slider.slider-horizontal .slider-track, 
+.entry-thumb.style2:before,
+.kopa-pagination ul li span.current, .kopa-pagination ul li a.current,
+.kopa-pagination ul li a.prev:hover, .kopa-pagination ul li a.next:hover,
+.kopa-pagination ul li:hover a, .kopa-pagination ul li.current a,
+.owl-theme .owl-controls .owl-page.active span, 
+.owl-theme .owl-controls .owl-page:hover span,
+.contact-box input:focus, .contact-box textarea:focus, 
+.comment-box input:focus, .comment-box textarea:focus,
+.tagcloud a:hover, #bottom-sidebar .more-link:hover
+{
+  border-color: #f15c22;
+}
+.kopa-blockquote.style1, .entry-thumb > h5:before, .entry-thumb .kopa-rating:before,
+.filters-options li.active:before, .filters-options li:hover:before,
+.h5-content:before, .order-num:before{
+  border-top-color: #f15c22;
+}
+.kopa-header-bottom .header-bottom-wrap, .bottom-area-1{
+  border-bottom-color: #f15c22;
+}
+.kopa-blockquote.style2 {
+  border-left-color: #f15c22;
+}
+.progress, .filters-options li.active:after, .filters-options li:hover:after,
+.widget_search.style1 .search-form .search-submit:after{
+  border-right-color: #f15c22;
+}
+
+
+/*--- woocommerce ---*/   
+
+
+.woocommerce ul.products > li .price, .woocommerce ul.products li.product .price, 
+.woocommerce-page ul.products > li .price, 
+.woocommerce-page ul.products li.product .price, .woocommerce div.product p.price, 
+.woocommerce #content div.product p.price, .woocommerce div.product span.price, 
+.woocommerce #content div.product span.price, .woocommerce-page div.product p.price, 
+.woocommerce-page #content div.product p.price, 
+.woocommerce-page div.product span.price, 
+.woocommerce-page #content div.product span.price, .woocommerce a.button:before, 
+.woocommerce button.button:before, .woocommerce input.button:before, 
+.woocommerce input#submit:before, .woocommerce #content input.button:before, 
+.woocommerce .comment-box input#submit:before, 
+.woocommerce div.product form.cart .button:before, 
+.woocommerce #content div.product form.cart .button:before, 
+.woocommerce-page a.button:before, .woocommerce-page button.button:before, 
+.woocommerce-page input.button:before, .woocommerce-page input#submit:before, 
+.woocommerce-page #content input.button:before, 
+.woocommerce-page .comment-box input#submit:before,
+.woocommerce-page div.product form.cart .button:before, 
+.woocommerce-page #content div.product form.cart .button:before, 
+.woocommerce ul.cart_list > li ins, .woocommerce ul.product_list_widget > li ins, 
+.woocommerce-page ul.cart_list > li ins, 
+.woocommerce-page ul.product_list_widget > li ins, 
+.woocommerce .quantity, .woocommerce #content .quantity, 
+.woocommerce .widget_shopping_cart_content a.button:hover, 
+.woocommerce-page .quantity, .woocommerce-page #content .quantity, 
+.woocommerce-page .widget_shopping_cart_content a.button:hover,
+.woocommerce .widget_shopping_cart .total span, 
+.woocommerce-page .widget_shopping_cart .total span
+{
+    color: #f15c22;
+}
+
+
+.woocommerce ul.products > li .onsale, .woocommerce ul.products li.product .onsale, 
+.woocommerce-page ul.products > li .onsale, 
+.woocommerce-page ul.products li.product .onsale, 
+.woocommerce span.onsale, .woocommerce-page span.onsale, 
+.woocommerce input#submit:hover:hover, .woocommerce #respond input#submit:hover, 
+.woocommerce-page input#submit:hover:hover, 
+.woocommerce-page #respond input#submit:hover, .woocommerce a.button, 
+.woocommerce button.button, .woocommerce input.button, 
+.woocommerce input#submit, .woocommerce #content input.button, 
+.woocommerce .comment-box input#submit,
+.woocommerce div.product form.cart .button, 
+.woocommerce #content div.product form.cart .button, .woocommerce-page a.button, 
+.woocommerce-page button.button, .woocommerce-page input.button, 
+.woocommerce-page input#submit, .woocommerce-page #content input.button, 
+.woocommerce-page .comment-box input#submit,
+.woocommerce-page div.product form.cart .button, 
+.woocommerce-page #content div.product form.cart .button, .woocommerce a.button.alt, 
+.woocommerce button.button.alt, .woocommerce input.button.alt, 
+.woocommerce input#submit.alt, .woocommerce #content input.button.alt, 
+.woocommerce .comment-box input#submit.alt,
+.woocommerce div.product form.cart .button.alt, 
+.woocommerce #content div.product form.cart .button.alt, 
+.woocommerce-page a.button.alt, .woocommerce-page button.button.alt, 
+.woocommerce-page input.button.alt, .woocommerce-page input#submit.alt, 
+.woocommerce-page #content input.button.alt, .woocommerce-page 
+.comment-box input#submit.alt,
+.woocommerce-page div.product form.cart .button.alt, 
+.woocommerce-page #content div.product form.cart .button.alt, 
+.woocommerce nav.woocommerce-pagination ul li:hover a, 
+.woocommerce nav.woocommerce-pagination ul li.current a, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce #content nav.woocommerce-pagination ul li:hover a, 
+.woocommerce #content nav.woocommerce-pagination ul li.current a, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce-page nav.woocommerce-pagination ul li:hover a, 
+.woocommerce-page nav.woocommerce-pagination ul li.current a, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce-page #content nav.woocommerce-pagination ul li:hover a, 
+.woocommerce-page #content nav.woocommerce-pagination ul li.current a, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li.current a,
+.woocommerce nav.woocommerce-pagination ul li.current span, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li.current span, 
+.woocommerce #content nav.woocommerce-pagination ul li.current span, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li.current span, 
+.woocommerce-page nav.woocommerce-pagination ul li.current span, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li.current span, 
+.woocommerce-page #content nav.woocommerce-pagination ul li.current span, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li.current span,
+.woocommerce .woocommerce-message:before, .woocommerce .woocommerce-error:before, 
+.woocommerce .woocommerce-info:before, .woocommerce-page .woocommerce-message:before, 
+.woocommerce-page .woocommerce-error:before, 
+.woocommerce-page .woocommerce-info:before, 
+.woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover, 
+.woocommerce-page .quantity .plus:hover, .woocommerce-page .quantity .minus:hover, 
+.woocommerce.widget.widget_product_search form input[type="submit"], 
+.woocommerce-page.widget.widget_product_search form input[type="submit"], 
+.woocommerce .widget_price_filter .ui-slider .ui-slider-range, 
+.woocommerce-page .widget_price_filter .ui-slider .ui-slider-range 
+{
+  background: #f15c22;
+}
+.woocommerce nav.woocommerce-pagination ul li span.current, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li span.current
+{
+  background: #f15c22 !important;
+}
+.woocommerce nav.woocommerce-pagination ul li:hover a, 
+.woocommerce nav.woocommerce-pagination ul li.current a, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce #content nav.woocommerce-pagination ul li:hover a, 
+.woocommerce #content nav.woocommerce-pagination ul li.current a, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce-page nav.woocommerce-pagination ul li:hover a, 
+.woocommerce-page nav.woocommerce-pagination ul li.current a, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li.current a, 
+.woocommerce-page #content nav.woocommerce-pagination ul li:hover a, 
+.woocommerce-page #content nav.woocommerce-pagination ul li.current a, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li:hover a, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li.current a,
+.woocommerce nav.woocommerce-pagination ul li span.current, 
+.woocommerce nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce #content nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul li span.current, 
+.woocommerce-page #content nav.woocommerce-pagination ul.page-numbers li span.current, 
+.woocommerce .woocommerce-message, .woocommerce .woocommerce-error, 
+.woocommerce .woocommerce-info, .woocommerce-page .woocommerce-message, 
+.woocommerce-page .woocommerce-error, .woocommerce-page .woocommerce-info,
+.woocommerce form .form-row.validate-required.woocommerce-invalid .chzn-single, 
+.woocommerce form .form-row.validate-required.woocommerce-invalid .chzn-drop, 
+.woocommerce form .form-row.validate-required.woocommerce-invalid input.input-text, 
+.woocommerce form .form-row.validate-required.woocommerce-invalid select, 
+.woocommerce-page form .form-row.validate-required.woocommerce-invalid .chzn-single, 
+.woocommerce-page form .form-row.validate-required.woocommerce-invalid .chzn-drop, 
+.woocommerce-page form .form-row.validate-required.woocommerce-invalid input.input-text,
+.woocommerce-page form .form-row.validate-required.woocommerce-invalid select
+{
+    border-color: #f15c22;
+}
