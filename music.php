@@ -172,7 +172,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-6">
 
                             <h6 class="txt-up">accordion</h6>
-                            <p>Class aptent taciti sociosqu ad litora torquent per conubia nostra.</p>
+                            <p>Class aptent taciti sociosqu ad litora torquent per conubia notra.</p>
                             <div class="kopa-accordion">
                                 <div class="panel-group" id="accordion">
                                     <div class="panel panel-default">
