@@ -180,7 +180,7 @@
                                             <h4 class="panel-title">
                                                 <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne1">
                                                 <span class="btn-title"></span>
-                                                <span class="tab-title">Accordion 1</span>
+                                                <span class="tab-title">Accordion1</span>
                                                 </a>
                                             </h4>
                                         </div>
