@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
         <title>PHOTU - Music</title>
-        <meta name="description" content="Browse Music.">
+        <meta name="description" content="Browse Music">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
     
