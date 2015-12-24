@@ -13,14 +13,14 @@
 <div class="kopa-breadcrumb">
         <div class="wrapper clearfix">
             <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" href="#">
+                <a itemprop="url" href="/">
                     <span itemprop="title">Home</span>
                 </a>
             </span>
             &nbsp;|&nbsp;
             <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
                 <a itemprop="url" class="current-page">
-                    <span itemprop="title">element</span>
+                    <span itemprop="title">Music</span>
                 </a>
             </span>
         </div>
@@ -32,77 +32,20 @@
         <div class="wrapper">
 
             <div class="clearfix">
-                <h4 class="element-title">Buttons & Social Icons</h4>
+                <h4 class="element-title">Music</h4>
                 <div class="col-md-12 col-sm-12 element-wrap e-button">
                     <p>Nulla nunc dui, tristique in semper vel, congue sed ligula. Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque eget tempor tellus. Fusce lacinia tempor malesuada. Ut lacus sapien, placerat a ornare nec, elementum sit amet felis. Maecenas pretium lorem hendrerit eros sagittis fermentum.Nam dolor ligula, faucibus id sodales in, auctor fringilla libero. Pellentesque pellentesque eget tempor tellus</p>
                     <div class="row style1">
                     
                         <div class="col-md-6 col-sm-6 col-xs-6">
 
-                            <h6 class="txt-up">buttons</h6>
-                            <div class="button-wrap">
-                                <a href="#" class="kopa-button color-button color-blue">Button</a>
-                                <a href="#" class="kopa-button color-button color-green">Button</a>
-                                <a href="#" class="kopa-button color-button color-orange">Button</a>
-                                <a href="#" class="kopa-button color-button color-yellow">Button</a>
-                                <a href="#" class="kopa-button color-button color-green1">Button</a>
-                                <a href="#" class="kopa-button color-button color-green2">Button</a>
-                                <a href="#" class="kopa-button color-button color-red">Button</a>
-                                <a href="#" class="kopa-button color-button color-black">Button</a>
-                                <a href="#" class="kopa-button color-button color-pink">Button</a>
-                                <a href="#" class="kopa-button color-button color-purple">Button</a>
-                                <a href="#" class="kopa-button color-button color-green3">Button</a>
-                                <a href="#" class="kopa-button color-button color-brown1">Button</a>
-                                <a href="#" class="kopa-button color-button color-brown2">Button</a>
-                                <a href="#" class="kopa-button color-button color-grey1">Button</a>
-                                <a href="#" class="kopa-button color-button color-grey2">Button</a>
-                            </div>
-                        </div>
-                        <!-- col-md-6 -->
-
-                        <div class="col-md-6 col-sm-6 col-xs-6">
-
-                            <h6 class="txt-up">Social Icons</h6>
-                            <div class="kopa-social-links style1 clearfix mb-20 style-bg-color">
-                                <ul class="clearfix">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-pinterest"></a></li>
-                                    <li><a href="#" class="fa fa-google-plus"></a></li>
-                                    <li><a href="#" class="fa fa-rss"></a></li>
-                                    <li><a href="#" class="fa fa-tumblr"></a></li>
-                                    <li><a href="#" class="fa fa-youtube"></a></li>
-                                    <li><a href="#" class="fa fa-instagram"></a></li>
-                                    <li><a href="#" class="fa fa-vimeo-square"></a></li>
-                                    <li><a href="#" class="fa fa-dribbble"></a></li>
-                                </ul>
-                            </div>
-                            <div class="kopa-social-links style2 clearfix mb-20 style-bg-color">
-                                <ul class="clearfix">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-pinterest"></a></li>
-                                    <li><a href="#" class="fa fa-google-plus"></a></li>
-                                    <li><a href="#" class="fa fa-rss"></a></li>
-                                    <li><a href="#" class="fa fa-pinterest"></a></li>
-                                </ul>
-                            </div>
-                            <div class="kopa-social-links style3 clearfix style-bg-color">
-                                <ul class="clearfix">
-                                    <li><a href="#" class="fa fa-facebook"></a></li>
-                                    <li><a href="#" class="fa fa-twitter"></a></li>
-                                    <li><a href="#" class="fa fa-pinterest"></a></li>
-                                </ul>
-                            </div>
+                            
 
 
                         </div>
-                        <!-- col-md-6 -->
                     
                     </div>
-                    <!-- row --> 
                 </div>
-                <!-- e-heading -->
             </div>
 
             <div class="clearfix">
