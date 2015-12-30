@@ -20,7 +20,7 @@
                         <li class="ms-item1 size1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
-                                    <img src="/images/index/top-most/themed/standardxmas.jpg" alt="">
+                                    <img src="/images/index/top-most/themed/happynewyear.jpg" alt="">
                                 </div>
                             </article>
                         </li>
