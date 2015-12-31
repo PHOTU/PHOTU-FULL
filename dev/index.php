@@ -13,20 +13,17 @@
 
         <div class="wrapper">
 
-            <div class="widget-area-5">
-
-                <div class="widget kopa-masonry-widget">
-                    <ul class="kopa-masonry-wrap">
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
+                    <ul>
+                        <li>
+                                <div>
                                     <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success.png" alt=""></a>
                                 </div>
-                            </article>
                         </li>
                    
                     </ul>
-                </div>
+        </div>
+
+        
                 <!-- widget --> 
 
                 <!--<div class="widget kopa-ads-1-widget">
