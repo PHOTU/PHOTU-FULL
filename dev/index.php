@@ -24,6 +24,7 @@
         </div>
 
     </div>
+</div>
                 <!-- widget --> 
 
                 <!--<div class="widget kopa-ads-1-widget">
