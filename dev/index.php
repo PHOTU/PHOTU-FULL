@@ -17,63 +17,14 @@
 
                 <div class="widget kopa-masonry-widget">
                     <ul class="kopa-masonry-wrap">
-                        
-
-                        <!-- Choose the main left graphic -->
-                        <li class="ms-item1 size1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <img src="/images/index/top-most/themed/happynewyear.jpg" alt="">
-                                </div>
-                            </article>
-                        </li>
-                        <!-- End main graphic -->
-
-
                         <li class="ms-item1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
-                                    <a href="https://www.facebook.com/officialphotu" target="_blank"><img src="/images/index/top-most/facebook.png" alt=""></a>
+                                    <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="/categories/general/2016-changes/"><img src="/images/index/top-most/themed/2016.jpg" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li> 
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>                         
-                        <li class="ms-item1 size1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <img src="/images/index/top-most/themed/happynewyear.jpg" alt="">
-                                </div>
-                            </article>
-                        </li>
-
-                    
+                   
                     </ul>
                 </div>
                 <!-- widget --> 
@@ -124,7 +75,7 @@
                 <div class="widget kopa-categories-widget">
                     <h3 class="widget-title style3">Staff Message</span></h3>
                     <div class="pd-20">
-                        <div class="">
+                        <div class="owl-carousel owl-carousel-1">
 
 
 <!-- Add content here -->
@@ -167,6 +118,13 @@
                             <h3 class="widget-title style3">Latest Entries</h3>
                             <div class="pd-20">
                                 <ul class="row clearfix">
+                                    <li class="col-md-4 col-sm-4 col-xs-4">
+                                        <article class="entry-item last-item">
+                                            <div class="entry-thumb style1">
+                                                <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success-latest-entry.png" alt=""></a>
+                                            </div>
+                                        </article>
+                                    </li>
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">

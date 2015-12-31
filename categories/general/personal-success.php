@@ -74,7 +74,9 @@
 
                                 <h3>Life's far too short. Simple as that.</h3>
                                 <p>You want to buy that item? Do it.<br>As long as your decisions don't affect anyone in any form then do it, don't live with a regret hanging over your shoulder. Turn up the music and get
-                                    cracking on that personal project you've been dreaming of. You shape your future, decide your fate. When you drop to your lowest form, remember, you will always have yourself.</p>
+                                    cracking on with that personal project you've been dreaming of. You shape your future, decide your fate. When you drop to your lowest form, remember, you will always have yourself.</p>
+
+                                <p>I'd love to hear your own thoughts on personal success, if you have anything to share be sure to drop a comment down below!<br></p>
 
                         <p>
                             
