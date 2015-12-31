@@ -17,6 +17,9 @@
 
                 <div class="widget kopa-masonry-widget">
                     <ul class="kopa-masonry-wrap">
+                        
+
+                        <!-- Choose the main left graphic -->
                         <li class="ms-item1 size1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
@@ -24,6 +27,9 @@
                                 </div>
                             </article>
                         </li>
+                        <!-- End main graphic -->
+
+
                         <li class="ms-item1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
@@ -38,7 +44,7 @@
                                 </div>
                             </article>
                         </li>
-                        <!--<li class="ms-item1">
+                        <li class="ms-item1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
                                     <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
@@ -51,7 +57,7 @@
                                     <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
                                 </div>
                             </article>
-                        </li>-->                     
+                        </li>                     
                     </ul>
                 </div>
                 <!-- widget --> 
