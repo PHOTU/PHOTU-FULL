@@ -20,7 +20,7 @@ Tags: light, one-column, two-columns, right-sidebar, fluid-layout, custom-header
     1.4 - Basic Structure
 2. - Header / .kopa-header
     2.1 - Navigation / .main-nav
-    2.2 - Search / .sb-search-wrappe
+    2.2 - Search / .sb-search-wrapper
 3. - Content
     3.1 - Widget
     3.2 - Home Page
@@ -943,9 +943,10 @@ blockquote {
     line-height: 20px; }
 
 .color-button {
-  color: #fff; }
+  color: #fff;
+  background: #00c5fe }
   .color-button.color-blue {
-    background: #0099cc; }
+    background: #00c5fe; }
   .color-button.color-green {
     background: #7dc34d; }
   .color-button.color-orange {
@@ -959,7 +960,7 @@ blockquote {
   .color-button.color-green2 {
     background: #0fbe7c; }
   .color-button.color-red {
-    background: #ea2e2b; }
+    background: #00c5fe; }
   .color-button.color-black {
     background: #3b3b3b; }
   .color-button.color-pink {
