@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-        <title>PHOTU - 2016 Changes</title>
-        <meta name="description" content="We take a look through our planned changes for 2016.">
+        <title>PHOTU - Personal Success</title>
+        <meta name="description" content="We take a look at how personal succcess affects us.">
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
 
@@ -27,7 +27,7 @@
             &nbsp;|&nbsp;
             <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
                 <a itemprop="url" class="current-page">
-                    <span itemprop="title">2016 Changes</span>
+                    <span itemprop="title">Personal Success</span>
                 </a>
             </span>
         </div>
@@ -56,25 +56,10 @@
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 20, 2015</span>
                                 </div>
                                 <div class="entry-thumb">
-                                    <img src="/images/categories/general/2016-changes/2016-changes.jpg" alt="">
+                                    <img src="/images/categories/general/personal-success/personal-success.png" alt="">
                                 </div>  
-                                <p>You can expect.. </p>
-                                
-
-                        <div class="clearfix">
-                            <h4 class="element-title">2016 Changes</h4>
-                            <div class="col-md-12 col-sm-12 element-wrap e-list">
-                                <div class="">   
-                                    <div class="col-md-12 col-sm-12 col-xs-12">
-                                        <ul class="kopa-e-list">
-                                            <li><span class="fa fa-check"></span>CSS Updates including new flexible content areas</li>
-                                            <li><span class="fa fa-check"></span>Content submission area</li>
-                                            <li><span class="fa fa-check"></span>Comments section for each entry</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
+                                <p>.. </p>
+                            
 
                         <p>
                             

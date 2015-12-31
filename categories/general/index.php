@@ -40,6 +40,7 @@
 
                     <!-- ADD ENTRIES HERE -->
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/general/entry-list/2016-changes.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/general/personal-success.php' ); ?>
                         
                     <!-- END OF ENTRIES LIST -->
 

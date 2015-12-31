@@ -148,6 +148,13 @@
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
+                                                <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success-latest-entry.png" alt=""></a>
+                                            </div>
+                                        </article>
+                                    </li>
+                                    <li class="col-md-4 col-sm-4 col-xs-4">
+                                        <article class="entry-item last-item">
+                                            <div class="entry-thumb style1">
                                                 <a href="/categories/technology/matty-gale-youtube/"><img src="/images/index/latest-entries/matty-gale.png" alt=""></a>
                                             </div>
                                         </article>
