@@ -58,13 +58,15 @@
                                 </div>
                             </article>
                         </li> 
-                        <li class="ms-item1">
+                        
+                        <li class="ms-item1 size1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
+                                    <img src="/images/index/top-most/themed/happynewyear.jpg" alt="">
                                 </div>
                             </article>
                         </li>
+
                         <li class="ms-item1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
