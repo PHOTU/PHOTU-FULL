@@ -61,8 +61,20 @@
 
 
                                 <h1>This is the sound of chasing dreams..</h1> 
-                                <p>..</p>
-                            
+
+                                <p>Sometimes in life you'll have to make choices, the earlier the better in this case. When was the last time you sat in your office, got to your building site or other place of work and could
+                                    happily walk the other way without a care in the world. Chances are if you're young - that this wasn't too long ago once you think about it. You need a car, a job, expensive items? What about happiness.</p>
+
+                                </p>In our busy lives we forget how happiness is the most important thing of all, something which can build or break us as humans. Walking into a new year doesn't have to be about
+                                decreasing the amount of chocolate you eat, you can change yourself. Do something for yourself, find your inner happiness. In this case my happiness was found with web-development.</p>
+
+                                </p>Sure, I'm far from great at it but I push myself to learn more and more each day and discover new ways of displaying my thoughts onto the web. Personal success isn't about who has
+                                the best university degree, job, car and home. Discover your personal success by living each day as it comes, whether you're a gamer, an artist, even a clothes designer. We shape our own
+                                futures and we decide where we go.</p>
+
+                                <h3>Life's far too short. Simple as that.</h3>
+                                <p>You want to buy that item? Do it.<br>As long as your decisions don't affect anyone in any form then do it, don't live with a regret hanging over your shoulder. Turn up the music and get
+                                    cracking on that personal project you've been dreaming of. You shape your future, decide your fate. When you drop to your lowest form, remember, you will always have yourself.</p>
 
                         <p>
                             
