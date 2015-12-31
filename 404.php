@@ -14,7 +14,7 @@
         <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/woocommerce.css" media="all" />
-        <link rel="stylesheet" type="text/css" href="/style-red.css">
+        <link rel="stylesheet" type="text/css" href="/style-blue.css">
         
         <script src="/js/modernizr.custom.js"></script>
 
