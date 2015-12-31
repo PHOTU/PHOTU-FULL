@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/general/personal-success/"><img src="/images/index/top-most/personal-success.png" alt=""></a>
+                                    <a href="/categories/general/personal-success/"><img src="/images/index/top-most/personalsuccess.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
