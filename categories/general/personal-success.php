@@ -57,7 +57,10 @@
                                 </div>
                                 <div class="entry-thumb">
                                     <img src="/images/categories/general/personal-success/personal-success.png" alt="">
-                                </div>  
+                                </div> 
+
+
+                                <h1>This is the sound of chasing dreams..</h1> 
                                 <p>..</p>
                             
 

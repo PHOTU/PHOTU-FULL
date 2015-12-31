@@ -2,7 +2,7 @@
                                 <article class="entry-item video-post">
                                     <div class="pd-20">
                                         <div class="entry-thumb style1">
-                                            <a href="/categories/general/personal-sucess"><img src="/images/index/latest-entries/personal-success.png" alt=""></a>
+                                            <a href="/categories/general/personal-success"><img src="/images/index/latest-entries/personal-success.png" alt=""></a>
                                             <h5><a href="#">New</a></h5>
                                             <a class="" href="#"></a>
                                         </div>
