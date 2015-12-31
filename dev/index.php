@@ -58,7 +58,13 @@
                                 </div>
                             </article>
                         </li> 
-                        
+                        <li class="ms-item1">
+                            <article class="entry-item">
+                                <div class="entry-thumb">
+                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
+                                </div>
+                            </article>
+                        </li>                         
                         <li class="ms-item1 size1">
                             <article class="entry-item">
                                 <div class="entry-thumb">
@@ -67,13 +73,7 @@
                             </article>
                         </li>
 
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>                     
+                    
                     </ul>
                 </div>
                 <!-- widget --> 
