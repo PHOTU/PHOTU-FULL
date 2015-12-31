@@ -15,43 +15,18 @@
 
             <div class="widget-area-5">
 
-                <div class="widget kopa-masonry-widget">
-                    <ul class="kopa-masonry-wrap">
-                        <li class="ms-item1 size1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <img src="/images/index/top-most/themed/happynewyear.jpg" alt="">
+                <div class="widget kopa-masonry-widget" align="centre">
+                    <ul class="">
+
+
+                        <li class="1">
+                            <article class="">
+                                <div class="">
+                                    <a href="/categories/general/personal-success/"><img src="/images/index/top-most/personalsuccess.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="https://www.facebook.com/officialphotu" target="_blank"><img src="/images/index/top-most/facebook.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="/categories/general/2016-changes/"><img src="/images/index/top-most/themed/2016.jpg" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-                        <!--<li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-                        <li class="ms-item1">
-                            <article class="entry-item">
-                                <div class="entry-thumb">
-                                    <a href="#"><img src="/images/index/top-most/example.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>-->                     
+                   
                     </ul>
                 </div>
                 <!-- widget --> 
