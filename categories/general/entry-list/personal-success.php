@@ -7,7 +7,7 @@
                                             <a class="" href="#"></a>
                                         </div>
                                         <div class="entry-content">
-                                            <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><a itemprop="name" href="/categories/general/personal-sucess">Personal Success</a></h4>
+                                            <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><a itemprop="name" href="/categories/general/personal-success">Personal Success</a></h4>
                                             <div class="entry-meta">
                                                 <a href="#">
                                                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
