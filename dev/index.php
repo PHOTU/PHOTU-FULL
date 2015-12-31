@@ -15,12 +15,14 @@
 
             <div class="widget-area-5">
 
-                <div class="widget kopa-masonry-widget">
+                <div class="widget kopa-masonry-widget" align="centre">
                     <ul class="">
+
+
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success.png" alt=""></a>
+                                    <a href="/categories/general/personal-success/"><img src="/images/index/top-most/personal-success.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
