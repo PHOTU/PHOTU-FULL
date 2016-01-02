@@ -65,13 +65,13 @@
 
                                 <p>Content removed to be edited - hold on there!</p>
 
-                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+                        <div class="col-md-6 col-sm-6 col-xs-6">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
                             <div class="kopa-tab style1">
                                 <ul class="nav nav-tabs">
                                     <li class="active"><a href="#e-hip-hop" data-toggle="tab">Hip Hop</a></li>
-                                    <li><a href="#e-hip-hop" data-toggle="tab">second tab</a></li>
+                                    <li><a href="#e-tab22" data-toggle="tab">second tab</a></li>
                                     <li><a href="#e-tab23" data-toggle="tab">third tab</a></li>
                                 </ul>
                                 <div class="tab-content">
