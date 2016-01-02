@@ -15,7 +15,7 @@
                                                 &nbsp;|&nbsp;
                                                 <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 2, 2016</span>
                                             </div>
-                                            <p>We explain how turning up the music can benefit you, more than you think too..</p> 
+                                            <p>Turn up the music with our latest favourites!</p> 
                                         </div>
                                     </div>
                                     <footer class="entry-footer">

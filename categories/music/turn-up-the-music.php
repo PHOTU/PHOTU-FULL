@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
         <title>PHOTU - Turn Up The Music</title>
-        <meta name="description" content="Why does turning up the music actually help you focus?">
+        <meta name="description" content="Turn up the music with our latest favourites!">
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
 
@@ -47,7 +47,7 @@
                         <div class="pd-20 kopa-entry-post">
                             <article class="entry-item">
                                 <p class="entry-categories style-s"><a href="/categories/music">music</a></p>
-                                <h4 class="entry-title">Turn Up The Music - It'll help you focus! ..right?</h4>
+                                <h4 class="entry-title">Turn Up The Music - Here's our latest favourites!</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
                                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?> 
@@ -64,6 +64,8 @@
                                 <!-- Add Content -->
 
                                 <p>Content removed to be edited - hold on there!</p>
+
+                                <iframe src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
 
                                 <!-- End Content -->
 
