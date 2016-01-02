@@ -40,6 +40,8 @@
 
                     <!-- ADD ENTRIES HERE -->
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/spotify-feature.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/turn-up-the-music.php' ); ?>
+
                         
                     <!-- END OF ENTRIES LIST -->
 

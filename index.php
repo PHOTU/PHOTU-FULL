@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/general/personal-success/"><img src="/images/index/top-most/personalsuccess.png" alt=""></a>
+                                    <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -117,7 +117,7 @@
                     <div class="widget-area-13">
 
                         <div class="widget kopa-article-list-widget article-list-6">
-                            <h3 class="widget-title style3">Latest Entries</h3>
+                            <h3 class="widget-title style3">Browse Some Entries</h3>
                             <div class="pd-20">
                                 <ul class="row clearfix">
                                     <li class="col-md-4 col-sm-4 col-xs-4">
