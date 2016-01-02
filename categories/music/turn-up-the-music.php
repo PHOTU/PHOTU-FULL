@@ -75,7 +75,7 @@
                                     <li><a href="#e-3" data-toggle="tab">Electronic</a></li>
                                 </ul>
                                 <div class="tab-content">
-                                    <div class="tab-pane active" id="2">
+                                    <div class="tab-pane active" id="e-tab1">
                                         <p>
                                         <ul class="kopa-e-list list-order">
                                             <li><i class="order-num">01</i>.</li>
@@ -86,10 +86,10 @@
                                         </ul>
                                             .</p>     
                                     </div>
-                                    <div class="tab-pane" id="2">
+                                    <div class="tab-pane" id="e-tab2">
                                         <p>.</p>
                                     </div>
-                                    <div class="tab-pane" id="3">
+                                    <div class="tab-pane" id="e-tab3">
                                         <p>.</p>     
                                     </div>
                                 </div>
