@@ -65,7 +65,37 @@
 
                                 <p>Content removed to be edited - hold on there!</p>
 
-                                <iframe src="https://embed.spotify.com/?uri=spotify:album:2Q8wRJgpoGNL8YliCCBrLH&view=coverart" width="1179" height="750" frameborder="0" allowtransparency="true"></iframe>
+                                                        <div class="col-md-6 col-sm-6 col-xs-6">
+
+                            <h6 class="txt-up">Pick through our selections..</h6>
+                            <div class="kopa-tab style1">
+                                <ul class="nav nav-tabs">
+                                    <li class="active"><a href="#e-hip-hop" data-toggle="tab">Hip Hop</a></li>
+                                    <li><a href="#e-hip-hop" data-toggle="tab">second tab</a></li>
+                                    <li><a href="#e-tab23" data-toggle="tab">third tab</a></li>
+                                </ul>
+                                <div class="tab-content">
+                                    <div class="tab-pane active" id="e-hip-hop">
+                                        <p>
+                                        <ul class="kopa-e-list list-order">
+                                            <li><i class="order-num">01</i>Amazing bonus parallax Folutpat tempor tur duis mattis dapibus sections</li>
+                                            <li><i class="order-num">02</i>Ultra responsive &amp; Folutpat tempor tur duis mattis dapibus Retina ready</li>
+                                            <li><i class="order-num">03</i>Computers Folutpat tempor tur duis mattis dapibus &amp; Accessories</li>
+                                            <li><i class="order-num">04</i>Rocknrolla helpdesk system Folutpat tempor tur duis mattis dapibus of help</li>
+                                            <li><i class="order-num">05</i>Endless possibilities in Folutpat tempor tur duis mattis dapibus custom backend</li>
+                                        </ul>
+                                            Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent </p>     
+                                    </div>
+                                    <div class="tab-pane" id="e-tab22">
+                                        <p> vel illum dolore eu feugiat nulla facilisis at vero eros et Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, accumsan et iusto odio dignissim qui blandit praesent </p>
+                                    </div>
+                                    <div class="tab-pane" id="e-tab23">
+                                        <p>illum dolore eu feugiat nulla facilisis at vero eros et Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, accumsan et iusto odio dignissim qui blandit praesent </p>     
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
 
                                 <!-- End Content -->
 
@@ -99,7 +129,7 @@
 <!-- ADD IN REVELANT ARTICLES -->
 
                     <div class="widget kopa-article-list-widget article-list-23">
-                        <h3 class="widget-title style3"> related <span>reviews</span></h3>
+                        <h3 class="widget-title style3"> related <span>entries</span></h3>
                         <div class="pd-20">
                             <ul class="clearfix">
                                 
