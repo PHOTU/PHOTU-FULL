@@ -65,11 +65,7 @@
 
                                 <p>Content removed to be edited - hold on there!</p>
 
-                                <iframe class="spotify-widget" src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-                                <iframe src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-                                <iframe src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-                                <iframe src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
-                                <iframe src="https://embed.spotify.com/?uri=spotify:track:5bFE7Lbp7ZMGXuwZEEICPC" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+                                <iframe src="https://embed.spotify.com/?uri=spotify:album:2Q8wRJgpoGNL8YliCCBrLH&view=coverart" width="1179" height="750" frameborder="0" allowtransparency="true"></iframe>
 
                                 <!-- End Content -->
 
