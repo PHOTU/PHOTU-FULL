@@ -97,9 +97,9 @@
                         <h3 class="widget-title style2">Patch Notes</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>Version 1.7.6</p>
-                                <p>Released 23rd December 2015</p>
-                                <p>Bug fixes & improvements</p>
+                                <p>Version 1.8.4</p>
+                                <p>Released 2nd January 2016</p>
+                                <p>Entry additions and general new years clean-up.</p>
                             </li>
                         </ul>
                     </div>
