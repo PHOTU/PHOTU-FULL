@@ -1277,6 +1277,10 @@ iframe {
   width: 100%;
   border: none; }
 
+.spotify-widget {
+  border: none; }
+
+
 label {
   font-weight: 400; }
 
