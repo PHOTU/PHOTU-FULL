@@ -63,7 +63,7 @@
 
                                 <!-- Add Content -->
 
-                                <p>..</p>
+                                <p>Content removed to be edited - hold on there!</p>
 
                                 <!-- End Content -->
 
