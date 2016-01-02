@@ -63,34 +63,34 @@
 
                                 <!-- Add Content -->
 
-                                <p>Content removed to be edited - hold on there!</p>
+                                <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
                             <div class="kopa-tab style1">
                                 <ul class="nav nav-tabs">
-                                    <li class="active"><a href="#e-hip-hop" data-toggle="tab">Hip Hop</a></li>
-                                    <li><a href="#e-tab22" data-toggle="tab">second tab</a></li>
-                                    <li><a href="#e-tab23" data-toggle="tab">third tab</a></li>
+                                    <li class="active"><a href="#1" data-toggle="tab">Hip Hop</a></li>
+                                    <li><a href="#e-2" data-toggle="tab">Screamo</a></li>
+                                    <li><a href="#e-3" data-toggle="tab">Electronic</a></li>
                                 </ul>
                                 <div class="tab-content">
-                                    <div class="tab-pane active" id="e-hip-hop">
+                                    <div class="tab-pane active" id="2">
                                         <p>
                                         <ul class="kopa-e-list list-order">
-                                            <li><i class="order-num">01</i>Amazing bonus parallax Folutpat tempor tur duis mattis dapibus sections</li>
-                                            <li><i class="order-num">02</i>Ultra responsive &amp; Folutpat tempor tur duis mattis dapibus Retina ready</li>
-                                            <li><i class="order-num">03</i>Computers Folutpat tempor tur duis mattis dapibus &amp; Accessories</li>
-                                            <li><i class="order-num">04</i>Rocknrolla helpdesk system Folutpat tempor tur duis mattis dapibus of help</li>
-                                            <li><i class="order-num">05</i>Endless possibilities in Folutpat tempor tur duis mattis dapibus custom backend</li>
+                                            <li><i class="order-num">01</i>.</li>
+                                            <li><i class="order-num">02</i>.</li>
+                                            <li><i class="order-num">03</i>.</li>
+                                            <li><i class="order-num">04</i>.</li>
+                                            <li><i class="order-num">05</i>.</li>
                                         </ul>
-                                            Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent </p>     
+                                            .</p>     
                                     </div>
-                                    <div class="tab-pane" id="e-tab22">
-                                        <p> vel illum dolore eu feugiat nulla facilisis at vero eros et Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, accumsan et iusto odio dignissim qui blandit praesent </p>
+                                    <div class="tab-pane" id="2">
+                                        <p>.</p>
                                     </div>
-                                    <div class="tab-pane" id="e-tab23">
-                                        <p>illum dolore eu feugiat nulla facilisis at vero eros et Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, accumsan et iusto odio dignissim qui blandit praesent </p>     
+                                    <div class="tab-pane" id="3">
+                                        <p>.</p>     
                                     </div>
                                 </div>
                             </div>
