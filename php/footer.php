@@ -129,7 +129,7 @@
         
         <div class="wrapper clearfix">
 
-            <p id="copyright" class="">Copyright © 2015 - Managed By <a href="#">Adam Burdass</a></p>
+            <p id="copyright" class="">Copyright © 2016 - Managed By <a href="#">Adam Burdass</a></p>
 
         </div>
         <!-- wrapper -->
