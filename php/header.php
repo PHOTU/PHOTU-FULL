@@ -22,7 +22,7 @@
             <div class="wrapper">
 
                 <div class="kopa-logo">
-                    <a href="/"><img src="/images/logo-red.png" alt="logo"></a>
+                    <a href="/"><img src="/images/logo.png" alt="logo"></a>
                 </div>
                 <!-- logo -->
 
