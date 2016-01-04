@@ -1379,7 +1379,7 @@ img {
 
 /*--- Header top ---*/
 .kopa-header-top {
-  background: #32323c; }
+  background: #f44336; }
   .kopa-header-top .wrapper {
     position: relative; }
 
@@ -1395,7 +1395,7 @@ img {
 .ticker-swipe {
   position: absolute;
   top: 0px;
-  background-color: #32323c;
+  background-color: #f44336;
   display: block;
   width: 800px;
   height: 42px;
@@ -1403,7 +1403,7 @@ img {
 
 .ticker-swipe span {
   margin-left: 1px;
-  background-color: #32323c;
+  background-color: #f44336;
   border-bottom: 1px solid #ededed;
   height: 27px;
   width: 8px;
