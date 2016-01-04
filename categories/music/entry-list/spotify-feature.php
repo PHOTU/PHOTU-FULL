@@ -2,7 +2,7 @@
                                 <article class="entry-item video-post">
                                     <div class="pd-20">
                                         <div class="entry-thumb style1">
-                                            <a href="/categories/music/spotify-feature"><img src="/images/categories/music/spotify/spotifylisting.png" alt=""></a>
+                                            <a href="/categories/music/spotify-feature"><img src="/images/categories/music/spotify/spotifymain.png" alt=""></a>
                                             <h5><a href="#">New</a></h5>
                                             <a class="" href="#"></a>
                                         </div>
