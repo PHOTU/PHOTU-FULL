@@ -123,21 +123,21 @@
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
-                                                <a href="/categories/music/turn-up-the-music/"><img src="/images/categories/music/turn-up-the-music/turn-up-the-music-latest-entry.png" alt=""></a>
+                                                <a href="/categories/music/turn-up-the-music/"><img src="/images/categories/music/turn-up-the-music/turn-up-the-music.png" alt=""></a>
                                             </div>
                                         </article>
                                     </li>
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
-                                                <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success-latest-entry.png" alt=""></a>
+                                                <a href="/categories/general/personal-success/"><img src="/images/categories/general/personal-success/personal-success.png" alt=""></a>
                                             </div>
                                         </article>
                                     </li>
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
-                                                <a href="/categories/technology/matty-gale-youtube/"><img src="/images/index/latest-entries/matty-gale.png" alt=""></a>
+                                                <a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
                                             </div>
                                         </article>
                                     </li>
@@ -151,7 +151,7 @@
                                      <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
-                                                <a href="/categories/general/2016-changes/"><img src="/images/categories/general/2016-changes/2016-changes-latest-entry.jpg" alt=""></a>
+                                                <a href="/categories/general/2016-changes/"><img src="/images/categories/general/2016-changes/2016-changes.jpg" alt=""></a>
                                             </div>
                                         </article>
                                     </li>
