@@ -10,7 +10,7 @@
         <link rel="stylesheet" type="text/css" href="/css/jquery.navgoco.css"/>
         <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css" media="all" />
-        <link rel="stylesheet" type="text/css" href="/style-blue.css">
+        <link rel="stylesheet" type="text/css" href="/style-red.css">
         
         <script src="/js/modernizr.custom.js"></script>
 
