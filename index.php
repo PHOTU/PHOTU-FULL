@@ -144,7 +144,7 @@
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
-                                                <a href="/categories/music/spotify-feature/"><img src="/images/categories/music/spotify/latestentry-spotify.png" alt=""></a>
+                                                <a href="/categories/music/spotify-feature/"><img src="/images/categories/music/spotify/spotifymain.png" alt=""></a>
                                             </div>
                                         </article>
                                     </li>
