@@ -6,7 +6,7 @@
 
                 <div class="header-top-left">
 
-                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tickerlist.php' ); ?>
+                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tickerlis.php' ); ?>
 
                 </div> 
                 <!-- header-top-left -->     
