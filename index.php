@@ -23,7 +23,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover-matty.png" alt=""></a>
+                                    <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover2.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
