@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
         <title>PHOTU</title>
-        <meta name="description" content="Welcome to PHOTU - Entries and updates submitted by you">
+        <meta name="description" content="Welcome to PHOTU - Entries and updates submitted by you.">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
 
