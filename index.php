@@ -23,7 +23,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
+                                    <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/cover1.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
