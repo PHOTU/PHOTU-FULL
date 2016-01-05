@@ -17,7 +17,7 @@
                             <ul class="sub-menu">
                                 <li><a href="categories4.html">food</a></li>
                                 <li><a href="categories3.html">global</a></li>
-                            </ul>   
+                            </ul>
                         </li>
                         <li><a href="categories2.html">food</a></li>
                         <li><a href="categories3.html">global</a></li>
@@ -25,7 +25,7 @@
                         <li><a href="categories4.html">reviews</a></li>
                         <li><a href="categories1.html">shop</a></li>
                         <li><a href="categories2.html">technology</a></li>-->
-                    </ul>                
+                    </ul>
                 </nav>
                 <!--/end bottom-nav-->
 
@@ -52,19 +52,19 @@
                             </li>
                         </ul>
                     </div>
-                    <!-- widget --> 
+                    <!-- widget -->
 
                     <div class="widget kopa-ads-widget">
                         <h3 class="widget-title style2"></h3>
                         <a href="#"><img src="" alt=""></a>
                     </div>
-                    <!-- widget --> 
+                    <!-- widget -->
 
                     <div class="widget widget_text">
                         <p></p>
                     </div>
-                    <!-- widget --> 
-                
+                    <!-- widget -->
+
                 </div>
                 <!-- widget-area-1 -->
 
@@ -80,12 +80,12 @@
                                 <li><span class="fa fa-hand-o-right"></span><a href="/categories/general/2016-changes/"> 2016 Changes</a><li>
 
 
-                                
+
                             </ul>
                         </ul>
                     </div>
-                    <!-- widget --> 
-                
+                    <!-- widget -->
+
                 </div>
                 <!-- widget-area-2 -->
 
@@ -103,7 +103,7 @@
                             </li>
                         </ul>
                     </div>
-                    <!-- widget --> 
+                    <!-- widget -->
 
                     <!--<div class="widget widget_text">
                         <h3 class="widget-title style2">Latest Editor Quote</h3>
@@ -111,14 +111,14 @@
                             <p>Creativity Is Key.</span>
                         </blockquote>
                     </div>-->
-                    <!-- widget --> 
-                
+                    <!-- widget -->
+
                 </div>
                 <!-- widget-area-4 -->
 
             </div>
             <!-- bottom-area-2 -->
-        
+
         </div>
         <!-- wrapper -->
 
@@ -126,7 +126,7 @@
     <!-- bottom-sidebar -->
 
     <footer id="kopa-footer">
-        
+
         <div class="wrapper clearfix">
 
             <p id="copyright" class="">Copyright © 2016 - Managed By <a href="#">Adam Burdass</a></p>
@@ -138,9 +138,8 @@
     <!-- kopa-footer -->
 
 
-    <script src="/js/jquery-1.11.2.min.js"></script> 
+    <script src="/js/jquery-1.11.2.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/custom.js" charset="utf-8"></script>
     <script src="/js/superfish.min.js"></script> 
-
-
+    <script src="/js/image-rotation/cover.js"></script>
