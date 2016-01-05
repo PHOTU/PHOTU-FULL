@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
         <title>PHOTU</title>
-        <meta name="description" content="Welcome to PHOTU - The New Network">
+        <meta name="description" content="Welcome to PHOTU - Entries and updates submitted by you.">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
-    
+
 <body class="kopa-home-page">
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/header.php' ); ?>
@@ -26,16 +26,16 @@
                                 </div>
                             </article>
                         </li>
-                   
+
                     </ul>
                 </div>
-                <!-- widget --> 
+                <!-- widget -->
 
                 <!--<div class="widget kopa-ads-1-widget">
                     <a href="#"><img src="/images/banners/example.png" alt=""></a>
                 </div>-->
-                <!-- widget --> 
-            
+                <!-- widget -->
+
             </div>
             <!-- widget-area-5 -->
 
@@ -63,7 +63,7 @@
                         <!-- owl-carousel-1 -->
                     </div>
                 </div>
-                <!-- widget --> 
+                <!-- widget -->
 
 
 
@@ -93,7 +93,7 @@
                         <!-- owl-carousel-1 -->
                     </div>
                 </div>
-                <!-- widget --> 
+                <!-- widget -->
 
 
 
@@ -101,7 +101,7 @@
 
 
 
-            
+
             </div>
             <!-- widget-area-8 -->
 
@@ -111,7 +111,7 @@
 
                                 <!-- INCLUDE REVIEWS -->
                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/index-reviews/.php' ); ?>
-                    
+
 
 
                     <div class="widget-area-13">
@@ -165,22 +165,22 @@
                                 </ul>
                             </div>
                         </div>
-                        <!-- widget --> 
-                    
+                        <!-- widget -->
+
                     </div>
                     <!-- widget-area-11 -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/.php' ); ?>
 
-            
+
                 </div>
                 <!-- widget-area-12 -->
-            
+
             </div>
-            <!-- row --> 
+            <!-- row -->
 
             <!--<div class="widget-area-13">
 
@@ -280,21 +280,21 @@
                         </li>
                     </ul>
                 </div>
-                <!-- widget --> 
-            
+                <!-- widget -->
+
             </div>
             <!-- widget-area-13 -->
 
-            
+
                 <!-- kopa-main-col -->
-                   
-            
+
+
                 </div>
                 <!-- sidebar -->
-            
+
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -302,7 +302,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>
