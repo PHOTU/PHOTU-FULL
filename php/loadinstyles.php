@@ -11,7 +11,7 @@
         <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/style-blue.css">
-        <?php include_once("analyticstracking.php") ?>
+        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/analyticstracking.php' ); ?>
 
         <script src="/js/modernizr.custom.js"></script>
 
