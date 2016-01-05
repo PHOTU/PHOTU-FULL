@@ -23,9 +23,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-
-                                  <layer id="cover"></layer><div id="coverdiv"></div>
-                                    <!--<a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover-matty.jpg" alt=""></a>-->
+                                    <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover-matty.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -175,6 +173,33 @@
 
                 </div>
                 <!-- kopa-main-col -->
+
+
+
+
+                <div class="widget kopa-masonry-widget" align="centre">
+                    <ul class="">
+
+
+                        <li class="1">
+                            <article class="">
+                                <div class="">
+                                    <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
+                                </div>
+                            </article>
+                        </li>
+
+                    </ul>
+                </div>
+
+
+
+
+
+
+
+
+
 
             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/.php' ); ?>
 
