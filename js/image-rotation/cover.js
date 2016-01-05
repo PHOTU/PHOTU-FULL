@@ -6,8 +6,8 @@ var ns6 = document.getElementById&&!document.all; //detect netscape 6
 
 // place your images, text, etc in the array elements here
 var items = new Array();
-    items[0]="<a target="_blank" href='https://www.youtube.com/watch?v=lXusfMECkGI'><img alt='' src='/images/index/top-most/cover-matty.jpg'/></a>"; //a linked image
-    items[1]="<a href='/categories/music/turn-up-the-music/'><img alt='' src='/images/index/top-most/cover.png'/></a>"; //a linked image
+    items[0]=<a target="_blank" href='https://www.youtube.com/user/MattyGaleDickEd'><img src="/images/index/top-most/cover-matty.jpg"></a>; //a linked image
+    items[1]=<a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/cover.png"/></a>; //a linked image
 
 function rotater() {
     document.getElementById("cover").innerHTML = items[current];
