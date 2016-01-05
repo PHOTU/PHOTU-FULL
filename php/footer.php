@@ -117,7 +117,7 @@
                 <!-- widget-area-4 -->
 
             </div>
-            <!-- bottom-area-2 -->
+            <!-- bottom-area-2 --->
 
         </div>
         <!-- wrapper -->
@@ -141,5 +141,5 @@
     <script src="/js/jquery-1.11.2.min.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/custom.js" charset="utf-8"></script>
-    <script src="/js/superfish.min.js"></script> 
+    <script src="/js/superfish.min.js"></script>
     <script src="/js/image-rotation/cover.js"></script>
