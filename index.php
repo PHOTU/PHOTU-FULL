@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Test -->
 <html lang="en">
         <title>PHOTU</title>
         <meta name="description" content="Welcome to PHOTU - Entries and updates submitted by you.">
