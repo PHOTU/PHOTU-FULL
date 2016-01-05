@@ -23,7 +23,9 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover-matty.jpg" alt=""></a>
+
+                                  <layer id="cover"></layer><div id="coverdiv"></div>
+                                    <!--<a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd"><img src="/images/index/top-most/cover-matty.jpg" alt=""></a>-->
                                 </div>
                             </article>
                         </li>
