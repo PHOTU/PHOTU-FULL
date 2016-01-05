@@ -6,12 +6,13 @@
         <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/font-awesome.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/superfish.css" media="all" />
-        <link rel="stylesheet" type="text/css" href="/css/megafish.css" /> 
+        <link rel="stylesheet" type="text/css" href="/css/megafish.css" />
         <link rel="stylesheet" type="text/css" href="/css/jquery.navgoco.css"/>
         <link rel="stylesheet" type="text/css" href="/css/owl.carousel.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/style-blue.css">
-        
+        <?php include_once("analyticstracking.php") ?>
+
         <script src="/js/modernizr.custom.js"></script>
 
         <!--[if lt IE 9]>
