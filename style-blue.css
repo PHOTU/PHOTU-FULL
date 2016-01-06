@@ -3277,7 +3277,11 @@ address {
  * 3.1.1 - widget-area
  * -------------------------------------------------------------------
  */
-.widget-area-1, .widget-area-2, .widget-area-3, .widget-area-4 {
+
+ .widget-area-1 {
+   padding: 40px 46px 0; }
+ 
+ .widget-area-2, .widget-area-3, .widget-area-4 {
   float: left;
   padding: 40px 20px 0;
   min-height: 1px;
@@ -6026,7 +6030,7 @@ address {
 
   .widget-area-1, .widget-area-2, .widget-area-3, .widget-area-4 {
     width: 100%;
-    padding: 46px 46px 0; }
+    padding: 20px 20px 0; }
 
   .kopa-facebook-widget iframe {
     height: 335px; }
