@@ -124,17 +124,6 @@
 
     </div>
     <!-- bottom-sidebar -->
-
-    <footer id="kopa-footer">
-
-        <div class="" clearfix">
-
-            <p id="copyright" class="">Copyright © 2016 - Managed By <a href="#">Adam Burdass</a></p>
-
-        </div>
-        <!-- wrapper -->
-
-    </footer>
     <!-- kopa-footer -->
 
 <!-- Add Scripts -->
