@@ -5150,7 +5150,7 @@ address {
 .kopa-map-1-wrapper {
   border-radius: 5px;
   padding: 10px;
-  background: #3e3e3e;
+  background: #32323c;
   position: relative; }
   .kopa-map-1-wrapper .kopa-map-1 {
     height: 158px;
@@ -5628,7 +5628,7 @@ address {
 
 .bottom-area-3 {
   padding: 35px 0 5px;
-  background: #3e3e3e; }
+  background: #32323c; }
 
 /**
 * 4. - Footer / #kopa-footer
@@ -5748,7 +5748,7 @@ address {
     display: none; }
 
   .top-nav-mobile, .main-nav-mobile {
-    display: block; 
+    display: block;
     margin-left: 5px }
 
   .header-top-left {
@@ -5899,7 +5899,7 @@ address {
     display: none; }
 
   .kopa-logo img {
-    max-width: 80%; 
+    max-width: 80%;
     margin-left: 15px }
 
   .kopa-header-middle {
