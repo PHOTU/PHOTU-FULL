@@ -3291,32 +3291,14 @@ address {
 
 .widget-area-2 {
   width: 16%;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3a3a45), to(#3e3e4a));
-  background: -webkit-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -moz-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -o-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -ms-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: linear-gradient(left, #3a3a45, #3e3e4a);
   background-color: #3a3a45; }
 
 .widget-area-3 {
   width: 27%;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3a3a45), to(#3e3e4a));
-  background: -webkit-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -moz-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -o-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -ms-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: linear-gradient(left, #3a3a45, #3e3e4a);
   background-color: #3a3a45; }
 
 .widget-area-4 {
   width: 26%;
-  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#3a3a45), to(#3e3e4a));
-  background: -webkit-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -moz-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -o-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: -ms-linear-gradient(left, #3a3a45, #3e3e4a);
-  background: linear-gradient(left, #3a3a45, #3e3e4a);
   background-color: #3a3a45; }
 
 /*--- grid ---*/
