@@ -5582,10 +5582,10 @@ address {
 
 .bottom-menu {
   position: relative;
-  margin: 0 -13px; }
+  margin: 0 -33px; }
   .bottom-menu > li {
     float: left;
-    margin: 0 13px; }
+    margin: 0 33px; }
     .bottom-menu > li > a {
       font-family: "Roboto Condensed", sans-serif;
       font-size: 13px;
