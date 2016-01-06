@@ -1,7 +1,7 @@
 
     <div id="bottom-sidebar">
 
-        <div class="wrapper bg-white">
+        <div class="bg-white">
 
             <div class="bottom-area-1">
 
@@ -39,7 +39,7 @@
                 <div class="widget-area-1">
 
                     <div class="widget kopa-follow-widget">
-                        <h3 class="widget-title style2">find us on</h3>
+                        <h3 class="widget-title style2">Social Links</h3>
                         <ul class="clearfix">
                             <li>
                                 <a target="_blank" href="http://www.facebook.com/officialphotu"><i class="fa fa-facebook"></i><span>facebook</span></a>
@@ -97,9 +97,9 @@
                         <h3 class="widget-title style2">Patch Notes</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>Version 1.8.4</p>
-                                <p>Released 2nd January 2016</p>
-                                <p>Entry additions and general new years clean-up.</p>
+                                <p>Version 1.9.1</p>
+                                <p>Released 6th January 2016</p>
+                                <p>Bug fixes and general updates.</p>
                             </li>
                         </ul>
                     </div>
@@ -127,7 +127,7 @@
 
     <footer id="kopa-footer">
 
-        <div class="wrapper clearfix">
+        <div class="" clearfix">
 
             <p id="copyright" class="">Copyright © 2016 - Managed By <a href="#">Adam Burdass</a></p>
 
