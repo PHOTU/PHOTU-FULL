@@ -5582,10 +5582,10 @@ address {
 
 .bottom-menu {
   position: relative;
-  margin: 0 -33px; }
+  margin: 0 -23px; }
   .bottom-menu > li {
     float: left;
-    margin: 0 33px; }
+    margin: 0 23px; }
     .bottom-menu > li > a {
       font-family: "Roboto Condensed", sans-serif;
       font-size: 13px;
@@ -5602,7 +5602,7 @@ address {
 .bottom-area-1 {
   background: #32323c;
   border-bottom: 4px solid #00c5fe;
-  padding: 14px 20px;
+  padding: 14px 46px;
   position: relative; }
 
 .bottom-area-2 {
@@ -6026,7 +6026,7 @@ address {
 
   .widget-area-1, .widget-area-2, .widget-area-3, .widget-area-4 {
     width: 100%;
-    padding: 20px 20px 0; }
+    padding: 46px 46px 0; }
 
   .kopa-facebook-widget iframe {
     height: 335px; }
