@@ -71,7 +71,7 @@
                 <div class="widget-area-2">
 
                     <div class="widget widget_pages">
-                        <h3 class="widget-title style2">Popular Entries</h3>
+                        <h3 class="widget-title style2">Featured Entries</h3>
                         <ul class="clearfix">
                             <ul class="">
                                 <li><span class="fa fa-hand-o-right"></span><a href="/categories/technology/matty-gale-youtube/"> Matty Gale YouTube</a></li>
@@ -94,12 +94,12 @@
                 <div class="widget-area-4">
 
                     <div class="widget kopa-editor-widget">
-                        <h3 class="widget-title style2">Patch Notes</h3>
+                        <h3 class="widget-title style2">Major Release</h3>
                         <ul class="clearfix">
                             <li>
                                 <p>Version 1.9.1</p>
-                                <p>Released 6th January 2016</p>
-                                <p>Bug fixes and general updates.</p>
+                                <p>Released 6th January 2016<br>Developer Sign-Off: Adam Burdass</p>
+                                <p>Bug fixes and general updates including CSS</p>
                             </li>
                         </ul>
                     </div>
