@@ -3278,13 +3278,13 @@ address {
  * -------------------------------------------------------------------
  */
 .widget-area-1, .widget-area-2, .widget-area-3, .widget-area-4 {
-  float: middle;
+  float: left;
   padding: 40px 20px 0;
   min-height: 1px;
   position: relative; }
 
 .widget-area-1 {
-  width: 23%;
+  width: 13%;
   background: #3a3a45; }
   .widget-area-1 .widget {
     margin-bottom: 20px; }
