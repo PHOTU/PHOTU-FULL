@@ -3279,8 +3279,11 @@ address {
  */
 
  .widget-area-1 {
-   padding: 40px 46px 0; }
- 
+   float: left;
+   padding: 40px 46px 0;
+   min-height: 1px;
+   position: relative; }
+
  .widget-area-2, .widget-area-3, .widget-area-4 {
   float: left;
   padding: 40px 20px 0;
