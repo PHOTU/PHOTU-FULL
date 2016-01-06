@@ -1197,7 +1197,7 @@ html {
   overflow-x: hidden; }
 
 body {
-  background: #ededed;
+  background: #f4ebeb;
   font-family: "Roboto", sans-serif;
   color: #757575;
   font-size: 13px;
@@ -5631,7 +5631,7 @@ address {
   background: #32323c; }
 
 /**
-* 4. - Footer / #kopa-footer
+* 4. - Footer / kopa-footer
 * -------------------------------------------------------------------
 */
 #kopa-footer {
