@@ -72,20 +72,18 @@
 
 
 
-<!-- Flexible Staff Area -->
+<!-- Flexible Entries Area -->
             <div class="widget-area-8">
 
                 <div class="widget kopa-categories-widget">
-                    <h3 class="widget-title style3">Staff Message</span></h3>
+                    <h3 class="widget-title style3">Featured Entries</span></h3>
                     <div class="pd-20">
                         <div class="owl-carousel owl-carousel-1">
 
 
 <!-- Add content here -->
 
-<p>
-    Welcome to the <strong>brand new</strong> PHOTU website, we've taken a huge amount of our spare time and dedicated it straight into this project, 2016 will be a great year!
-</p>
+<a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
 
 <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
 
@@ -120,7 +118,7 @@
                     <div class="widget-area-13">
 
                         <div class="widget kopa-article-list-widget article-list-6">
-                            <h3 class="widget-title style3">Browse Some Entries</h3>
+                            <h3 class="widget-title style3">Browse More Entries</h3>
                             <div class="pd-20">
                                 <ul class="row clearfix">
                                     <li class="col-md-4 col-sm-4 col-xs-4">
@@ -175,24 +173,6 @@
 
                 </div>
                 <!-- kopa-main-col -->
-
-
-
-
-                <div class="widget kopa-masonry-widget" align="centre">
-                    <ul class="">
-
-
-                        <li class="1">
-                            <article class="">
-                                <div class="">
-                                    <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
-                                </div>
-                            </article>
-                        </li>
-
-                    </ul>
-                </div>
 
 
 
