@@ -1,8 +1,9 @@
+<!-- Add Analytics -->
 <script src="/js/image-rotation/analyticstracking.js"></script>
 
 <header class="kopa-header">
 
-        <div class="kopa-header-top">  
+        <div class="kopa-header-top">
 
             <div class="wrapper">
 
@@ -10,10 +11,10 @@
 
                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tickerlis.php' ); ?>
 
-                </div> 
-                <!-- header-top-left -->     
+                </div>
+                <!-- header-top-left -->
 
-            </div>  
+            </div>
             <!-- wrapper -->
 
         </div>
@@ -35,7 +36,7 @@
                     </ul>
                 </div>
                 <!-- kopa-social-links -->
-                
+
             </div>
             <!-- wrapper -->
 
@@ -60,9 +61,9 @@
                     <nav class="kopa-main-nav">
                         <ul class="main-menu sf-menu">
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/menulist.php' ); ?>
-                        </ul>                
+                        </ul>
                     </nav>
-        
+
         <!-- MAIN DESKTOP MENU -->
 
 
@@ -74,9 +75,9 @@
                         <a class="pull">Menu<i class="fa fa-caret-down"></i></a>
                         <ul class="main-menu-mobile">
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/menulist.php' ); ?>
-                        </ul>                
+                        </ul>
                     </nav>
-                    
+
         <!-- MAIN MOBILE MENU -->
 
 
