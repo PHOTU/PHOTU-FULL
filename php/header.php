@@ -1,3 +1,5 @@
+<script src="/js/image-rotation/analyticstracking.js"></script>
+
 <header class="kopa-header">
 
         <div class="kopa-header-top">  
