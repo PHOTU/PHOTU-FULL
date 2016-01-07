@@ -1,5 +1,5 @@
-<!-- Add Analytics -->
-<script src="/js/image-rotation/analyticstracking.js"></script>
+<!-- Add Analytics.. -->
+<script src="/js/analyticstracking.js"></script>
 
 <header class="kopa-header">
 
