@@ -87,6 +87,8 @@
     Welcome to the <strong>brand new</strong> PHOTU website, we've taken a huge amount of our spare time and dedicated it straight into this project, 2016 will be a great year!
 </p>
 
+<a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
+
 <!-- End content here -->
 
 
