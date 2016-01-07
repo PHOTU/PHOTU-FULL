@@ -1,4 +1,4 @@
-<!-- Add Analytics -->
+<!-- Add Analytics. -->
 <script src="/js/image-rotation/analyticstracking.js"></script>
 
 <header class="kopa-header">
