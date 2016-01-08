@@ -70,11 +70,11 @@
                                     which is very beefy for a camera of this size it shoots crisp perfect quality as well as having a touch
                                     to focus feature on the touch screen display wich can be flipped up to be used for vlogging too! Really awesome camera all around can be used for any purpose but is more popular for vloggers!</p>
 
-                                <blockquote class="kopa-blockquote style1">
+                                <p>
                                     This may sound blunt but you need the best quality you can afford, as no one truly wants to watch a video flimed on a potato. But seriously when was
                                     last time you saw a bad quality video by someone with loads of subscribers, it is important that your message is clear with both video and audio.
                                     Personally I use Vegas Pro, there is a free version and I find it very easy to use. You may use Movie Maker to start, but for more advaced tasks like Face Cam and just more professional editing use this.
-                                </blockquote>
+                                </p>
 
                                 <blockquote class="kopa-blockquote style1 pull-right">
                                     You have to ignore the people who want you to fail or take the mick, these are toxic freinds and negative people don't let the haters stop you from doing your thing.
