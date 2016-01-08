@@ -40,7 +40,7 @@
         <div class="wrapper">
 
             <div class="row">
-            
+
                 <div class="col-md-12 col-sm-12 col-xs-12">
 
                     <div class="widget">
@@ -50,7 +50,7 @@
                                 <h4 class="entry-title">We take a look at how technology improves Matty's experience on YouTube.</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
-                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/matty-gale.php' ); ?> 
+                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/matty-gale.php' ); ?>
                                     </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 17, 2015</span>
@@ -58,11 +58,11 @@
                                 <blockquote class="kopa-blockquote style2">
                                     <p><i>Dedication to your audience and persistence to evolve your style ensure viewers are always entertained.</i></p>
                                 </blockquote>
-                                
-                                    <div width="50%">
-                                        <iframe width="50%" height="100%" src="https://www.youtube.com/embed/KfQ9NNEXUjE?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+
+                                    <div>
+                                        <iframe width="50%" height="50%" src="https://www.youtube.com/embed/KfQ9NNEXUjE?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                                     </div>
-                                 
+
                                 <p><span class="kopa-dropcap dc1">W</span>hen getting started on YouTube you need to ensure your quality matches your quantity, producing high quality videos requires advanced technology and making use of
                                     the incredible editing suites that vary from Sony Vegas to Premire Pro.
                                     So basically all I want to do is make people laugh and there is nothing better than a comment which shows their enjoyment. I mean it's this whole seperate world that you can escape
@@ -84,21 +84,21 @@
                                 <p>Overall, if you're going to get started on YouTube then ensure you're doing it for the right reasons.</p>
                                 <p>Check out the Canon G7x online..</p>
                                     <p><a href="http://www.canon.co.uk/for_home/product_finder/cameras/digital_camera/powershot/powershot_g7_x/index.html" target="_blank" class="kopa-button color-button">Canon G7x</a></p>
-                            </article> 
+                            </article>
 
 
 
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?> 
+                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
 
 <!-- END COMMENTS -->
 
 
 <!-- AUTHOR INFO -->
-                           
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>     
+
+                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
 
 <!-- END AUTHOR INFO -->
 
@@ -113,31 +113,31 @@
                         <h3 class="widget-title style3"> related <span>entries</span></h3>
                         <div class="pd-20">
                             <ul class="clearfix">
-                                
+
                                 <!-- BEGIN TO LIST THEM HERE -->
 
                                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
 
 
                                 <!-- END THE LIST HERE -->
-                                
+
                             </ul>
                         </div>
                     </div>
-                    <!-- widget --> 
+                    <!-- widget -->
 
 <!-- END RELEVANT ARTICLES -->
 
 
                     </div>
                     <!-- widget -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -145,7 +145,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>
