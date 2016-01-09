@@ -4,34 +4,19 @@
         <meta name="description" content="Get in touch with the team with ease!">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
-    
+
 <body class="">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/header.php' ); ?>
-
-    <div class="kopa-breadcrumb">
-        <div class="wrapper clearfix">
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" href="/">
-                    <span itemprop="title">Home</span>
-                </a>
-            </span>
-            &nbsp;|&nbsp;
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" class="current-page">
-                    <span itemprop="title">Contact</span>
-                </a>
-            </span>
-        </div>
-    </div>
-    <!--/end .breadcrumb-->
 
         <div id="main-content" class="mb-20">
 
         <div class="wrapper">
 
+          <img src="/images/contact/contact.png">
+
             <div class="row">
-            
+
                 <div class="kopa-main-col">
                     <div class="bg-white">
                         <h3 class="widget-title style3">Contact The Team</h3>
@@ -63,13 +48,13 @@
                                             </p>
                                         </div>
                                         <!-- col-md-4 -->
-                                    
+
                                     </div>
-                                    <!-- row --> 
-                                    <p class="textarea-block">  
+                                    <!-- row -->
+                                    <p class="textarea-block">
                                         <textarea name="message" id="contact_message" onfocus="if(this.value=='Your comment *')this.value='';" onblur="if(this.value=='')this.value='Your comment *';" cols="88" rows="8"></textarea>
                                     </p>
-                                    <p class="contact-button clearfix">           
+                                    <p class="contact-button clearfix">
                                         <span><input type="submit" value="Send Message" id="submit-contact"></span>
                                     </p>
                                 </form>
@@ -84,10 +69,10 @@
 
                 <!-- SHOW THE TOP-MOST SOCIAL STATS? -->
                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/categorysocialstats.php' ); ?>
-            
+
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -97,7 +82,7 @@
 
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>
