@@ -40,7 +40,7 @@
         <div class="wrapper">
 
             <div class="row">
-            
+
                 <div class="col-md-12 col-sm-12 col-xs-12">
 
                     <div class="widget">
@@ -50,14 +50,14 @@
                                 <h4 class="entry-title">What makes Spotify so unique that we'd pay £10 monthly?</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
-                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?> 
+                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
                                     </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 17, 2015</span>
                                 </div>
                                 <div class="entry-thumb">
                                     <img src="/images/categories/music/spotify/spotifymain.png" alt="">
-                                </div>  
+                                </div>
                                 <p><span class="kopa-dropcap dc1">E</span>
                                     ver since digital music became available we've all become creatures of habit when it comes to online content, especially music. You're unlikely to find
                                     someone who will illegally download music content.. but also pay for a streaming service such as Spotify as it really doesn't make much sense, especially with recent features.
@@ -65,12 +65,12 @@
                                 <p>Spotify became a huge success over the years when users realised they could pay just £10 a month (variable) on a service each month that would be the equivalent cost of purchasing just <strong>10</strong> songs.
                                     Let's face it you're going to listen to more songs that just that 'special' new release over and over again, to which most of us do.
                                 </p>
-                                
+
 
                         <div class="clearfix">
                             <h4 class="element-title">Spotify Benefits</h4>
                             <div class="col-md-12 col-sm-12 element-wrap e-list">
-                                <div class="">   
+                                <div class="">
                                     <div class="col-md-12 col-sm-12 col-xs-12">
                                         <ul class="kopa-e-list">
                                             <li><span class="fa fa-check"></span>Download your favourite tracks to play offline, anytime, anywhere</li>
@@ -92,7 +92,7 @@
                         <p><a href="http://www.spotify.com" target="_blank" class="kopa-button color-button">View Spotify Website</a></p>
 
 
-                            </article> 
+                            </article>
                             <!-- single-other-post -->
 
 
@@ -100,15 +100,15 @@
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?> 
+                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
 
 <!-- END COMMENTS -->
 
 
 
 <!-- AUTHOR INFO -->
-                     
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>     
+
+                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>
 
 <!-- END AUTHOR INFO -->
 
@@ -123,31 +123,31 @@
                         <h3 class="widget-title style3"> related <span>reviews</span></h3>
                         <div class="pd-20">
                             <ul class="clearfix">
-                                
+
                                 <!-- BEGIN TO LIST THEM HERE -->
 
                                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
 
 
                                 <!-- END THE LIST HERE -->
-                                
+
                             </ul>
                         </div>
                     </div>
-                    <!-- widget --> 
+                    <!-- widget -->
 
 <!-- END RELEVANT ARTICLES -->
 
 
                     </div>
                     <!-- widget -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -155,7 +155,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>

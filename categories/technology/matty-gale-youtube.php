@@ -59,8 +59,8 @@
                                     <p><i>Dedication to your audience and persistence to evolve your style ensure viewers are always entertained.</i></p>
                                 </blockquote>
 
-                                <div class="col-md-6 col-sm-6 col-xs-6">
-                                        <iframe width="50%" height="50%" src="https://www.youtube.com/embed/KfQ9NNEXUjE?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
+                                    <div>
+                                        <a target="_blank" href="https://www.youtube.com/watch?v=KfQ9NNEXUjE"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
                                     </div>
 
                                 <p><span class="kopa-dropcap dc1">W</span>hen getting started on YouTube you need to ensure your quality matches your quantity, producing high quality videos requires advanced technology and making use of
@@ -109,10 +109,10 @@
 
 <!-- ADD IN REVELANT ARTICLES -->
 
-                    <div class="widget kopa-article-list-widget article-list-23">
+                    <!--<div class="widget kopa-article-list-widget article-list-23">
                         <h3 class="widget-title style3"> related <span>entries</span></h3>
                         <div class="pd-20">
-                            <ul class="clearfix">
+                            <ul class="clearfix">-->
 
                                 <!-- BEGIN TO LIST THEM HERE -->
 
