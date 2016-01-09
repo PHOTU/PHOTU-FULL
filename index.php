@@ -23,7 +23,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/contact"><img src="/images/index/top-most/feedback.png" alt=""></a>
+                                    <a href="/categories/technology/developerproblems/"><img src="/images/categories/technology/developerproblems.png" alt=""></a>
                                 </div>
                             </article>
                         </li>

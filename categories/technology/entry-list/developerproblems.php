@@ -13,9 +13,9 @@
                                                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
                                                 </a>
                                                 &nbsp;|&nbsp;
-                                                <span class="entry-date"><i class="fa fa-clock-o"></i>\Jan 09, 2016</span>
+                                                <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 09, 2016</span>
                                             </div>
-                                            <p>As developers we all experience the odd issue, but how do we go about learning from our mistakes?</p> 
+                                            <p>As developers we all experience the odd issue, but how do we go about learning from our mistakes</p>
                                         </div>
                                     </div>
                                     <footer class="entry-footer">
@@ -25,7 +25,7 @@
                                                 <li><a href="#" class="fa fa-twitter"></a></li>
                                             </ul>
                                         </div>
-                                        <span class="pull-right kopa-entry-view">HOT</span>
+                                        <span class="pull-right kopa-entry-view"></span>
                                     </footer>
                                 </article>
                             </li>
