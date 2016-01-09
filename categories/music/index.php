@@ -4,34 +4,19 @@
         <meta name="description" content="Browse our Music">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
-    
+
 <body class="">
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/header.php' ); ?>
-
-    <div class="kopa-breadcrumb">
-        <div class="wrapper clearfix">
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" href="/">
-                    <span itemprop="title">Home</span>
-                </a>
-            </span>
-            &nbsp;|&nbsp;
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" class="current-page">
-                    <span itemprop="title">Music</span>
-                </a>
-            </span>
-        </div>
-    </div>
-    <!--/end .breadcrumb-->
 
     <div id="main-content" class="mb-20">
 
         <div class="wrapper">
 
+          <img src="/images/categories/music/music.png">
+
             <div class="row">
-            
+
                 <div class="kopa-main-col">
 
                     <div class="widget kopa-masonry-6-widget">
@@ -42,7 +27,7 @@
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/spotify-feature.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/turn-up-the-music.php' ); ?>
 
-                        
+
                     <!-- END OF ENTRIES LIST -->
 
 
@@ -60,7 +45,7 @@
                         </div>-->
                     </div>
                     <!-- widget -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
@@ -74,14 +59,14 @@
 
                 <!-- SHOW ANY EDITORS PICKS? -->
                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/categories/editor-picks/music.php' ); ?>
-                   
-                
+
+
                 </div>
                 <!-- kopa-col-2 -->
 
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -90,7 +75,7 @@
 
 
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>
