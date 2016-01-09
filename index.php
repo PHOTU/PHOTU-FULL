@@ -109,6 +109,14 @@
                             <h3 class="widget-title style3">Browse More Entries</h3>
                             <div class="pd-20">
                                 <ul class="row clearfix">
+
+                                    <li class="col-md-4 col-sm-4 col-xs-4">
+                                      <article class="entry-item last-item">
+                                          <div class="entry-thumb style1">
+                                              <a href="/categories/technology/developerproblems/"><img src="/images/categories/technology/developerproblems.png" alt=""></a>
+                                          </div>
+                                      </article>
+                                    </li>
                                     <li class="col-md-4 col-sm-4 col-xs-4">
                                         <article class="entry-item last-item">
                                             <div class="entry-thumb style1">
