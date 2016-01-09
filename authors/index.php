@@ -24,8 +24,8 @@
 
 
                     <!-- ADD ENTRIES HERE -->
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/general/entry-list/2016-changes.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/general/entry-list/personal-success.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/example.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/example.php' ); ?>
 
                     <!-- END OF ENTRIES LIST -->
 
