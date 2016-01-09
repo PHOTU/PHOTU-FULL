@@ -1273,7 +1273,7 @@ body {
 .b-radius {
   border-radius: 5px; }
 
- {
+iframe {
   width: 100%;
   border: none; }
 
@@ -4349,7 +4349,7 @@ address {
           color: #00c5fe; }
 
 /*--- kopa-facebook-widget ---*/
-.kopa-facebook-widget  {
+.kopa-facebook-widget iframe {
   border: none;
   height: 335px; }
 
@@ -5216,7 +5216,7 @@ address {
   margin-top: 20px; }
 .kopa-entry-post .kopa-post-review {
   margin-top: 20px; }
-.kopa-entry-post  {
+.kopa-entry-post iframe {
   height: 400px;
   margin-bottom: 10px; }
 
@@ -5784,7 +5784,7 @@ address {
     .ms-item3.mobile {
       display: block; }
 
-  .kopa-facebook-widget  {
+  .kopa-facebook-widget iframe {
     height: 210px; }
 
   .widget-area-1, .widget-area-2, .widget-area-3, .widget-area-4 {
@@ -5915,7 +5915,7 @@ address {
   .article-list-9 .pd-20 .entry-item .entry-content {
     overflow: visible; }
 
-  .kopa-facebook-widget  {
+  .kopa-facebook-widget iframe {
     height: 230px; }
 
   blockquote.pull-right {
@@ -5931,7 +5931,7 @@ address {
   .contact-box form .row > div, .comment-box form .row > div {
     width: 100%; }
 
-  .kopa-entry-post  {
+  .kopa-entry-post iframe {
     height: 250px; }
 
   .kopa-blockquote.style3 {
@@ -6035,7 +6035,7 @@ address {
     width: 100%;
     padding: 20px 20px 0; }
 
-  .kopa-facebook-widget  {
+  .kopa-facebook-widget iframe {
     height: 335px; }
 
   .ms-item5 {

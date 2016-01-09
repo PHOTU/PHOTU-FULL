@@ -18,8 +18,8 @@ $RECYCLE.BIN/
 *.lnk
 
 # Exclude any PSD/AI source
-*.psd
-*.ai
+#*.psd
+#*.ai
 
 # =========================
 # Operating System Files
