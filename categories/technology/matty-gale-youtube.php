@@ -59,7 +59,7 @@
                                     <p><i>Dedication to your audience and persistence to evolve your style ensure viewers are always entertained.</i></p>
                                 </blockquote>
 
-                                <div class="col-md-6 col-sm-6 col-xs-6">
+                                <div>
                                         <iframe width="50%" height="50%" src="https://www.youtube.com/embed/KfQ9NNEXUjE?rel=0&amp;showinfo=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
                                     </div>
 

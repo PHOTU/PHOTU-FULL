@@ -25,6 +25,7 @@
 
 
                     <!-- ADD ENTRIES HERE -->
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/technology/entry-list/developerproblems.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/technology/entry-list/matty-gale-youtube.php' ); ?>
 
                     <!-- END OF ENTRIES LIST -->
