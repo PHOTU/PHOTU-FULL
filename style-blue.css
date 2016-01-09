@@ -1045,10 +1045,10 @@ blockquote {
 
 /*----- Social Links -----*/
 .kopa-social-links ul {
-  margin: -10px -5px; }
+  margin: -5px -5px; }
   .kopa-social-links ul li {
     float: left;
-    margin: 5px 5px 0;
+    margin: 12px 5px 0;
     font-size: 18px; }
     .kopa-social-links ul li a {
       display: inline-block;
