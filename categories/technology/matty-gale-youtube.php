@@ -98,7 +98,7 @@
 
 <!-- AUTHOR INFO -->
 
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
+                       <!--<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>-->
 
 <!-- END AUTHOR INFO -->
 
