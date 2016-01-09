@@ -36,16 +36,16 @@
                                 <a href="">featured</a>
                                 <div class="sf-mega col-md-push-0 col-xs-push-0 col-sm-push-0">
                                     <div class="sf-mega-section col-md-3 col-xs-3 col-sm-3">
-                                        <div class="widget">  
+                                        <div class="widget">
                                             <ul class="sub-menu">
                                                 <li>
                                                     <a href="#">Site starts development</a>
                                                 </li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                    
+
                                     <div class="sf-mega-section col-md-9 col-xs-9 col-sm-9">
                                         <div class="widget kopa-sub-list-widget sub-list-1">
                                             <ul class="row">
@@ -108,16 +108,16 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                
+
                                 </div>
                             </li>
                             <li>
                                 <a href="">reviews</a>
                                 <div class="sf-mega style1 col-md-push-0 col-xs-push-0 col-sm-push-0">
                                     <div class="sf-mega-section col-md-3 col-xs-3 col-sm-3">
-                                        <div class="widget kopa-list-sub-widget">  
+                                        <div class="widget kopa-list-sub-widget">
                                             <h3 class="widget-title">Technology</h3>
                                             <ul class="sub-menu">
                                                 <li>
@@ -137,11 +137,11 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                    
+
                                     <div class="sf-mega-section col-md-3 col-xs-3 col-sm-3">
-                                        <div class="widget kopa-list-sub-widget">  
+                                        <div class="widget kopa-list-sub-widget">
                                             <h3 class="widget-title">Cycling</h3>
                                             <ul class="sub-menu">
                                                 <li>
@@ -167,11 +167,11 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                    
+
                                     <div class="sf-mega-section col-md-3 col-xs-3 col-sm-3">
-                                        <div class="widget kopa-list-sub-widget">  
+                                        <div class="widget kopa-list-sub-widget">
                                             <h3 class="widget-title">Gaming</h3>
                                             <ul class="sub-menu">
                                                 <li>
@@ -179,11 +179,11 @@
                                                 </li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                    
+
                                     <div class="sf-mega-section col-md-3 col-xs-3 col-sm-3">
-                                        <div class="widget kopa-list-sub-widget">  
+                                        <div class="widget kopa-list-sub-widget">
                                             <h3 class="widget-title">Additional</h3>
                                             <ul class="sub-menu">
                                                 <li>
@@ -192,13 +192,13 @@
                                                 <li>
                                             </ul>
                                         </div>
-                                        
+
                                     </div>
-                                    
+
                                 </div>
                             </li>-->
 
-                            <li class="current-menu-item">
+                            <li class="menu-item">
                                 <a href="/contact">Get In Touch</a>
                             </li>
 
