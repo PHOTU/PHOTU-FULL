@@ -40,7 +40,7 @@
         <div class="wrapper">
 
             <div class="row">
-            
+
                 <div class="col-md-12 col-sm-12 col-xs-12">
 
                     <div class="widget">
@@ -50,7 +50,7 @@
                                 <h4 class="entry-title">We review the Astro A50's - High end gaming headsets.</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
-                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?> 
+                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
                                     </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 12, 2015</span>
@@ -60,14 +60,14 @@
                                 </blockquote>
                                 <div class="entry-thumb">
                                     <img src="/images/entries/astro-a50-review/astroa50review.png" alt="">
-                                </div>  
+                                </div>
                                 <p><span class="kopa-dropcap dc1">W</span>elcome to PHOTU - we've launched an entirely new website to make 2016 our most productive year to date.</p>
                                 <p>I wish there was more to say about the site right now, but until we get into gear with content then we'll continue to make improvements.</p>
                                 <blockquote class="kopa-blockquote style1">
-                                    Our carefully chosen designs and elements will ensure users gain the most amount of knowledge possible - whilst retainer our original feedback in regards to simplicity and functionality. 
+                                    Our carefully chosen designs and elements will ensure users gain the most amount of knowledge possible - whilst retainer our original feedback in regards to simplicity and functionality.
                                 </blockquote>
                                 <p>We are ready for a productive year, let's hope you're around to join us.</p>
-                            </article> 
+                            </article>
                             <div class="kopa-social-links style1 clearfix style-bg-color">
                                 <ul class="clearfix">
                                     <li><a target="_blank" href="http://www.facebook.com/officialphotu" class="fa fa-facebook"></a></li>
@@ -81,53 +81,20 @@
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?> 
+                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
 
 <!-- END COMMENTS -->
 
 
-<!-- AUTHOR INFO -->
-                           
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>     
-
-<!-- END AUTHOR INFO -->
-
-
-
-
-
-
-<!-- ADD IN REVELANT ARTICLES -->
-
-                    <div class="widget kopa-article-list-widget article-list-23">
-                        <h3 class="widget-title style3"> related <span>reviews</span></h3>
-                        <div class="pd-20">
-                            <ul class="clearfix">
-                                
-                                <!-- BEGIN TO LIST THEM HERE -->
-
-                                <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
-
-
-                                <!-- END THE LIST HERE -->
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- widget --> 
-
-<!-- END RELEVANT ARTICLES -->
-
-
                     </div>
                     <!-- widget -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -135,7 +102,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>

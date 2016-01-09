@@ -40,7 +40,7 @@
         <div class="wrapper">
 
             <div class="row">
-            
+
                 <div class="col-md-12 col-sm-12 col-xs-12">
 
                     <div class="widget">
@@ -50,14 +50,14 @@
                                 <h4 class="entry-title">Turn Up The Music - Here's our latest favourites!</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
-                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?> 
+                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
                                     </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 2, 2016</span>
                                 </div>
                                 <div class="entry-thumb">
                                     <img src="/images/categories/music/turn-up-the-music/turn-up-the-music.png" alt="">
-                                </div>  
+                                </div>
 
 
 
@@ -84,13 +84,13 @@
                                             <li><i class="order-num">04</i>.</li>
                                             <li><i class="order-num">05</i>.</li>
                                         </ul>
-                                            .</p>     
+                                            .</p>
                                     </div>
                                     <div class="tab-pane" id="e-tab2">
                                         <p>.</p>
                                     </div>
                                     <div class="tab-pane" id="e-tab3">
-                                        <p>.</p>     
+                                        <p>.</p>
                                     </div>
                                 </div>
                             </div>
@@ -101,7 +101,7 @@
 
 
 
-                            </article> 
+                            </article>
                             <!-- single-other-post -->
 
 
@@ -109,54 +109,20 @@
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?> 
+                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
 
 <!-- END COMMENTS -->
 
 
-
-<!-- AUTHOR INFO -->
-                     
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>     
-
-<!-- END AUTHOR INFO -->
-
-
-
-
-
-
-<!-- ADD IN REVELANT ARTICLES -->
-
-                    <div class="widget kopa-article-list-widget article-list-23">
-                        <h3 class="widget-title style3"> related <span>entries</span></h3>
-                        <div class="pd-20">
-                            <ul class="clearfix">
-                                
-                                <!-- BEGIN TO LIST THEM HERE -->
-
-                                <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
-
-
-                                <!-- END THE LIST HERE -->
-                                
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- widget --> 
-
-<!-- END RELEVANT ARTICLES -->
-
-
                     </div>
                     <!-- widget -->
-            
+
                 </div>
                 <!-- kopa-main-col -->
 
             </div>
-            <!-- row --> 
-        
+            <!-- row -->
+
         </div>
         <!-- wrapper -->
 
@@ -164,7 +130,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-    
+
 </body>
 
 </html>
