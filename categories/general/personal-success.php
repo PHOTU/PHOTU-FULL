@@ -40,7 +40,7 @@
         <div class="wrapper">
 
             <div class="row">
-
+            
                 <div class="col-md-12 col-sm-12 col-xs-12">
 
                     <div class="widget">
@@ -50,17 +50,17 @@
                                 <h4 class="entry-title">How do you judge your own personal success and how it defines you?</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
-                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
+                                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?> 
                                     </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 1, 2016</span>
                                 </div>
                                 <div class="entry-thumb">
                                     <img src="/images/categories/general/personal-success/personal-success.png" alt="">
-                                </div>
+                                </div> 
 
 
-                                <h1>This is the sound of chasing dreams..</h1>
+                                <h1>This is the sound of chasing dreams..</h1> 
 
                                 <p>Sometimes in life you'll have to make choices, the earlier the better in this case. When was the last time you sat in your office, got to your building site or other place of work and could
                                     happily walk the other way without a care in the world. Chances are if you're young - that this wasn't too long ago once you think about it. You need a car, a job, expensive items? What about happiness.</p>
@@ -79,31 +79,65 @@
                                 <p>I'd love to hear your own thoughts on personal success, if you have anything to share be sure to drop a comment down below!<br></p>
 
                         <p>
-
+                            
                         </p>
 
 
-                            </article>
+                            </article> 
                             <!-- single-other-post -->
 
 
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
+                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?> 
 
 <!-- END COMMENTS -->
 
 
+
+<!-- AUTHOR INFO -->
+                           
+                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>     
+
+<!-- END AUTHOR INFO -->
+
+
+
+
+
+
+<!-- ADD IN REVELANT ARTICLES -->
+
+                    <div class="widget kopa-article-list-widget article-list-23">
+                        <h3 class="widget-title style3"> related <span>entries</span></h3>
+                        <div class="pd-20">
+                            <ul class="clearfix">
+                                
+                                <!-- BEGIN TO LIST THEM HERE -->
+
+                                <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
+
+
+                                <!-- END THE LIST HERE -->
+                                
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- widget --> 
+
+<!-- END RELEVANT ARTICLES -->
+
+
                     </div>
                     <!-- widget -->
-
+            
                 </div>
                 <!-- kopa-main-col -->
 
             </div>
-            <!-- row -->
-
+            <!-- row --> 
+        
         </div>
         <!-- wrapper -->
 
@@ -111,7 +145,7 @@
     <!-- main-content -->
 
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-
+    
 </body>
 
 </html>
