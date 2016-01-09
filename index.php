@@ -30,15 +30,36 @@
 
                     </ul>
                 </div>
-                <!-- widget -->
-
-                <!--<div class="widget kopa-ads-1-widget">
-                    <a href="#"><img src="/images/banners/example.png" alt=""></a>
-                </div>-->
-                <!-- widget -->
 
             </div>
-            <!-- widget-area-5 -->
+
+
+            <!-- Flexible Entries Area -->
+                        <div class="widget-area-8">
+
+                            <div class="widget kopa-categories-widget">
+                                <h3 class="widget-title style3">Featured Entries</span></h3>
+                                <div class="pd-20">
+                                    <div class="owl-carousel owl-carousel-1">
+
+
+            <!-- Add content here -->
+
+            <a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
+
+            <a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
+
+            <!-- End content here -->
+
+
+                                    </div>
+                                    <!-- owl-carousel-1 -->
+                                </div>
+                            </div>
+                            <!-- widget -->
+
+            <!-- End Flexible -->
+
 
 
             <div class="widget-area-8">
@@ -65,39 +86,6 @@
                     </div>
                 </div>
                 <!-- widget -->
-
-
-
-
-
-
-
-<!-- Flexible Entries Area -->
-            <div class="widget-area-8">
-
-                <div class="widget kopa-categories-widget">
-                    <h3 class="widget-title style3">Featured Entries</span></h3>
-                    <div class="pd-20">
-                        <div class="owl-carousel owl-carousel-1">
-
-
-<!-- Add content here -->
-
-<a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
-
-<a href="/categories/music/turn-up-the-music/"><img src="/images/index/top-most/turn-up-the-music.png" alt=""></a>
-
-<!-- End content here -->
-
-
-                        </div>
-                        <!-- owl-carousel-1 -->
-                    </div>
-                </div>
-                <!-- widget -->
-
-
-
 
 
 
