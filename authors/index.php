@@ -13,7 +13,7 @@
 
         <div class="wrapper">
 
-          <img src="/images/.png">
+          <img src="/images/authors/authors.png">
 
             <div class="row">
 

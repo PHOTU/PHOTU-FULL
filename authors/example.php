@@ -2,7 +2,7 @@
                                 <article class="entry-item video-post">
                                     <div class="pd-20">
                                         <div class="entry-thumb style1">
-                                            <img src="/images/.png" alt="">
+                                            <img src="https://placeholdit.imgix.net/~text?txtsize=36&txt=380%C3%97190&w=380&h=190" alt="">
                                             <h5><a href="#">DEVELOPER</a></h5>
                                         </div>
                                         <div class="entry-content">
