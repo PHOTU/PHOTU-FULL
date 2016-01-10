@@ -23,7 +23,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/technology/developerproblems/"><img src="/images/index/top-most/developerproblemscover.png" alt=""></a>
+                                    <a target="_blank" href="https://www.youtube.com/watch?v=y4vEH0qvzQw"><img src="/images/index/top-most/photu2016.png" alt=""></a>
                                 </div>
                             </article>
                         </li>
