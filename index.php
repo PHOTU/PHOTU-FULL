@@ -95,11 +95,11 @@
             <!-- widget-area-8 -->
 
                 <!-- INCLUDE LEFT SIDEBAR -->
-                <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/index-left-sidebar/.php' ); ?>
 
 
-                                <!-- INCLUDE REVIEWS -->
-                <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/index-reviews/.php' ); ?>
+
+                 <!-- INCLUDE REVIEWS -->
+
 
 
 
@@ -178,8 +178,6 @@
 
 
 
-
-            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/.php' ); ?>
 
 
                 </div>

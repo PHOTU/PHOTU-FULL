@@ -5683,6 +5683,11 @@ address {
 * 5. - Responsive
 * -------------------------------------------------------------------
 */
+@media screen and (max-width: 1366px) {
+.wrapper {
+width: 1170px; }
+
+
 @media screen and (max-width: 1160px) {
   .wrapper {
     width: 980px; }
