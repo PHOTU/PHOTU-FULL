@@ -65,8 +65,6 @@
 
                                 <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
-                                  <img src="/images/categories/music/discover/thetunes.jpg">
-
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
