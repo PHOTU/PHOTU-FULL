@@ -95,7 +95,10 @@
                         </div>
 
 
-                          <p><a href="/contact" target="_blank" class="kopa-button color-button">Send Suggestions</a></p>
+                          <p><a href="#" class="kopa-button color-button">Previous Week</a></p>
+                          <p><a href="/contact" class="kopa-button color-button.color-yellow">Send Suggestions</a></p>
+                          <p><a href="/categories/music/discover/24-01-2016/" class="kopa-button color-button">Next Week</a></p>
+
 
 
                                 <!-- End Content -->
