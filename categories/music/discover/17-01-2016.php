@@ -83,12 +83,67 @@
                                             <li><i class="order-num">#3</i>
                                               <a target="_blank" href="https://open.spotify.com/track/77tR4iQgyQTAnhhuPik3ZP">One For The Money - Escape The Fate</a>
                                             </li>
+                                            <li><i class="order-num">#4</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/35eSAkuHzUaZBje8iYPyv7">Such Great Heights - Confide</a>
+                                            </li>
+                                            <li><i class="order-num">#5</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/0ohGkdmGIy3DsPIqoHxSf2">Warmest Day (Nigel Good Remix) - Our Stolen Theory</a>
+                                            </li>
+                                            <li><i class="order-num">#6</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/3BggWF3WggyLSbr9ucdTAb">Extreme Ways - Moby</a>
+                                            </li>
+                                            <li><i class="order-num">#7</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1">True - Spandau Ballet</a>
+                                            </li>
+                                            <li><i class="order-num">#8</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/4b8GTae6rqb9oPiRzVa3Gy">Loser - Beck</a>
+                                            </li>
+                                            <li><i class="order-num">#9</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/72a9JWKqJ8SGo0OdyCS12P">Personal Jesus - Depeche Mode</a>
+                                            </li>
+                                            <li><i class="order-num">#10</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/1MaxCaHwLDYS0uOQLjUry0">Drones - Muse</a>
+                                            </li>
+                                            <li><i class="order-num">#11</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/0yUlMnLpU2W6JQtvg1k4Od">Invincible - Kelly Clarkson</a>
+                                            </li>
+                                            <li><i class="order-num">#12</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/0TvQSgeyluz0j1BIopCso2">Sacred Organs - Ghost Atlas</a>
+                                            </li>
+                                            <li><i class="order-num">#13</i>
+                                              <a target="_blank" href=""></a>
+                                            </li>
+                                            <li><i class="order-num">#14</i>
+                                              <a target="_blank" href=""></a>
+                                            </li>
+                                            <li><i class="order-num">#15</i>
+                                              <a target="_blank" href=""></a>
+                                            </li>
+                                            <li><i class="order-num">#16</i>
+                                              <a target="_blank" href=""></a>
+                                            </li>
+
 
                                         </ul>
                                     </div>
+
+
+                                    <h6 class="txt-up">Our Contributors:</h6>
+                                            <div class="tab-pane active" id="e-tab1">
+                                                <ul class="kopa-e-list list-order">
+                                                    <li><i class="order-num">Name Here</i>
+                                                    </li>
+                                                    <li><i class="order-num">#2</i>
+                                                    </li>
+                                                    <li><i class="order-num">#3</i>
+                                                    </li>
+
+                                                </ul>
+                                            </div>
+
+
+                                    <!-- End Content Wrap -->
                                 </div>
-
-
 
                             </div>
 
@@ -98,6 +153,7 @@
                           <p><a href="#" class="kopa-button color-button">Previous Week</a>
                           <a href="/contact" class="kopa-button color-button color-weekly">Send Suggestions</a>
                           <a href="/categories/music/discover/24-01-2016/" class="kopa-button color-button">Next Week</a></p>
+
 
 
 

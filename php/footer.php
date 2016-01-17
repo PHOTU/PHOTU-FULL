@@ -69,7 +69,7 @@
                         <h3 class="widget-title style2">Featured Entries</h3>
                         <ul class="clearfix">
                             <ul class="">
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016"> Discover January</a></li>
+                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016"> Discover January 17th</a></li>
 
 
 
