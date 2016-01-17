@@ -146,7 +146,7 @@
                                             </div>
 
                                       <br><p>A big thanks to our contributors this week for their suggestions, make sure to contact us below with your favourites during the week to be featured.
-                                        <br>Have a great week, we'll see you next Sunday for another Discover Weekly</p>
+                                        <br>Have a great week, we'll see you next Sunday for another Discover Weekly.</p>
 
 
                                     <!-- End Content Wrap -->
