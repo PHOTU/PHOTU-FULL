@@ -19,7 +19,7 @@
                                 <li><a href="categories3.html">global</a></li>
                             </ul>
                         </li>
-                        <li><a href="categories2.html">food</a></li>
+                        <li><a href="categories2.html">food</a></li>-->
                     </ul>
                 </nav>
                 <!--/end bottom-nav-->

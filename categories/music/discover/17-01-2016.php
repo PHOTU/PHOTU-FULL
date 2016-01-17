@@ -65,6 +65,8 @@
 
                                 <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
+                                <img src="/images/categories/music/discover/thetunes.jpg"
+
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
@@ -79,7 +81,7 @@
                                         <ul class="kopa-e-list list-order">
 
                                             <li><i class="order-num">01</i>
-                                              <a target-"_blank" href="https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz">Up and Away (feat. June) - Can't Stop Won't Stop</a>
+                                              <a target="_blank" href="https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz">Up and Away (feat. June) - Can't Stop Won't Stop</a>
                                             </li>
 
                                         </ul>
@@ -102,7 +104,6 @@
 
 <!-- ADD COMMENTS -->
 
-                        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/comments.php' ); ?>
 
 <!-- END COMMENTS -->
 

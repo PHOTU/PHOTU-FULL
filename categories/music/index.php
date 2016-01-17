@@ -24,6 +24,7 @@
 
 
                     <!-- ADD ENTRIES HERE -->
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/17-01-2016.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/spotify-feature.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/music/entry-list/turn-up-the-music.php' ); ?>
 
