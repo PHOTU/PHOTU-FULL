@@ -68,16 +68,8 @@
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
-                            <div class="kopa-tab style1">
-                                <ul class="nav nav-tabs">
-                                    <li class="active"><a href="#e-tab1" data-toggle="tab">Developer Favourites</a></li>
-                                    <li><a href="#e-tab2" data-toggle="tab">Partners Favourites</a></li>
-                                    <li><a href="#e-tab3" data-toggle="tab">Public Favourites</a></li>
-                                </ul>
-                                <div class="tab-content">
                                     <div class="tab-pane active" id="e-tab1">
                                         <ul class="kopa-e-list list-order">
-
                                             <li><i class="order-num">#1</i>
                                               <a target="_blank" href="https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz">Up and Away (feat. June) - Can't Stop Won't Stop</a>
                                             </li>
