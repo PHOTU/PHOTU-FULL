@@ -979,6 +979,8 @@ blockquote {
     background: #63717f; }
   .color-button:hover {
     background: #00c5fe; }
+  .color-button.color-weekly {
+      background: #ff9e2d; }
 
 .button-wrap {
   margin-top: 15px; }
@@ -2328,7 +2330,7 @@ img {
     margin-left: 5px; }
 
 .entry-meta {
-  color: #b8b8c6;
+  color: #000000;
   margin-top: -5px; }
   .entry-meta > span, .entry-meta > p {
     display: inline-block;
@@ -2336,7 +2338,7 @@ img {
     font-family: "Roboto", sans-serif;
     font-size: 13px;
     line-height: 20px;
-    color: #b8b8c6;
+    color: #000000;
     text-transform: capitalize;
     font-style: italic;
     font-weight: 500;
