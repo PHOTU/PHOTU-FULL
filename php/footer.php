@@ -69,7 +69,7 @@
                         <h3 class="widget-title style2">Featured Entries</h3>
                         <ul class="clearfix">
                             <ul class="">
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016">Discover January</a></li>
+                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016"> Discover January</a></li>
 
 
 
@@ -107,7 +107,7 @@
                         <h3 class="widget-title style2">Associations</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>Version 1.9.5</p>
+                                <p>We are proudly association with <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd">Matty Gale</a>, to whom we closely work with to provide quality content and video production.</p>
                             </li>
                         </ul>
                     </div>
