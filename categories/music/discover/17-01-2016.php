@@ -47,7 +47,7 @@
                         <div class="pd-20 kopa-entry-post">
                             <article class="entry-item">
                                 <p class="entry-categories style-s"><a href="/categories/music">music</a></p>
-                                <h4 class="entry-title">Discover Weekly - January 17th</h4>
+                                <h4 class="entry-title">Discover Weekly - January 17th 2016</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
                                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
@@ -56,7 +56,7 @@
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 17, 2016</span>
                                 </div>
                                 <div class="entry-thumb">
-                                    <img src="/images/categories/music/turn-up-the-music/turn-up-the-music.png" alt="">
+                                    <img src="/images/categories/music/discover/17-01-2016/main.jpg" alt="">
                                 </div>
 
 
@@ -70,18 +70,18 @@
                             <h6 class="txt-up">Pick through our selections..</h6>
                             <div class="kopa-tab style1">
                                 <ul class="nav nav-tabs">
-                                    <li class="active"><a href="e-tab1" data-toggle="tab">Hip Hop</a></li>
+                                    <li class="active"><a href="#e-tab1" data-toggle="tab">Hip Hop</a></li>
                                     <li><a href="#e-tab2" data-toggle="tab">Screamo</a></li>
                                     <li><a href="#e-tab3" data-toggle="tab">Electronic</a></li>
                                 </ul>
                                 <div class="tab-content">
                                     <div class="tab-pane active" id="e-tab1">
                                         <ul class="kopa-e-list list-order">
-                                            <li><i class="order-num">01</i>.</li>
-                                            <li><i class="order-num">02</i>.</li>
-                                            <li><i class="order-num">03</i>.</li>
-                                            <li><i class="order-num">04</i>.</li>
-                                            <li><i class="order-num">05</i>.</li>
+
+                                            <li><i class="order-num">01</i>
+                                              <a target-"_blank" href="https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz">Up and Away (feat. June) - Can't Stop Won't Stop</a>
+                                            </li>
+
                                         </ul>
                                     </div>
                                     <div class="tab-pane" id="e-tab2">

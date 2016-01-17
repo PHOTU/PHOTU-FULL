@@ -44,9 +44,9 @@
 
             <!-- Add content here -->
 
-            <a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
+            <a href="/categories/music/discover/17-01-2016"><img src="/images/categories/music/discover/17-01-2016/indexlisting.jpg" alt=""></a>
 
-            <a href="/categories/music/dicover/17-01-2016"><img src="/images/categories/music/discover/17-01-2016/indexlisting.jpg" alt=""></a>
+            <a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
 
             <!-- End content here -->
 

@@ -20,11 +20,6 @@
                             </ul>
                         </li>
                         <li><a href="categories2.html">food</a></li>
-                        <li><a href="categories3.html">global</a></li>
-                        <li><a href="categories1.html">music</a></li>
-                        <li><a href="categories4.html">reviews</a></li>
-                        <li><a href="categories1.html">shop</a></li>
-                        <li><a href="categories2.html">technology</a></li>-->
                     </ul>
                 </nav>
                 <!--/end bottom-nav-->
@@ -97,9 +92,9 @@
                         <h3 class="widget-title style2">Major Release</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>Version 1.9.1</p>
-                                <p>Released 6th January 2016<br>Developer Sign-Off: Adam Burdass</p>
-                                <p>Bug fixes and general updates including CSS</p>
+                                <p>Version 1.9.5</p>
+                                <p>Released 17th January 2016<br>Developer Sign-Off: Adam Burdass</p>
+                                <p>Private changes.</p>
                             </li>
                         </ul>
                     </div>
