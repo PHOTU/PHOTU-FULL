@@ -1204,7 +1204,7 @@ body {
   line-height: 22px;
   overflow: hidden; }
 
-  entry-text {
+  p.entry-text {
     font-size: 26px;
   }
 
