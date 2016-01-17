@@ -63,10 +63,10 @@
 
                                 <!-- Add Content -->
 
-                                <h3>
+                                <h4>
                                   Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.<br>
                                   I can't guarentee that you'll like our wide range of selections this week, but give them a try you might surprise yourself.
-                                </h3>
+                                </h4>
 
 
                         <br><div class="col-md-12 col-sm-12 col-xs-12">
@@ -89,16 +89,16 @@
                                 </div>
 
 
-                                <h4 class="element-title">
-                                  <p><a href="/contact" target="_blank" class="kopa-button color-button">Send Suggestions</a></p>
-                                </h4>
-
-
-
 
                             </div>
 
                         </div>
+
+
+                        <h4 class="element-title">
+                          <p><a href="/contact" target="_blank" class="kopa-button color-button">Send Suggestions</a></p>
+                        </h4>
+
 
                                 <!-- End Content -->
 
