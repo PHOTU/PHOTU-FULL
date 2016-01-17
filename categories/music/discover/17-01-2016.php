@@ -65,9 +65,7 @@
 
                                 <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
-                                <div>
                                   <img src="/images/categories/music/discover/thetunes.jpg">
-                                </div>
 
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
@@ -115,8 +113,6 @@
 
 
 <!-- AUTHOR INFO -->
-
-                       <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/adam-burdass.php' ); ?>
 
 <!-- END AUTHOR INFO -->
 
