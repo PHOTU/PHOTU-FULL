@@ -95,9 +95,7 @@
                         </div>
 
 
-                        <h4 class="element-title">
                           <p><a href="/contact" target="_blank" class="kopa-button color-button">Send Suggestions</a></p>
-                        </h4>
 
 
                                 <!-- End Content -->
