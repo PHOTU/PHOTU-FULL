@@ -69,10 +69,7 @@
                         <h3 class="widget-title style2">Featured Entries</h3>
                         <ul class="clearfix">
                             <ul class="">
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/technology/matty-gale-youtube/"> Matty Gale YouTube</a></li>
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/reviews/astro-a50-review/"> Astro A50</a><li>
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/spotify-feature/"> The Spotify Review</a><li>
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/general/2016-changes/"> 2016 Changes</a><li>
+                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016">Discover January</a></li>
 
 
 
@@ -100,16 +97,32 @@
                     </div>
                     <!-- widget -->
 
-                    <!--<div class="widget widget_text">
-                        <h3 class="widget-title style2">Latest Editor Quote</h3>
-                        <blockquote class="kopa-blockquote">
-                            <p>Creativity Is Key.</span>
-                        </blockquote>
-                    </div>-->
+                </div>
+                <!-- widget-area-4 -->
+
+
+                <div class="widget-area-4">
+
+                    <div class="widget kopa-editor-widget">
+                        <h3 class="widget-title style2">Associations</h3>
+                        <ul class="clearfix">
+                            <li>
+                                <p>Version 1.9.5</p>
+                            </li>
+                        </ul>
+                    </div>
                     <!-- widget -->
 
                 </div>
                 <!-- widget-area-4 -->
+
+
+
+
+
+
+
+
 
             </div>
             <!-- bottom-area-2 --->

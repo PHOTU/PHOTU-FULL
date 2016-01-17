@@ -24,7 +24,7 @@
 
 
                     <!-- ADD ENTRIES HERE -->
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories/reviews/entry-list/astro-a50-review.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/' ); ?>
 
                     <!-- END OF ENTRIES LIST -->
 

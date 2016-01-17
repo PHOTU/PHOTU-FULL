@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a target="_blank" href="https://www.youtube.com/watch?v=y4vEH0qvzQw"><img src="/images/index/top-most/photu2016.png" alt=""></a>
+                                    <a href="/categories/music/"><img src="/images/index/top-most/discover.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -64,7 +64,7 @@
             <div class="widget-area-8">
 
                 <div class="widget kopa-categories-widget">
-                    <h3 class="widget-title style3">Browse our categories></h3>
+                    <h3 class="widget-title style3">Browse our categories</h3>
                     <div class="pd-20">
                         <div class="owl-carousel owl-carousel-1">
 
