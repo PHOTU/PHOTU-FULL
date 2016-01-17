@@ -107,7 +107,7 @@
                         <h3 class="widget-title style2">Associations</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>We are proudly association with <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd">Matty Gale</a>, to whom we closely work with to provide quality content and video production.</p>
+                                <p>We are proudly associated with <a target="_blank" href="https://www.youtube.com/user/MattyGaleDickEd">Matty Gale</a>, with whom we work closely with to provide quality content and video production.</p>
                             </li>
                         </ul>
                     </div>

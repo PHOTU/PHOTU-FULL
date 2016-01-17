@@ -1,6 +1,6 @@
 <div class="kopa-ticker">
-                        <h6 class="ticker-title">Team Message</h6>
+                        <h6 class="ticker-title">Latest News:</h6>
                         <ul id="js-news" class="news-white-text">
-                            <li>Welcome to 2016! New changes to come very soon!</li>
+                            <li><a href="/categories/music/">Check out our new Discover Weekly to find some refreshing music to listen to!</li>
                         </ul>
                     </div>
