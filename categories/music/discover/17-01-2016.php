@@ -111,16 +111,16 @@
                                               <a target="_blank" href="https://open.spotify.com/track/0TvQSgeyluz0j1BIopCso2">Sacred Organs - Ghost Atlas</a>
                                             </li>
                                             <li><i class="order-num">#13</i>
-                                              <a target="_blank" href=""></a>
+                                              <a target="_blank" href="https://open.spotify.com/track/3QNv5UzB8hhSORC9u5RCzN">You Raise Me Up - Westlife</a>
                                             </li>
                                             <li><i class="order-num">#14</i>
-                                              <a target="_blank" href=""></a>
+                                              <a target="_blank" href="https://open.spotify.com/track/1wYJnu1hMrYMNrkXKTVrYd">Gives You Hell - The All-American Rejects</a>
                                             </li>
                                             <li><i class="order-num">#15</i>
-                                              <a target="_blank" href=""></a>
+                                              <a target="_blank" href="https://open.spotify.com/track/39g7tIStbQuwHTCkn9yuii">Ease - Troye Sivan</a>
                                             </li>
                                             <li><i class="order-num">#16</i>
-                                              <a target="_blank" href=""></a>
+                                              <a target="_blank" href="https://open.spotify.com/track/00qmyBRB83NUPw0GlBADfI">Beat Calls - Scott and Bendo </a>
                                             </li>
 
 
@@ -128,18 +128,25 @@
                                     </div>
 
 
-                                    <h6 class="txt-up">Our Contributors:</h6>
+                                    <br><h6 class="txt-up">Our Contributors:</h6>
                                             <div class="tab-pane active" id="e-tab1">
                                                 <ul class="kopa-e-list list-order">
-                                                    <li><i class="order-num">Name Here</i>
+                                                    <li><i class="order-num">Adam Burdass</i>
                                                     </li>
-                                                    <li><i class="order-num">#2</i>
+                                                    <li><i class="order-num">Shani Thompson</i>
                                                     </li>
-                                                    <li><i class="order-num">#3</i>
+                                                    <li><i class="order-num">Matthew Smith</i>
+                                                    </li>
+                                                    <li><i class="order-num">Jack Sanders</i>
+                                                    </li>
+                                                    <li><i class="order-num">Shannon Storr</i>
                                                     </li>
 
                                                 </ul>
                                             </div>
+
+                                      <br><p>A big thanks to our contributors this week for their suggestions, make sure to contact us below with your favourites during the week to be featured.
+                                        <br>Have a great week, we'll see you next Sunday for another Discover Weekly</p>
 
 
                                     <!-- End Content Wrap -->
