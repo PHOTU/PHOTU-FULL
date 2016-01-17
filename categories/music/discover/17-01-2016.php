@@ -63,7 +63,7 @@
 
                                 <!-- Add Content -->
 
-                                <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
+                                <p class="entry-text">Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
                         <div class="col-md-12 col-sm-12 col-xs-12">
 

@@ -1204,6 +1204,10 @@ body {
   line-height: 22px;
   overflow: hidden; }
 
+  entry-text {
+    font-size: 26px;
+  }
+
 .mb-5 {
   margin-bottom: 5px; }
 
