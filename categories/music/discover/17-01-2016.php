@@ -65,23 +65,26 @@
 
                                 <p>Sigh, although we all wish it was summer time it isn't unfortunately, so let's make do with some tunes to shrug off those winter blues.</p>
 
-                                <img src="/images/categories/music/discover/thetunes.jpg"
+                                <p><img src="/images/categories/music/discover/thetunes.jpg"></p>
 
                         <div class="col-md-12 col-sm-12 col-xs-12">
 
                             <h6 class="txt-up">Pick through our selections..</h6>
                             <div class="kopa-tab style1">
                                 <ul class="nav nav-tabs">
-                                    <li class="active"><a href="#e-tab1" data-toggle="tab">Hip Hop</a></li>
-                                    <li><a href="#e-tab2" data-toggle="tab">Screamo</a></li>
-                                    <li><a href="#e-tab3" data-toggle="tab">Electronic</a></li>
+                                    <li class="active"><a href="#e-tab1" data-toggle="tab">Developer Favourites</a></li>
+                                    <li><a href="#e-tab2" data-toggle="tab">Partners Favourites</a></li>
+                                    <li><a href="#e-tab3" data-toggle="tab">Public Favourites</a></li>
                                 </ul>
                                 <div class="tab-content">
                                     <div class="tab-pane active" id="e-tab1">
                                         <ul class="kopa-e-list list-order">
 
-                                            <li><i class="order-num">01</i>
+                                            <li><i class="order-num">#1</i>
                                               <a target="_blank" href="https://open.spotify.com/track/0O2t6ZqUyXze505PIxc2mz">Up and Away (feat. June) - Can't Stop Won't Stop</a>
+                                            </li>
+                                            <li><i class="order-num">#2</i>
+                                              <a target="_blank" href="https://open.spotify.com/track/78g2GVsDOMef8nC1J1EDkD">Make Believers - Go Periscope</a>
                                             </li>
 
                                         </ul>
