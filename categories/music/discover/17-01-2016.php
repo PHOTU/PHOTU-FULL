@@ -135,7 +135,7 @@
                                                     </li>
                                                     <li><i class="order-num">Shani Thompson</i>
                                                     </li>
-                                                    <li><i class="order-num">Matthew Smith</i>
+                                                    <li><i class="order-num">Matt Smith</i>
                                                     </li>
                                                     <li><i class="order-num">Jack Sanders</i>
                                                     </li>
