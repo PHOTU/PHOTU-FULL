@@ -1685,7 +1685,7 @@ img {
     .main-menu > li a:hover {
       color: #00c5fe;
       background-color: #fff;
-      margin-bottom: 3px #fff; }
+      margin-bottom: 3px #00c5fe; }
     .main-menu > li:first-child {
       margin: 0; }
     .main-menu > li > a {
