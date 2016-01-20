@@ -23,3 +23,11 @@
  </IfModule>
 
 ErrorDocument 404 /404.php
+
+# Redirect .org to .co
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteCond %{HTTP_HOST} ^photu.org$ [OR]
+  RewriteCond %{HTTP_HOST} ^www.photu.org$
+  RewriteRule (.*)$ http://www.photu.co/$1 [R=301,L]
+</IfModule>
