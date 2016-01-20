@@ -18,14 +18,5 @@
                                             <p>Discover the music that the developers, content producers and general public have been listening to recently.</p>
                                         </div>
                                     </div>
-                                    <footer class="entry-footer">
-                                        <div class="kopa-social-links pull-left style4">
-                                            <ul class="clearfix">
-                                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                            </ul>
-                                        </div>
-                                        <span class="pull-right kopa-entry-view">WEEKLY</span>
-                                    </footer>
                                 </article>
                             </li>

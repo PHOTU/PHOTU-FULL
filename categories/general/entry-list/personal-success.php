@@ -15,17 +15,8 @@
                                                 &nbsp;|&nbsp;
                                                 <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 1, 2016</span>
                                             </div>
-                                            <p>When you think of success, do you think about your career, or yourself as a person? Perhaps we can explain..</p> 
+                                            <p>When you think of success, do you think about your career, or yourself as a person? Perhaps we can explain..</p>
                                         </div>
-                                    </div>
-                                    <footer class="entry-footer">
-                                        <div class="kopa-social-links pull-left style4">
-                                            <ul class="clearfix">
-                                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                            </ul>
-                                        </div>
-                                        <span class="pull-right kopa-entry-view">HOT</span>
-                                    </footer>       
+                                    </div>      
                                 </article>
                             </li>

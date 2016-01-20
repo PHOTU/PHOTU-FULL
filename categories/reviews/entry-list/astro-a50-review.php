@@ -15,17 +15,8 @@
                                                 &nbsp;|&nbsp;
                                                 <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 12, 2015</span>
                                             </div>
-                                            <p>We review the Astro A50's - High end gaming headsets.</p> 
+                                            <p>We review the Astro A50's - High end gaming headsets.</p>
                                         </div>
-                                    </div>
-                                    <footer class="entry-footer">
-                                        <div class="kopa-social-links pull-left style4">
-                                            <ul class="clearfix">
-                                                <li><a href="#" class="fa fa-facebook"></a></li>
-                                                <li><a href="#" class="fa fa-twitter"></a></li>
-                                            </ul>
-                                        </div>
-                                        <span class="pull-right kopa-entry-view">HOT</span>
-                                    </footer>       
+                                    </div>   
                                 </article>
                             </li>
