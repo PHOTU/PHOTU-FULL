@@ -1,5 +1,5 @@
 <div class="kopa-author clearfix">
-                                <a class="author-thumb"><img href="/authors" src="/images/authors/adam-burdass-medium.jpg" alt=""></a>
+                                <div class="author-thumb"><a img href="/authors" src="/images/authors/adam-burdass-medium.jpg" alt=""></a>
                                 <div class="author-content clearfix">
                                     <h4 class="author-name">ABOUT THE AUTHOR - <a href="/authors">ADAM</a></h4>
                                     <p>Hobbyist Developer, Technology Enthusiast and Director of PHOTU.</p>
