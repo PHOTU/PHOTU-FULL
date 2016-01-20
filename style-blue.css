@@ -1047,7 +1047,7 @@ blockquote {
 
 /*----- Social Links -----*/
 .kopa-social-links ul {
-  margin: -5px -5px; }
+  margin: 4px -5px; }
   .kopa-social-links ul li {
     float: left;
     margin: 5px 5px 0;
