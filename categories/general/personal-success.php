@@ -49,9 +49,7 @@
                                 <p class="entry-categories style-s"><a href="/categories/general">General</a></p>
                                 <h4 class="entry-title">How do you judge your own personal success and how it defines you?</h4>
                                 <div class="entry-meta mb-20">
-                                    <a href="#">
                                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
-                                    </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 1, 2016</span>
                                 </div>

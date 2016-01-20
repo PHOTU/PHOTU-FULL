@@ -49,9 +49,7 @@
                                 <p class="entry-categories style-s"><a href="/categories/technology">Technology</a></p>
                                 <h4 class="entry-title">How do developers learn from past mistakes?</h4>
                                 <div class="entry-meta mb-20">
-                                    <a href="#">
                                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>
-                                    </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 09, 2016</span>
                                 </div>

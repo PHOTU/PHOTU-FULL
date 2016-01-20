@@ -49,9 +49,7 @@
                                 <p class="entry-categories style-s"><a href="/categories/technology">Technology</a></p>
                                 <h4 class="entry-title">We take a look at how technology improves Matty's experience on YouTube.</h4>
                                 <div class="entry-meta mb-20">
-                                    <a href="#">
                                     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/matty-gale.php' ); ?>
-                                    </a>
                                     &nbsp;|&nbsp;
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Dec 17, 2015</span>
                                 </div>
