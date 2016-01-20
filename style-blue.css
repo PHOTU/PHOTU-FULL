@@ -214,14 +214,14 @@ h6, .h6, .filters-options li {
 .element-title, .widget-title.style3, .widget-title.style5 {
   text-transform: uppercase;
   padding: 12px 20px;
-  border-bottom: 0px solid #00c5fe;
+  border-bottom: 2px solid #00c5fe;
   position: relative; }
   .element-title:before, .widget-title.style3:before, .widget-title.style5:before {
     content: '';
     position: absolute;
     top: 7px;
     left: 0;
-    width: 4px;
+    width: 0px;
     height: 36px;
     background: #00c5fe; }
 
