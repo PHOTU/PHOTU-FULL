@@ -5897,6 +5897,9 @@ width: 1170px; }
   .kopa-header-top {
     height: 0px; }
 
+  .kopa-social-links ul {
+    margin: -43px -5px; }
+
 
   .header-top-left {
     display: none; }
