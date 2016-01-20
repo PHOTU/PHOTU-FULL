@@ -1483,7 +1483,7 @@ img {
 /*--- Header bottom ---*/
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
-  border-bottom: 0px solid #fff; }
+  border-bottom: 3px solid #00c5fe; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;
@@ -1683,8 +1683,8 @@ img {
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s; }
     .main-menu > li a:hover {
-      color: #00c5fe;
-      background-color: #fff;
+      color: #fff;
+      background-color: #00c5fe;
       margin-bottom: 3px #00c5fe; }
     .main-menu > li:first-child {
       margin: 0; }

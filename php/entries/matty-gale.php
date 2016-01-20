@@ -1,4 +1,4 @@
                                         <div class="entry-author">
-                                            <img src="/images/authors/admin.png" alt="">
+                                            <a img href="/authors" src="/images/authors/matty-gale.png" alt=""></a>
                                             <span>Matty Gale</span>
                                         </div>
