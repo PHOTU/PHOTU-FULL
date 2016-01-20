@@ -1148,17 +1148,17 @@ blockquote {
   font-family: "Roboto Condensed", sans-serif;
   font-size: 14px;
   line-height: 22px;
-  color: #696872;
+  color: #00c5fe;
   font-weight: 600;
   padding: 8px 20px;
   border-left: 1px solid #ededed; }
   .kopa-entry-view:before {
     content: '\f06d';
-    color: #d1d1d1;
+    color: #00c5fe;
     margin-right: 5px; }
 
 .entry-footer {
-  border-top: 1px solid #d1d1d1; }
+  border: 1px solid #d1d1d1; }
 
 .kopa-e-list li {
   margin-top: 15px;
@@ -1482,7 +1482,7 @@ img {
 
 /*--- Header bottom ---*/
 .kopa-header-bottom .header-bottom-wrap {
-  background: #00c5fe;
+  background: #292929;
   border-bottom: 0px solid #fff; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
@@ -1699,10 +1699,10 @@ img {
       margin: 0;
       border: none;
       position: relative;
-      transition: all 0.5s;
-      -ms-transition: all 0.5s;
-      -webkit-transition: all 0.5s;
-      -moz-transition: all 0.5s; }
+      transition: all 0.25s;
+      -ms-transition: all 0.25s;
+      -webkit-transition: all 0.25s;
+      -moz-transition: all 0.25s; }
     .main-menu > li ul.sub-menu {
       width: 110px;
       display: none;
@@ -4449,7 +4449,7 @@ address {
       margin-top: 20px; }
   .article-list-16 .entry-item, .kopa-masonry-6-widget .entry-item {
     background: #fff;
-    border-bottom: 2px solid #d1d1d1; }
+    border-bottom: 2px solid #00c5fe; }
     .article-list-16 .entry-item .entry-content .entry-title, .kopa-masonry-6-widget .entry-item .entry-content .entry-title {
       font-size: 22px;
       line-height: 30px; }
