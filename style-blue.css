@@ -214,7 +214,7 @@ h6, .h6, .filters-options li {
 .element-title, .widget-title.style3, .widget-title.style5 {
   text-transform: uppercase;
   padding: 12px 20px;
-  border-bottom: 2px solid #dfdfdf;
+  border-bottom: 2px solid #00c5fe;
   position: relative; }
   .element-title:before, .widget-title.style3:before, .widget-title.style5:before {
     content: '';
@@ -1199,7 +1199,7 @@ html {
   overflow-x: hidden; }
 
 body {
-  background: #f7efef;
+  background: #fff;
   font-family: "Roboto", sans-serif;
   color: #000000;
   font-size: 13px;
@@ -1380,13 +1380,13 @@ img {
  * -------------------------------------------------------------------
  */
 .kopa-header {
-  background: #f7efef;
+  background: #fff;
   position: relative;
   margin-bottom: 0; }
 
 /*--- Header top ---*/
 .kopa-header-top {
-  background: #32323c; }
+  background: #292929; }
   .kopa-header-top .wrapper {
     position: relative; }
 
@@ -1482,7 +1482,7 @@ img {
 
 /*--- Header bottom ---*/
 .kopa-header-bottom .header-bottom-wrap {
-  background: #32323c;
+  background: #292929;
   border-bottom: 0px solid #00c5fe; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
@@ -1585,7 +1585,7 @@ img {
   display: none; }
   .top-nav-mobile .pull {
     font-size: 20px;
-    background: #3e3e4a;
+    background: #292929;
     padding: 10px 15px;
     color: #ededed;
     z-index: 99;
@@ -1610,7 +1610,7 @@ img {
       .top-nav-mobile .top-menu-mobile > li:first-child {
         border: 0; }
       .top-nav-mobile .top-menu-mobile > li > a {
-        color: #3e3e4a;
+        color: ##292929;
         font-family: "Roboto Condensed", sans-serif;
         text-transform: uppercase;
         font-size: 13px;
@@ -1844,7 +1844,7 @@ img {
     .sf-mega .kopa-article-list-widget.menu-list-1 .entry-item .entry-thumb {
       margin-bottom: 20px; }
 
-.kopa-list-sub-widget .widget-title {
+.kopa-list-sub-widget . {
   padding: 7px;
   border-bottom: 1px solid #dfdfdf;
   margin-bottom: 0;
@@ -2849,7 +2849,7 @@ address {
 .widget-title.style2 {
   margin-bottom: 20px;
   padding-bottom: 15px;
-  border-bottom: 2px solid #60606a; }
+  border-bottom: 2px solid #00c5fe; }
 
 .widget-title.style3, .widget-title.style5 {
   margin-bottom: 0; }
@@ -2860,7 +2860,7 @@ address {
   text-align: center;
   margin-bottom: 0;
   padding: 14px 20px;
-  border-bottom: 2px solid #60606a; }
+  border-bottom: 2px solid #00c5fe; }
 
 .widget-title.style5 {
   background: #1a1a1f;
@@ -2886,7 +2886,7 @@ address {
       height: 54px;
       line-height: 54px;
       font-size: 20px;
-      background: #3e3e4a;
+      background: #00c5fe;
       color: #fff;
       margin-left: 10px; }
 
@@ -3299,21 +3299,21 @@ address {
 
 .widget-area-1 {
   width: 20%;
-  background: #3a3a45; }
+  background: #292929; }
   .widget-area-1 .widget {
     margin-bottom: 20px; }
 
 .widget-area-2 {
   width: 20%;
-  background-color: #3a3a45; }
+  background-color: #292929; }
 
 .widget-area-3 {
   width: 20%;
-  background-color: #3a3a45; }
+  background-color: #292929; }
 
 .widget-area-4 {
   width: 20%;
-  background-color: #3a3a45; }
+  background-color: #292929; }
 
 /*--- grid ---*/
 .style1.row {
@@ -5614,17 +5614,17 @@ address {
       display: none; }
 
 .bottom-area-1 {
-  background: #32323c;
+  background: #292929;
   border-bottom: 4px solid #00c5fe;
   padding: 14px 46px;
   position: relative; }
 
 .bottom-area-2 {
-  background: #3a3a45; }
+  background: #292929; }
 
 .bottom-area-3 {
   padding: 35px 0 5px;
-  background: #32323c; }
+  background: #292929; }
 
 /**
 * 4. - Footer / kopa-footer
@@ -5635,7 +5635,7 @@ address {
   text-align: center; }
   #kopa-footer .wrapper {
     padding: 15px 10px;
-    background: #32323c; }
+    background: #292929; }
 
 #copyright {
   margin: 0;
