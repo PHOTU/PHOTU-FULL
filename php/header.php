@@ -32,7 +32,7 @@
                 <div class="kopa-social-links pull-right">
                     <ul class="clearfix">
                         <li><a target="_blank" href="http://www.facebook.com/officialphotu" class="fa fa-facebook"></a></li>
-                        <li><a href="#" class="fa fa-twitter"></a></li>
+                        <li><a target="_blank" href="http://www.twitter.com/officialphotu" class="fa fa-twitter"></a></li>
                     </ul>
                 </div>
                 <!-- kopa-social-links -->

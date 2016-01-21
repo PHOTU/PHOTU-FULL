@@ -40,7 +40,7 @@
                                 <a target="_blank" href="http://www.facebook.com/officialphotu"><i class="fa fa-facebook"></i><span>facebook</span></a>
                             </li>
                             <li>
-                                <a href="#"><i class="fa fa-twitter"></i><span>twitter</span></a>
+                                <a href="http://www.twitter.com/officialphotu"><i class="fa fa-twitter"></i><span>twitter</span></a>
                             </li>
                             <li>
                                 <a href="#"><i class="fa fa-youtube"></i><span>youtube</span></a>
