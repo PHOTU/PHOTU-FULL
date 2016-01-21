@@ -113,7 +113,7 @@ a, .panel-group .panel .panel-heading, .panel-group .panel .panel-heading:before
   text-shadow: none; }
 
 a {
-  color: #3e3e4a;
+  color:inherit;
   text-decoration: none !important;
   outline: none !important; }
   a:hover, a:active {
@@ -168,8 +168,8 @@ red-title a. {
   font-weight: 700;
   display: block;
   margin: 0 0 15px;
-  font-size: 32px;
-  line-height: 40px; }
+  font-size: 34px;
+  line-height: 42px; }
 }
 
 h2, .h2 {
