@@ -2515,7 +2515,7 @@ img {
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     border-radius: 50%;
-    border: 3px solid #d1d1d1; }
+    border: 3px solid #3e3e4a; }
   .owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls .owl-page:hover span {
     border-color: #00c5fe; }
 .owl-theme .owl-controls.style1 {
@@ -6118,9 +6118,12 @@ width: 1170px; }
   .wrapper {
     width: 300px; }
 
+    .kopa-logo img {
+      max-width: 57%;
+      margin-left: 25px }
 
     .kopa-social-links ul {
-      margin: -43px 40px; }
+      margin: -43px 30px; }
 
   .ms-item1.size1 .entry-item .entry-content {
     padding: 10px 15px; }
