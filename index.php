@@ -37,22 +37,19 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                <h3 class="widget-title style3">Featured Entries</span></h3>
+                                <h1 class="widget-title style3">Featured Entries</span></h1>
                                 <div class="pd-20">
-                                    <div class="owl-carousel owl-carousel-1">
+                                    <div>
 
 
             <!-- Add content here -->
 
-            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories\technology\entry-list\matty-gale-youtube.php' ); ?>
-
-            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories\technology\entry-list\matty-gale-youtube.php' ); ?>
+            <p>test content...</p>
 
             <!-- End content here -->
 
 
                                     </div>
-                                    <!-- owl-carousel-1 -->
                                 </div>
                             </div>
                             <!-- widget -->
