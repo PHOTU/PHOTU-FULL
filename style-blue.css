@@ -6026,11 +6026,11 @@ width: 1170px; }
     width: 320px; }
 
     .kopa-social-links ul {
-      margin: -43px -40px; }
+      margin: -43px -30px; }
 
     .kopa-logo img {
       max-width: 57%;
-      margin-left: 35px }
+      margin-left: 25px }
 
   .article-list-3 .widget-content .last-item {
     width: 100%;
@@ -6114,7 +6114,7 @@ width: 1170px; }
     .kopa-blockquote.style3 p {
       font-size: 18px;
       line-height: 26px; } }
-@media screen and (max-width: 361px) {
+@media screen and (max-width: 359px) {
   .wrapper {
     width: 300px; }
 
