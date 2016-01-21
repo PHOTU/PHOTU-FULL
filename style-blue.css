@@ -1483,7 +1483,7 @@ img {
 /*--- Header bottom ---*/
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
-  border-bottom: 3px solid #00c5fe; }
+  border-bottom: 0px solid #00c5fe; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;
@@ -5748,7 +5748,8 @@ width: 1170px; }
     width: 760px; }
 
   .top-nav, .kopa-main-nav {
-    display: none; }
+    display: none;
+    visibility: hidden; }
 
   .top-nav-mobile, .main-nav-mobile {
     display: block;
@@ -6023,6 +6024,13 @@ width: 1170px; }
 @media screen and (max-width: 479px) {
   .wrapper {
     width: 320px; }
+
+    .kopa-social-links ul {
+      margin: -43px 40px; }
+
+    .kopa-logo img {
+      max-width: 57%;
+      margin-left: 35px }
 
   .article-list-3 .widget-content .last-item {
     width: 100%;

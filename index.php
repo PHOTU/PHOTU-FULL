@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/technology"><img src="/images/index/top-most/code.jpg" alt=""></a>
+                                    <a href="/categories/technology/dev-blog/week-one.php"><img src="/images/index/top-most/code.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -37,8 +37,8 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                <h1 class="widget-title style3">Featured Entries</span></h1>
-                                <div class="pd-20">
+                                <h1><a href="/categories/technology/dev-blog/week-one.php">DEV BLOG - WEEK ONE</a></h1>
+                                <div>
                                     <div>
 
 
