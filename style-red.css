@@ -162,6 +162,10 @@ h1, .h1, .kopa-dropcap {
   font-size: 34px;
   line-height: 42px; }
 
+red-title {
+  colour: #d3312b;
+}
+
 h2, .h2 {
   font-size: 32px;
   line-height: 40px; }
@@ -921,6 +925,7 @@ blockquote {
   line-height: 22px;
   color: #3e3e4a;
   background: #ededed;
+  border-radius: 2px;
   padding: 8px 27px; }
   .kopa-button:hover {
     background: #d3312b;
@@ -1059,12 +1064,12 @@ blockquote {
       height: 46px;
       line-height: 46px;
       font-size: 25px;
-      background: #d3312b;
-      border-radius: 50%;
+      background: #292929;
+      border-radius: 10%;
       color: #fff; }
       .kopa-social-links ul li a:hover {
-        color: #d3312b;
-        background: #fff; }
+        color: #fff;
+        background: #d3312b; }
 .kopa-social-links.style1 ul li a {
   display: inline-block;
   text-align: center;
@@ -1483,7 +1488,8 @@ img {
 /*--- Header bottom ---*/
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
-  border-bottom: 0px solid #d3312b; }
+  border-bottom: 0px solid #d3312b;
+  border-radius: 2px; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;

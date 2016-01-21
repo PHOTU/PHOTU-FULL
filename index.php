@@ -37,7 +37,7 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                <h1><a href="/categories/technology/dev-blog/week-one.php">DEV BLOG - WEEK ONE</a></h1>
+                                <h1 class="red-title"><a href="/categories/technology/dev-blog/week-one.php">DEV BLOG - WEEK ONE</a></h1>
                                 <div>
                                     <div>
 
@@ -61,7 +61,6 @@
             <div class="widget-area-8">
 
                 <div class="widget kopa-categories-widget">
-                    <h3 class="widget-title style3">Browse our categories</h3>
                     <div class="pd-20">
                         <div class="owl-carousel owl-carousel-1">
 
