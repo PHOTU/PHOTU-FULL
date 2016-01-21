@@ -45,6 +45,9 @@
                             <li>
                                 <a href="#"><i class="fa fa-youtube"></i><span>youtube</span></a>
                             </li>
+                            <li>
+                                <a href="/contact"><i class="fa fa-contact"></i><span>Contact Us</span></a>
+                            </li>
                         </ul>
                     </div>
                     <!-- widget -->
