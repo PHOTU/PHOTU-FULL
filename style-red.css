@@ -162,7 +162,7 @@ h1, .h1, .kopa-dropcap {
   font-size: 34px;
   line-height: 42px; }
 
-red-title {
+h1.red-title {
   colour: #d3312b;
 }
 
