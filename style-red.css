@@ -172,7 +172,7 @@ red-title {
   line-height: 42px; }
 }
 
-.red-title li a {
+red-title a {
   color: #d3312b;
   text-decoration: none !important;
   outline: none !important; }
