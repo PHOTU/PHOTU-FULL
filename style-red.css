@@ -162,12 +162,14 @@ h1, .h1, .kopa-dropcap {
   font-size: 34px;
   line-height: 42px; }
 
-red-title {
+red-title a. {
   font-family: "Roboto Condensed", sans-serif;
   colour: #d3312b;
   font-weight: 700;
   display: block;
-  margin: 0 0 15px; }
+  margin: 0 0 15px;
+  font-size: 32px;
+  line-height: 40px; }
 }
 
 h2, .h2 {
