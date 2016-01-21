@@ -113,7 +113,7 @@ a, .panel-group .panel .panel-heading, .panel-group .panel .panel-heading:before
   text-shadow: none; }
 
 a {
-  color:inherit;
+  color: #3e3e4a;
   text-decoration: none !important;
   outline: none !important; }
   a:hover, a:active {
@@ -171,6 +171,16 @@ red-title {
   font-size: 34px;
   line-height: 42px; }
 }
+
+red-title a {
+  color: #d3312b;
+  text-decoration: none !important;
+  outline: none !important; }
+  a:hover, a:active {
+    color: #d3312b;
+    text-decoration: none; }
+  a:focus {
+    outline: none; }
 
 h2, .h2 {
   font-size: 32px;
