@@ -37,7 +37,7 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                <red-title><a href="/categories/technology/dev-blog/week-one.php">DEV BLOG - WEEK ONE</a></red-title>
+                                <div class="red-title"><a href="/categories/technology/dev-blog/week-one.php">DEV BLOG - WEEK ONE</a></div>
                                 <div>
                                     <div>
 
