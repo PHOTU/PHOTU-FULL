@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/music/"><img src="/images/index/top-most/discover.jpg" alt=""></a>
+                                    <a href="/categories/technology"><img src="/images/index/top-most/code.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -44,9 +44,9 @@
 
             <!-- Add content here -->
 
-            <a href="/categories/music/discover/17-01-2016"><img src="/images/categories/music/discover/17-01-2016/indexlisting.jpg" alt=""></a>
+            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories\technology\entry-list\matty-gale-youtube.php' ); ?>
 
-            <a href="/categories/technology/matty-gale-youtube/"><img src="/images/categories/technology/matty-gale-youtube.png" alt=""></a>
+            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/categories\technology\entry-list\matty-gale-youtube.php' ); ?>
 
             <!-- End content here -->
 
