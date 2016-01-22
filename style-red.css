@@ -1446,7 +1446,7 @@ img {
   float: left;
   font-size: 14px;
   line-height: 22px;
-  font-weight: 700;
+  font-weight: 400;
   text-transform: uppercase;
   color: #ededed;
   padding: 10px 10px 10px 18px;
@@ -1464,7 +1464,7 @@ img {
   display: none !important; }
 .kopa-ticker .ticker-content {
   margin: 0;
-  font-weight: 700; }
+  font-weight: 100; }
   .ticker-content {
     color: #ededed; }
   .kopa-ticker .ticker-content a {
@@ -1508,7 +1508,7 @@ img {
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
   border-bottom: 0px solid #d3312b;
-  border-radius: 2px; }
+  border-radius: 0px; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;
@@ -5647,8 +5647,7 @@ address {
       display: none; }
 
     .bottom-menu > li > a:hover {
-      color: #fff;
-      background: #d3312b; }
+      color: #d3312b;
 
 .bottom-area-1 {
   background: #292929;
