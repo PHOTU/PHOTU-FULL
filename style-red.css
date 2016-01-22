@@ -5648,7 +5648,7 @@ address {
 
     .bottom-menu > li > a:hover {
       color: #fff;
-      background: #d3312b; }
+      background: inherit; }
 
 .bottom-area-1 {
   background: #292929;
