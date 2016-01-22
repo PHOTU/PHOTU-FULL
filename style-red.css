@@ -1688,7 +1688,7 @@ img {
     .main-menu .sf-with-ul:after {
       content: "\f0d7";
       font-size: 12px;
-      color: #d3312b;
+      color: #fff;
       border: none;
       margin: 0;
       position: absolute;
@@ -1744,15 +1744,16 @@ img {
         position: relative;
         white-space: normal;
         padding: 7px 10px;
-        border-top: 1px solid #dfdfdf; }
+        border-top: 0px solid #dfdfdf; }
       .main-menu > li ul.sub-menu li:hover {
         background-color: #d3312b;
       }
         .main-menu > li ul.sub-menu li:first-child {
           border: none; }
         .main-menu > li ul.sub-menu li a {
-          padding: 0;
+          padding: 5px 10px;
           margin: 0;
+          width: 110px;
           border: none;
           font-family: "Roboto Condensed", sans-serif;
           font-size: 13px;
