@@ -18,14 +18,22 @@
                     <p>404</p>
                 </div><!--left-col-->
                 <div class="right-col">
-                    <h1>Page not found...</h1>
-                    <p>We're sorry, but we can't find the page you were looking for. It's probably something we've done wrong but now we know about it we'll try to fix it. In the meantime, try one of these options:</p>
-                    <ul class="arrow-list">
-                        <li>
-                            <a href="/">Go to homepage</a>
-                        </li>
-                    </ul>
-                </div><!--right-col-->
+                    <h1>Sorry about that!</h1>
+                    <p>We're sorry, but we can't find the page you were looking for. It's probably something we've done wrong. In the meantime, try one of these options:</p>
+                            <div class="tab-pane active" id="e-tab1">
+                                <ul class="kopa-e-list list-order">
+                                    <li><i class="order-num">#1</i>
+                                      <a href="/">Return to home</a>
+                                    </li>
+                                    <li><i class="order-num">#2</i>
+                                      <a target="_blank" href="www.facebook.com/officialphotu">Check for status updates</a>
+                                    </li>
+                                    <li><i class="order-num">#3</i>
+                                      <a href="/contact">Inform us about an issue</a>
+                                    </li>
+                                </ul>
+                            </div>
+                </div>
             </section>
 
         </div>

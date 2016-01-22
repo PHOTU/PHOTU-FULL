@@ -1509,7 +1509,7 @@ img {
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
   border-bottom: 0px solid #d3312b;
-  border-radius: 2px; }
+  border-radius: 0px; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;
