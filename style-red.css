@@ -163,7 +163,7 @@ p i {
 h1, h2, h3, h4, h5, h6, .h1, .kopa-dropcap, .h2, .h3, .h4, .h5, .h6, .filters-options li {
   font-family: "Roboto Condensed", sans-serif;
   color: #3e3e4a;
-  font-weight: 700;
+  font-weight: 500;
   display: block;
   margin: 0 0 15px; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .kopa-dropcap a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a, .filters-options li a {
@@ -285,8 +285,8 @@ blockquote {
 
 .kopa-blockquote.style1 {
   border-top: 4px solid #d3312b;
-  border-bottom: 1px solid #dfdfdf;
-  background: #f8f8f8;
+  border-bottom: 4px solid #D3312B;
+  background: #fff;
   padding: 25px 25px 25px 76px;
   position: relative;
   min-height: 100px;
@@ -298,7 +298,7 @@ blockquote {
   .kopa-blockquote.style1:before {
     content: '\f10e';
     font-size: 40px;
-    color: #ededed;
+    color: #292929;
     position: absolute;
     top: 30px;
     left: 20px; }
@@ -2718,6 +2718,7 @@ address {
     line-height: 30px; }
   .contact-box .input-label, .comment-box .input-label {
     color: #3e3e4a;
+    font-weight: bold;
     margin: 5px 0 5px; }
     .contact-box .input-label > span, .comment-box .input-label > span {
       color: #d3312b;
@@ -3888,7 +3889,8 @@ address {
 
 .vw-social-counter-counter {
   float: left;
-  display: inline-block; }
+  display: inline-block;
+  margin-left: 10px; }
 
 .vw-social-counter-counter .vw-social-counter-count {
   color: #FFF; }
@@ -5356,7 +5358,7 @@ address {
     border-radius: 50%; }
     .kopa-author .author-thumb img {
       width: 100%;
-      border-radius: 50%; }
+      border-radius: 5%; }
   .kopa-author .author-content {
     overflow: hidden;
     padding-bottom: 10px; }
@@ -5366,7 +5368,7 @@ address {
       line-height: 24px;
       color: #3e3e4a;
       text-transform: uppercase;
-      font-weight: 700;
+      font-weight: 500;
       margin-bottom: 10px; }
       .kopa-author .author-content .author-name a {
         color: #d3312b; }
@@ -5705,7 +5707,7 @@ address {
   width: 54px;
   height: 54px;
   line-height: 50px;
-  font-size: 15px;
+  font-size: 20px;
   position: absolute;
   top: 0;
   margin-top: -27px;
