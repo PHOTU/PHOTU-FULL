@@ -1677,7 +1677,8 @@ img {
 /*--- main-nav ---*/
 .kopa-main-nav {
   width: 100%;
-  float: left; }
+  float: left;
+  cursor: default; }
 
 .main-menu {
   position: relative;

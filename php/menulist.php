@@ -2,7 +2,7 @@
                                 <a href="/">Home</a>
                             </li>
                             <li class="">
-                                <a href="">Categories</a>
+                                <a>Categories</a>
                                 <ul class="sub-menu" style="display: none;">
                                     <li><a href="/categories/technology">Technology</a></li>
                                     <li><a href="/categories/music">Music</a></li>
@@ -11,9 +11,10 @@
                                 </ul>
                             </li>
                             <li class="">
-                                <a href="">About Us</a>
+                                <a>About Us</a>
                                 <ul class="sub-menu" style="display: none;">
                                     <li><a href="/authors">Authors</a></li>
+                                    <li><a href="/history">Our History</a></li>
                                 </ul>
                             </li>
                             <li class="menu-item">
