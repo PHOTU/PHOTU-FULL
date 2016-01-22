@@ -7,7 +7,6 @@
 
                 <nav class="bottom-nav">
                     <ul class="bottom-menu">
-                        <li><a href="/">Home</a></li>
                         <li><a href="/categories/technology">Technology</a></li>
                         <li><a href="/categories/reviews">Reviews</a></li>
                         <li><a href="/categories/music">Music</a></li>
@@ -69,10 +68,11 @@
                 <div class="widget-area-2">
 
                     <div class="widget widget_pages">
-                        <h3 class="widget-title style2">Featured Entries</h3>
+                        <h3 class="widget-title style2">Weekly Features</h3>
                         <ul class="clearfix">
                             <ul class="">
-                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/discover/17-01-2016"> Discover January 17th</a></li>
+                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/music/"> Discover Weekly</a></li>
+                                <li><span class="fa fa-hand-o-right"></span><a href="/categories/technology/"> The Dev Blog</a></li>
 
 
 
@@ -92,9 +92,9 @@
                         <h3 class="widget-title style2">Major Release</h3>
                         <ul class="clearfix">
                             <li>
-                                <p>Version 1.9.5</p>
-                                <p>Released 17th January 2016<br>Developer Sign-Off: Adam Burdass</p>
-                                <p>Private changes.</p>
+                                <p>Version 2.3.0</p>
+                                <p>Released 22nd January 2016<br>Developer Sign-Off: Adam Burdass</p>
+                                <p>Too many to list.</p>
                             </li>
                         </ul>
                     </div>

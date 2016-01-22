@@ -2375,7 +2375,6 @@ img {
     line-height: 20px;
     color: #000000;
     text-transform: capitalize;
-    font-style: italic;
     font-weight: 500;
     margin-top: 5px; }
     .entry-meta > span i, .entry-meta > p i {
@@ -2403,7 +2402,6 @@ img {
 .entry-author span {
   font-weight: 500;
   color: #d3312b;
-  font-style: italic;
   display: inline; }
 
 /*--- pagination ---*/
@@ -5251,7 +5249,7 @@ address {
     margin-bottom: 0; }
 
 .kopa-entry-post > article .entry-title {
-  font-size: 24px;
+  font-size: 25px;
   line-height: 32px;
   margin-bottom: 10px; }
 .kopa-entry-post > article .entry-thumb {

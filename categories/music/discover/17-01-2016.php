@@ -11,27 +11,6 @@
 
 <!-- ADD IN THE BREADCRUMB LINKS -->
 
-<div class="kopa-breadcrumb">
-        <div class="wrapper clearfix">
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" href="/">
-                    <span itemprop="title">Home</span>
-                </a>
-            </span>
-            &nbsp;|&nbsp;
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" href="/categories/music">
-                    <span itemprop="title">Music</span>
-                </a>
-            </span>
-            &nbsp;|&nbsp;
-            <span itemtype="http://data-vocabulary.org/Breadcrumb" itemscope="">
-                <a itemprop="url" class="current-page">
-                    <span itemprop="title">Discover Weekly</span>
-                </a>
-            </span>
-        </div>
-    </div>
 
 <!-- END THE BREADCRUMB LINKS -->
 
@@ -46,7 +25,6 @@
                     <div class="widget">
                         <div class="pd-20 kopa-entry-post">
                             <article class="entry-item">
-                                <p class="entry-categories style-s"><a href="/categories/music">music</a></p>
                                 <h4 class="entry-title">Discover Weekly - January 17th 2016</h4>
                                 <div class="entry-meta mb-20">
                                     <a href="#">
