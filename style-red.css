@@ -1935,8 +1935,8 @@ img {
     width: 280px;
     z-index: 999999;
     display: none;
-    background: #fff;
-    border: 1px solid #ededed;
+    background: #d3312b;
+    border: 1px solid #B2B2B3;
     padding: 5px 15px 0;
     text-align: left; }
     .main-nav-mobile .main-menu-mobile > li {
@@ -1946,15 +1946,15 @@ img {
       .main-nav-mobile .main-menu-mobile > li:first-child {
         border: 0; }
       .main-nav-mobile .main-menu-mobile > li > a {
-        color: #3e3e4a;
+        color: #fff;
         font-family: "Roboto", sans-serif;
-        text-transform: capitalize;
-        font-size: 14px;
+        text-transform: uppercase;
+        font-size: 16px;
         font-weight: bold;
         display: block;
         padding: 10px 25px 10px 0; }
         .main-nav-mobile .main-menu-mobile > li > a:hover {
-          color: #d3312b; }
+          color: #fff; }
         .main-nav-mobile .main-menu-mobile > li > a > span {
           position: absolute;
           right: 5px;
@@ -1964,17 +1964,17 @@ img {
           .main-nav-mobile .main-menu-mobile > li > a > span:after {
             content: '\f107'; }
       .main-nav-mobile .main-menu-mobile > li.current-menu-item > a {
-        color: #d3312b; }
+        color: #fff; }
       .main-nav-mobile .main-menu-mobile > li .sub-menu li {
-        border-top: 1px solid #ededed; }
+        border-top: 1px dashed #ededed; }
         .main-nav-mobile .main-menu-mobile > li .sub-menu li a {
-          padding: 12px 12px 12px 20px;
-          color: #3e3e4a;
-          text-transform: capitalize;
+          padding: 6px 12px 6px 30px;
+          color: #fff;
+          text-transform: uppercase;
           display: block;
           position: relative; }
           .main-nav-mobile .main-menu-mobile > li .sub-menu li a:hover {
-            color: #d3312b; }
+            color: #fff; }
         .main-nav-mobile .main-menu-mobile > li .sub-menu li span {
           display: none; }
         .main-nav-mobile .main-menu-mobile > li .sub-menu li .sub-menu {
@@ -1984,7 +1984,7 @@ img {
           height: auto !important;
           width: 100%; }
         .main-nav-mobile .main-menu-mobile > li .sub-menu li.current-menu-item > a {
-          color: #d3312b; }
+          color: #fff; }
       .main-nav-mobile .main-menu-mobile > li > div h5 {
         text-transform: uppercase;
         margin: 5px 0 15px; }
