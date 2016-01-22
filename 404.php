@@ -26,7 +26,7 @@
                                       <a href="/">Return to home</a>
                                     </li>
                                     <li><i class="order-num">#2</i>
-                                      <a target="_blank" href="www.facebook.com/officialphotu">Check for status updates</a>
+                                      <a target="_blank" href="http://www.facebook.com/officialphotu">Check for status updates</a>
                                     </li>
                                     <li><i class="order-num">#3</i>
                                       <a href="/contact">Inform us about an issue</a>
