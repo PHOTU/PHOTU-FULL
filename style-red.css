@@ -172,7 +172,7 @@ red-title {
   line-height: 42px; }
 }
 
-a.red-title {
+.red-title a:link {
   color: #d3312b;
   text-decoration: none !important;
   outline: none !important; }
