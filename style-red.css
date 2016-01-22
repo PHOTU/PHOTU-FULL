@@ -58,10 +58,10 @@ a, .panel-group .panel .panel-heading, .panel-group .panel .panel-heading:before
 .widget_recent_comments ul.menu > li,
 .widget_rss > ul > li,
 .widget_rss ul.menu > li, .widget_search .search-form .search-submit, .widget_search.style1 .search-form .search-submit:after, .kopa-follow-widget a span, .h5-content:before, .order-num:before, .kopa-comment-widget .pd-20 .entry-item .cmt-content:before {
-  transition: all .3s;
-  -ms-transition: all .3s;
-  -webkit-transition: all .3s;
-  -moz-transition: all .3s; }
+  transition: all .1s;
+  -ms-transition: all .1s;
+  -webkit-transition: all .1s;
+  -moz-transition: all .1s; }
 
 .kopa-blockquote.style1:before, .kopa-blockquote.style3:before, .kopa-alert.alert-icon:before, .kopa-entry-view:before, .sticky-post .sticky-icon:before, .kopa-ticker h6.ticker-title:after, .top-nav-mobile .top-menu-mobile > li span:after, .top-nav-mobile .top-menu-mobile > li.open span:after, .main-menu .sf-with-ul:after, .main-nav-mobile .main-menu-mobile > li > a > span:after, .entry-thumb .thumb-hover .thumb-icon, .thumb-icon, .more-link:after, .owl-theme .owl-controls .owl-buttons div.owl-prev:before, .owl-theme .owl-controls .owl-buttons div.owl-next:before, .kopa-more-link:after {
   display: inline-block;
