@@ -163,7 +163,7 @@ p i {
 h1, h2, h3, h4, h5, h6, .h1, .kopa-dropcap, .h2, .h3, .h4, .h5, .h6, .filters-options li {
   font-family: "Roboto Condensed", sans-serif;
   color: #3e3e4a;
-  font-weight: 400;
+  font-weight: 700;
   display: block;
   margin: 0 0 15px; }
   h1 a, h2 a, h3 a, h4 a, h5 a, h6 a, .h1 a, .kopa-dropcap a, .h2 a, .h3 a, .h4 a, .h5 a, .h6 a, .filters-options li a {
@@ -1446,7 +1446,7 @@ img {
   float: left;
   font-size: 14px;
   line-height: 22px;
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
   color: #ededed;
   padding: 10px 10px 10px 18px;
@@ -1464,7 +1464,7 @@ img {
   display: none !important; }
 .kopa-ticker .ticker-content {
   margin: 0;
-  font-weight: 50; }
+  font-weight: 700; }
   .ticker-content {
     color: #ededed; }
   .kopa-ticker .ticker-content a {
@@ -1508,6 +1508,7 @@ img {
 .kopa-header-bottom .header-bottom-wrap {
   background: #292929;
   border-bottom: 0px solid #d3312b;
+  border-radius: 2px; }
 .kopa-header-bottom .kopa-search-box {
   position: absolute;
   top: 0;
@@ -1720,7 +1721,7 @@ img {
       line-height: 24px;
       color: white;
       text-transform: uppercase;
-      font-weight: 50;
+      font-weight: 700;
       margin: 0;
       border: none;
       position: relative;
@@ -1759,7 +1760,7 @@ img {
           font-size: 13px;
           line-height: 22px;
           color: #fff;
-          font-weight: 50;
+          font-weight: 700;
           text-transform: uppercase;
           display: inline-block; }
           .main-menu > li ul.sub-menu li a:hover {
@@ -2191,8 +2192,7 @@ img {
       margin-left: 5px;
       color: #fff; }
       .entry-thumb > h5 a:first-child {
-        margin-left: 0;
-        cursor: default; }
+        margin-left: 0; }
       .entry-thumb > h5 a:hover {
         color: #3e3e4a; }
   .entry-thumb .kopa-rating {
@@ -2870,7 +2870,7 @@ address {
   line-height: 26px;
   margin-bottom: 15px;
   text-transform: uppercase;
-  font-weight: 100;
+  font-weight: 700;
   color: #3e3e4a; }
 
 .widget-title.style1 {
@@ -3434,7 +3434,7 @@ address {
   font-size: 14px;
   line-height: 22px;
   color: #757575;
-  font-weight: 500;
+  font-weight: 700;
   text-transform: uppercase;
   margin-left: 20px; }
 .kopa-follow-widget a:hover span {
@@ -3789,7 +3789,7 @@ address {
 
 .vw-social-counter-icon i {
   line-height: 50px;
-  font-size: 27px; }
+  font-size: 18px; }
 
 .vw-social-counter-count, .vw-social-counter-count, .vw-social-counter-icon {
   -webkit-transition: all 0.25s;
@@ -3888,14 +3888,14 @@ address {
 
 .vw-social-counter-counter {
   float: left;
-  display: inline-block;
-  margin-left: 10px; }
+  display: inline-block; }
 
 .vw-social-counter-counter .vw-social-counter-count {
   color: #FFF; }
 
 .vw-social-counter-count {
   font-size: 22px;
+  font-weight: bold;
   line-height: 1.2em;
   color: #333;
   margin-top: 5px; }
