@@ -12,6 +12,9 @@
         <link rel="stylesheet" type="text/css" href="/css/owl.theme.css" media="all" />
         <link rel="stylesheet" type="text/css" href="/style-red.css">
 
+        <!-- Add Analytics.. -->
+        <script src="/php/analyticstracking.php"></script>
+
         <script src="/js/modernizr.custom.js"></script>
 
         <!--[if lt IE 9]>

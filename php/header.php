@@ -1,5 +1,4 @@
-<!-- Add Analytics.. -->
-<script src="/php/analyticstracking.php"></script>
+
 
 <header class="kopa-header">
 
