@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/technology/dev-blog/22-01-2016.php"><img src=/images/categories/technology/dev-blog/22-01-2016/cover.jpg" alt=""></a>
+                                    <a href="/categories/technology/dev-blog/22-01-2016.php"><img src="/images/categories/technology/dev-blog/22-01-2016/cover.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
