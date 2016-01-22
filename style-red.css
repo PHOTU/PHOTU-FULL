@@ -5648,6 +5648,7 @@ address {
 
     .bottom-menu > li > a:hover {
       color: #fff;
+      background: #d3312b; }
 
 .bottom-area-1 {
   background: #292929;
