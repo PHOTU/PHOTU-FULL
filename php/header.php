@@ -66,11 +66,11 @@
         <!-- MAIN MOBILE MENU -->
 
         <nav class="main-nav-mobile">
-2	        <a class="pull">BROWSE<i class="fa fa-caret-down"></i></a>
-3	        <ul class="main-menu-mobile">
-4	        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/menulist.php' ); ?>
-5	        </ul>
-6	        </nav>
+        <a class="pull">BROWSE<i class="fa fa-caret-down"></i></a>
+        <ul class="main-menu-mobile">
+        <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/menulist.php' ); ?>
+        </ul>
+        </nav>
 
         <!-- MAIN MOBILE MENU -->
 
