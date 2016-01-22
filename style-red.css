@@ -5487,12 +5487,12 @@ address {
     float: left;
     margin: 0 2%; }
     .error-404 .left-col p {
-      font-size: 120px;
+      font-size: 160px;
       font-weight: 700;
       color: #d3312b;
-      line-height: 60px;
+      line-height: 25px;
       text-align: right;
-      margin-top: 20px; }
+      margin-top: 58px; }
   .error-404 .right-col {
     width: 50%;
     float: left;
@@ -5864,6 +5864,16 @@ width: 1170px; }
 
   .kopa-col-3 {
     width: 25%; } }
+
+    .error-404 .left-col p {
+      font-size: 160px;
+      font-weight: 700;
+      color: #d3312b;
+      line-height: 25px;
+      text-align: right;
+      margin-top: 22px; }
+
+
 @media screen and (max-width: 799px) {
   .wrapper {
     width: 728px; }

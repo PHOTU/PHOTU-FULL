@@ -18,8 +18,8 @@
                     <p>404</p>
                 </div><!--left-col-->
                 <div class="right-col">
-                    <h1>Sorry about that!</h1>
-                    <p>We're sorry, but we can't find the page you were looking for. It's probably something we've done wrong. In the meantime, try one of these options:</p>
+                    <h1>Accidents happen..</h1>
+                    <p>We're sorry but we can't locate that page on our server - please try one of the following options:</p><br>
                             <div class="tab-pane active" id="e-tab1">
                                 <ul class="kopa-e-list list-order">
                                     <li><i class="order-num">#1</i>
