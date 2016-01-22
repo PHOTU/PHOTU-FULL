@@ -1733,12 +1733,12 @@ img {
       display: none;
       position: absolute;
       top: 44px;
-      margin-left: 20px;
+      margin-left: 0px;
       left: auto;
-      background: #fff;
+      background: #3e3e4a;
       box-shadow: none !important;
       z-index: 9999 !important;
-      border: 1px solid #dfdfdf; }
+      border: 0px solid #dfdfdf; }
       .main-menu > li ul.sub-menu li {
         background: none;
         position: relative;
@@ -1754,12 +1754,13 @@ img {
           font-family: "Roboto Condensed", sans-serif;
           font-size: 13px;
           line-height: 22px;
-          color: #3e3e4a;
+          color: #fff;
           font-weight: 700;
           text-transform: uppercase;
           display: inline-block; }
           .main-menu > li ul.sub-menu li a:hover {
-            color: #d3312b; }
+            color: #fff;
+            background-color: #d3312b }
           .main-menu > li ul.sub-menu li a.sf-with-ul:after {
             display: none; }
         .main-menu > li ul.sub-menu li.current-menu-item > a {
@@ -5639,6 +5640,10 @@ address {
       -moz-transition: all 0.5s; }
     .bottom-menu > li ul.sub-menu {
       display: none; }
+
+    .bottom-menu > li > a:hover {
+      color: #fff;
+      background: #d3312b; }
 
 .bottom-area-1 {
   background: #292929;
