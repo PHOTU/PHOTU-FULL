@@ -2,7 +2,7 @@
         <article class="entry-item video-post">
             <div class="pd-20">
                 <div class="entry-thumb style1">
-                    <a href="/categories/technology/dev-blog/22-01-2016"><img src="/images/categories/technology/dev-blog/22-01/2016/listing.jpg" alt=""></a>
+                    <a href="/categories/technology/dev-blog/22-01-2016"><img src="/images/categories/technology/dev-blog/22-01-2016/listing.jpg" alt=""></a>
                     <h5>Weekly</h5>
                     <a class=""></a>
                 </div>

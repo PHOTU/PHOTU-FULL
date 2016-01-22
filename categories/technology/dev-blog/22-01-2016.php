@@ -34,7 +34,7 @@
                                     <span class="entry-date"><i class="fa fa-clock-o"></i>Jan 22, 2016</span>
                                 </div>
                                 <div class="entry-thumb">
-                                    <img src="/images/categories/technology/dev-blog/22/01/2016/main.jpg" alt="">
+                                    <img src="/images/categories/technology/dev-blog/22-01-2016/main.jpg" alt="">
                                 </div>
 
 
