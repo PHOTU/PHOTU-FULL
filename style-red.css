@@ -122,6 +122,19 @@ a {
   a:focus {
     outline: none; }
 
+a.red-title {
+    color: #d3312b;
+    text-decoration: none !important;
+    outline: none !important; }
+    a.red-title:link {
+    color: #d3312b;
+    }
+    a.red-title:hover, a:active {
+      color: #d3312b;
+      text-decoration: none; }
+    a.red-title:focus {
+      outline: none; }
+
 input {
   outline: none !important; }
 
@@ -171,16 +184,6 @@ red-title {
   font-size: 34px;
   line-height: 42px; }
 }
-
-.red-title a:link {
-  color: #d3312b;
-  text-decoration: none !important;
-  outline: none !important; }
-  a:hover, a:active {
-    color: #d3312b;
-    text-decoration: none; }
-  a:focus {
-    outline: none; }
 
 h2, .h2 {
   font-size: 32px;
