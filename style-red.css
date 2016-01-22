@@ -1729,7 +1729,7 @@ img {
       -webkit-transition: all 0.25s;
       -moz-transition: all 0.25s; }
     .main-menu > li ul.sub-menu {
-      width: 110px;
+      width: 130px;
       display: none;
       position: absolute;
       top: 44px;
@@ -1748,11 +1748,12 @@ img {
         background-color: #d3312b;
       }
         .main-menu > li ul.sub-menu li:first-child {
-          border: none; }
+          border: none;
+          cursor: default; }
         .main-menu > li ul.sub-menu li a {
           padding: 5px 10px;
           margin: 0;
-          width: 110px;
+          width: 130px;
           border: none;
           font-family: "Roboto Condensed", sans-serif;
           font-size: 13px;

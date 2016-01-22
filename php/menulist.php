@@ -10,6 +10,12 @@
                                     <li><a href="/categories/reviews">Reviews</a></li>
                                 </ul>
                             </li>
+                            <li class="">
+                                <a href="">About Us</a>
+                                <ul class="sub-menu" style="display: none;">
+                                    <li><a href="/authors">Authors</a></li>
+                                </ul>
+                            </li>
                             <li class="menu-item">
                                 <a href="/contact">Get In Touch</a>
                             </li>
