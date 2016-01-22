@@ -1481,7 +1481,8 @@ img {
 
 /*--- Header middle ---*/
 .kopa-header-middle {
-  padding: 35px 0; }
+  padding-top: 35px;
+  padding-bottom: 35px; }
 
 .kopa-logo {
   float: left; }
@@ -1930,17 +1931,17 @@ img {
       margin-left: 10px; }
   .main-nav-mobile .main-menu-mobile {
     position: absolute;
-    top: 48px;
-    left: 0;
+    top: 39px;
+    left: 9px;
     width: 280px;
     z-index: 999999;
     display: none;
     background: #d3312b;
-    border: 1px solid #B2B2B3;
+    border: 1px solid #fff;
     padding: 5px 15px 0;
     text-align: left; }
     .main-nav-mobile .main-menu-mobile > li {
-      border-top: 1px solid #ededed;
+      border-top: 1px dashed #ededed;
       position: relative;
       width: 100%; }
       .main-nav-mobile .main-menu-mobile > li:first-child {
@@ -1952,6 +1953,7 @@ img {
         font-size: 16px;
         font-weight: bold;
         display: block;
+        cursor: default;
         padding: 10px 25px 10px 0; }
         .main-nav-mobile .main-menu-mobile > li > a:hover {
           color: #fff; }
@@ -1966,7 +1968,7 @@ img {
       .main-nav-mobile .main-menu-mobile > li.current-menu-item > a {
         color: #fff; }
       .main-nav-mobile .main-menu-mobile > li .sub-menu li {
-        border-top: 1px dashed #ededed; }
+        border-top: 0px dashed #ededed; }
         .main-nav-mobile .main-menu-mobile > li .sub-menu li a {
           padding: 6px 12px 6px 30px;
           color: #fff;
@@ -5791,6 +5793,10 @@ width: 1170px; }
   .top-nav-mobile, .main-nav-mobile {
     display: block;
     margin-left: 5px }
+
+  .kopa-header-middle {
+    padding-top: 35px;
+    padding-bottom: 10px; }
 
   .header-top-left {
     width: 100%;
