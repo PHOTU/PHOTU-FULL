@@ -1735,7 +1735,7 @@ img {
       top: 44px;
       margin-left: 0px;
       left: auto;
-      background: #3e3e4a;
+      background: #292929;
       box-shadow: none !important;
       z-index: 9999 !important;
       border: 0px solid #dfdfdf; }
@@ -1745,6 +1745,9 @@ img {
         white-space: normal;
         padding: 7px 10px;
         border-top: 1px solid #dfdfdf; }
+      .main-menu > li ul.sub-menu li:hover {
+        background-color: #d3312b;
+      }
         .main-menu > li ul.sub-menu li:first-child {
           border: none; }
         .main-menu > li ul.sub-menu li a {
