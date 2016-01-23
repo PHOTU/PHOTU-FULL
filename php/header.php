@@ -1,14 +1,12 @@
-<header class="kopa-header">
+<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/analyticstracking.php' ); ?>
 
-  <?php include_once("/php/analyticstracking.php") ?>
+<header class="kopa-header">
 
         <div class="kopa-header-top">
 
             <div class="wrapper">
 
                 <div class="header-top-left">
-
-                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tickerlist.php' ); ?>
 
                 </div>
                 <!-- header-top-left -->
