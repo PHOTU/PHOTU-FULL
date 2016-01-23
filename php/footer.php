@@ -7,18 +7,7 @@
 
                 <nav class="bottom-nav">
                     <ul class="bottom-menu">
-                        <li><a href="/categories/technology">Technology</a></li>
-                        <li><a href="/categories/reviews">Reviews</a></li>
-                        <li><a href="/categories/music">Music</a></li>
-                        <li><a href="/categories/general">General</a></li>
-                        <!--<li>
-                            <a href="categories2.html">entertainment</a>
-                            <ul class="sub-menu">
-                                <li><a href="categories4.html">food</a></li>
-                                <li><a href="categories3.html">global</a></li>
-                            </ul>
-                        </li>
-                        <li><a href="categories2.html">food</a></li>-->
+                      <li> </li>
                     </ul>
                 </nav>
                 <!--/end bottom-nav-->

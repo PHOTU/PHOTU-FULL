@@ -1,6 +1,6 @@
-<?php include_once("/php/analyticstracking.php") ?>
-
 <header class="kopa-header">
+
+  <?php include_once("/php/analyticstracking.php") ?>
 
         <div class="kopa-header-top">
 
