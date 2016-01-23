@@ -1,5 +1,5 @@
                 <div class="sidebar">
 
-                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/socialstats.php' ); ?>
+                    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/socialstat.php' ); ?>
 
                     <!-- widget -->
