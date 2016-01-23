@@ -37,7 +37,7 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                  <red-title><a href="/categories/technology/dev-blog/week-one.php" class="red-title">DEV BLOG - WEEK ONE</a></red-title>
+                                  <red-title><a href="/categories/technology/dev-blog/22-01-2016.php" class="red-title">DEV BLOG - WEEK ONE</a></red-title>
                                 <div>
                                     <div>
 
@@ -45,7 +45,7 @@
             <!-- Add content here -->
 
             <p>Wow indeed, that was one hell of a week. From major design changes and bug fixes, I have brought some life into PHOTU.</p><br>
-            <p><a href="/categories/technology/dev-blog/week-one.php" class="kopa-button color-button">Keep Reading..</a>
+            <p><a href="/categories/technology/dev-blog/22-01-2016.php" class="kopa-button color-button">Keep Reading..</a>
 
             <!-- End content here -->
 

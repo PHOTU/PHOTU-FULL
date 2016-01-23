@@ -6229,6 +6229,16 @@ width: 1170px; }
     .kopa-social-links ul {
       margin: -43px -15px; }
 
+      red-title {
+        font-family: "Roboto Condensed", sans-serif;
+        colour: #f44336;
+        font-weight: 700;
+        display: block;
+        margin: 0 0 15px;
+        font-size: 32px;
+        line-height: 42px; }
+      }
+
   .ms-item1.size1 .entry-item .entry-content {
     padding: 10px 15px; }
     .ms-item1.size1 .entry-item .entry-content .entry-title {
