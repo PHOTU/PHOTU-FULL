@@ -13,7 +13,7 @@
 
         <div class="wrapper">
 
-          <img src="/images/categories/music/music.png">
+          <img class="category-cover" src="/images/categories/music/music.png">
 
             <div class="row">
 

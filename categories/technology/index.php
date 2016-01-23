@@ -14,7 +14,7 @@
 
         <div class="wrapper">
 
-          <img src="/images/categories/technology/technology.jpg">
+          <img class="category-cover" src="/images/categories/technology/technology.jpg">
 
             <div class="row">
 

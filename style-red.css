@@ -1235,6 +1235,10 @@ body {
     line-height: 35px;
   }
 
+  .category-cover {
+    visibility: visible;
+  }
+
 .mb-5 {
   margin-bottom: 5px; }
 
@@ -5973,6 +5977,9 @@ width: 1170px; }
   .kopa-social-links ul {
     margin: -43px -5px; }
 
+  .category-cover {
+    visibility: hidden;
+  }
 
   .header-top-left {
     display: none; }

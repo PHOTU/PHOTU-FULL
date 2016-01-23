@@ -13,7 +13,7 @@
 
         <div class="wrapper">
 
-          <img src="/images/categories/reviews/reviews.png">
+          <img class="category-cover" src="/images/categories/reviews/reviews.png">
 
             <div class="row">
 
