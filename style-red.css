@@ -5984,7 +5984,7 @@ width: 1170px; }
     margin: -43px -5px; }
 
   .category-cover {
-    visibility: hidden;
+    visibility: visible;
   }
 
   .header-top-left {
