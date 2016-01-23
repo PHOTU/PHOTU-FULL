@@ -1,4 +1,4 @@
-
+<?php include_once("/php/analyticstracking.php") ?>
 
 <header class="kopa-header">
 

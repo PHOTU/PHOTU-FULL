@@ -7,7 +7,10 @@
                                         </div>
                                         <div class="entry-content">
                                             <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><itemprop="name">ADAM BURDASS</h4>
-                                            <p>I'm Adam Burdass, director of PHOTU.</p>
+                                            <p>
+                                              I brought PHOTU to life, gave it the attention it needed and hoped for success. Sometimes the best projects are the ones that are kept quiet
+                                              away from negative people, believe in yourself and create something perfect for yourself, if others join you then you have exceed your own expectations.
+                                            </p>
                                         </div>
                                     </div>
                                 </article>

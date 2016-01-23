@@ -2108,7 +2108,7 @@ img {
     width: 100%;
     transition: all 0.3s;
     -ms-transition: all 0.3s;
-    -webkit-transition: all 0.3s;
+    -webkit-transition: all 0.0s;
     -moz-transition: all 0.3s; }
   .entry-thumb .thumb-hover {
     background: url("images/background/bg/black/2.png");
@@ -2183,6 +2183,7 @@ img {
     font-weight: 600;
     padding: 4px 10px;
     background: #f44336;
+    cursor: default;
     margin: 0; }
     .entry-thumb > h5:before {
       content: '';
