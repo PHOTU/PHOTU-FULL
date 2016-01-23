@@ -5934,6 +5934,12 @@ width: 1170px; }
   .wrapper {
     width: 600px; }
 
+    .author {
+      padding: 10px;
+      width: 50%;
+      margin: 0 !important;
+      float: left; }
+
   .ms-item1 {
     width: 50%; }
     .ms-item1.size1 {
@@ -6103,6 +6109,12 @@ width: 1170px; }
 @media screen and (max-width: 479px) {
   .wrapper {
     width: 320px; }
+
+    .author {
+      padding: 10px;
+      width: 100%;
+      margin: 0 !important;
+      float: left; }
 
     .kopa-social-links ul {
       margin: -43px -27px; }
