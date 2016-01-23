@@ -6214,17 +6214,18 @@ width: 1170px; }
       max-width: 57%;
       margin-left: 10px }
 
-      .main-nav-mobile .main-menu-mobile {
-        position: absolute;
-        top: 39px;
-        left: 9px;
-        width: 280px;
-        z-index: 999999;
-        display: none;
-        background: #f44336;
-        border: 1px solid #fff;
-        padding: 5px 5px 0;
-        text-align: left; }
+      .main-nav-mobile .pull {
+        font-family: "Roboto Condensed", sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #f44336;
+        text-transform: uppercase;
+        z-index: 99;
+        position: relative;
+        display: inline-block;
+        cursor: pointer;
+        padding: 5px 5px;
+        margin: 6px 0 5px; }
 
     .kopa-social-links ul {
       margin: -43px -15px; }
