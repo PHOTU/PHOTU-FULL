@@ -26,6 +26,13 @@
                     <!-- ADD ENTRIES HERE -->
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/matty-gale.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
 
                     <!-- END OF ENTRIES LIST -->
 
