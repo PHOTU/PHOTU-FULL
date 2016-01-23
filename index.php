@@ -44,7 +44,8 @@
 
             <!-- Add content here -->
 
-            <p>Good evening guys, it's been a long night of coding, I'll update this tomorrow</p>
+            <p>Wow indeed, that was one hell of a week. From major design changes and bug fixes, I have brought some life into PHOTU.</p>
+            <p><a href="/categories/technology/dev-blog/week-one.php" class="kopa-button color-button">Keep Reading..</a>
 
             <!-- End content here -->
 
