@@ -8,6 +8,8 @@
 
                 <div class="header-top-left">
 
+                  <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/tickerlist.php' ); ?>
+
                 </div>
                 <!-- header-top-left -->
 
