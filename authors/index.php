@@ -19,20 +19,13 @@
 
                 <div class="kopa-main-col">
 
-                    <div class="widget kopa-masonry-6-widget">
-                        <ul class="kopa-masonry-wrap">
+                    <div class="widget authors">
+                        <ul class="authors-wrap">
 
 
                     <!-- ADD ENTRIES HERE -->
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/matty-gale.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/authors/adam-burdass.php' ); ?>
 
                     <!-- END OF ENTRIES LIST -->
 

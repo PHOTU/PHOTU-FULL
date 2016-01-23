@@ -3362,7 +3362,7 @@ address {
 .row.mb-30 {
   margin-bottom: 30px; }
 
-.kopa-main-col, .sidebar, .widget-area-14, .widget-area-26, .widget-area-15, .widget-area-25, .kopa-col-1, .kopa-col-2, .kopa-col-3 {
+.kopa-main-col, .sidebar, .authors-full, .widget-area-14, .widget-area-26, .widget-area-15, .widget-area-25, .kopa-col-1, .kopa-col-2, .kopa-col-3 {
   float: left;
   padding: 0 10px;
   min-height: 1px;
@@ -3370,6 +3370,9 @@ address {
 
 .kopa-main-col {
   width: 73.10924%; }
+
+.authors-full {
+    width: 100%; }
 
 .sidebar {
   width: 26.89076%; }
@@ -4469,6 +4472,22 @@ address {
     width: 100%; }
   .ms-item6.size2 {
     width: 33.2%; }
+
+
+    /*--- Authors ---*/
+    .authors .authors-wrap {
+      margin: -10px; }
+
+    .author {
+      padding: 10px;
+      width: 24%;
+      margin: 0 !important;
+      float: left; }
+      .ms-item6.size1 {
+        width: 100%; }
+      .ms-item6.size2 {
+        width: 33.2%; }
+
 
 /*--- article-list-12 ---*/
 .article-list-16, .kopa-masonry-6-widget {

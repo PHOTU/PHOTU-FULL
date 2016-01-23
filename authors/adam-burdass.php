@@ -1,4 +1,4 @@
-                        <li class="ms-item6">
+                        <li class="authors">
                                 <article class="entry-item video-post">
                                     <div class="pd-20">
                                         <div class="entry-thumb style1">
