@@ -42,7 +42,8 @@
                                 <!-- Add Content -->
 
                                 <h4>
-                                  ..
+                                  Welcome to week one of our Dev Blog, this is a quick summary of our code changes that have gone on during the week. This week is slightly slim due to our team being hard at work preparing some fantastic
+                                  new content for you to get reading. However, I'll include a brief summary just for you that really want to know.
                                 </h4>
 
 
@@ -52,10 +53,28 @@
                                     <div class="tab-pane active" id="e-tab1">
                                         <ul class="kopa-e-list list-order">
                                             <li><i class="order-num">#1</i>
-                                              <a>..</a>
+                                              <a>Major CSS revamp</a>
                                             </li>
                                             <li><i class="order-num">#2</i>
-                                              <a>..</a>
+                                              <a>Added Authors Section</a>
+                                            </li>
+                                            <li><i class="order-num">#3</i>
+                                              <a>Simplified Landing Page</a>
+                                            </li>
+                                            <li><i class="order-num">#4</i>
+                                              <a>Various Bug Fixes</a>
+                                            </li>
+                                            <li><i class="order-num">#5</i>
+                                              <a>Re-coded Mobile Menu</a>
+                                            </li>
+                                            <li><i class="order-num">#6</i>
+                                              <a>HTAccess changes</a>
+                                            </li>
+                                            <li><i class="order-num">#7</i>
+                                              <a>Added our history</a>
+                                            <li><i class="order-num">#8</i>
+                                              <a>Set Up Analytics</a>
+                                            </li>
                                             </li>
                                         </ul>
                                     </div>
