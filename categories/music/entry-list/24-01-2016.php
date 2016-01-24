@@ -2,12 +2,12 @@
                                 <article class="entry-item video-post">
                                     <div class="pd-20">
                                         <div class="entry-thumb style1">
-                                            <a href="/categories/music/discover/17-01-2016"><img src="/images/categories/music/discover/24-01-2016/listing.jpg" alt=""></a>
+                                            <a href="/categories/music/discover/24-01-2016"><img src="/images/categories/music/discover/24-01-2016/listing.jpg" alt=""></a>
                                             <h5><a href="#">New</a></h5>
                                             <a class="" href="#"></a>
                                         </div>
                                         <div class="entry-content">
-                                            <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><a itemprop="name" href="/categories/music/discover/17-01-2016">Discover - January 24th</a></h4>
+                                            <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><a itemprop="name" href="/categories/music/discover/24-01-2016">Discover - January 24th</a></h4>
                                             <div class="entry-meta">
                                                 <a href="#">
                                                 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/entries/author-adam.php' ); ?>

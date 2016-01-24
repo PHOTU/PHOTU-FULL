@@ -116,7 +116,7 @@
                         </div>
 
 
-                          <p><a href="/categories/music/discover/31-01-2016/" class="kopa-button color-button">Previous Week</a>
+                          <p><a href="/categories/music/discover/17-01-2016/" class="kopa-button color-button">Previous Week</a>
                           <a href="/contact" class="kopa-button color-button color-weekly">Send Suggestions</a>
                           <a href="/categories/music/discover/31-01-2016/" class="kopa-button color-button">Next Week</a></p>
 
