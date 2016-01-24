@@ -13,24 +13,16 @@
 
         <div class="wrapper">
 
-            <div class="widget-area-5">
 
-                <div class="widget kopa-masonry-widget" align="centre">
-                    <ul class="">
+          <div class="row style1">
+              <div class="col-md-6 col-sm-6 col-xs-6">
+                  A dozen rockets sprang out of the hills before them so soon as they began to move, and warned the waiting batteries about Ditton and Esher.  At the same time four of their fighting machines, similarly armed with tubes, crossed the river, and two of them.
+              </div>
+              <div class="col-md-6 col-sm-6 col-xs-6">
+                  <iframe width="950" height="534" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+              </div>
+          </div>
 
-
-                        <li class="1">
-                            <article class="">
-                                <div class="">
-                                    <img src="/images/history/cover.jpg" alt="">
-                                </div>
-                            </article>
-                        </li>
-
-                    </ul>
-                </div>
-
-            </div>
 
 
             <!-- Flexible Entries Area -->
@@ -44,7 +36,9 @@
 
             <!-- Add content here -->
 
-            <p>Good evening guys, it's been a long night of coding, I'll update this tomorrow</p>
+            <p>A dozen rockets sprang out of the hills before them so soon as they began to move, and warned the waiting batteries about Ditton and Esher.</p>
+
+            <br>
 
             <!-- End content here -->
 
@@ -54,13 +48,13 @@
             <h6 class="c-title">Previous Videos..</h6>
                       <div class="row style1">
                           <div class="col-md-4 col-sm-4 col-xs-4">
-                              <img src="/images/history/cover.jpg" alt="">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                           </div>
                           <div class="col-md-4 col-sm-4 col-xs-4">
-                              <img src="/images/history/cover.jpg" alt="">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                           </div>
                           <div class="col-md-4 col-sm-4 col-xs-4">
-                              <img src="/images/history/cover.jpg" alt="">
+                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                           </div>
                       </div>
 
