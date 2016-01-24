@@ -16,70 +16,59 @@
         <div class="row style1">
         <div class="widget-area-5">
         <div class="col-md-6 col-sm-6 col-xs-6">
-        <red-title><a class="red-title">Tuesday</a></red-title>
+        <red-title><a class="red-title">Monday</a></red-title>
 
-        Rockets sprang out of the hills before them so soon
-        as they began to move, and warned the waiting
-        batteries about Ditton and Esher. At the same time
-        four of their fighting machines, similarly armed
-        with tubes, crossed the river, and two of them. A
-        dozen rockets sprang out of the hills before them
-        so soon as they began to move, and warned the
-        waiting batteries about Ditton and Esher. At the
-        same time four of their fighting machines,
-        similarly armed with tubes, crossed the river, and
-        two of them. A dozen rockets sprang out of the
-        hills before them so soon as they began to move,
-        and warned the waiting batteries about Ditton and
-        Esher. At the same time four of their fighting
-        machines, similarly armed with tubes, crossed the
-        river, and two of them.
+        N/A
 
         </div>
+
+
+        <div class="col-md-6 col-sm-6 col-xs-6">
+        <red-title><a class="red-title">Tuesday</a></red-title>
+
+        Matty Gale
+
+        </div>
+
+
+        <div class="col-md-6 col-sm-6 col-xs-6">
+        <red-title><a class="red-title">Wednesday</a></red-title>
+
+        N/A
+
+        </div>
+
+
+        <div class="col-md-6 col-sm-6 col-xs-6">
+        <red-title><a class="red-title">Thursday</a></red-title>
+
+        N/A
+
+        </div>
+
 
 
         <div class="col-md-6 col-sm-6 col-xs-6">
         <red-title><a class="red-title">Friday</a></red-title>
 
-        Rockets sprang out of the hills before them so soon
-        as they began to move, and warned the waiting
-        batteries about Ditton and Esher. At the same time
-        four of their fighting machines, similarly armed
-        with tubes, crossed the river, and two of them. A
-        dozen rockets sprang out of the hills before them
-        so soon as they began to move, and warned the
-        waiting batteries about Ditton and Esher. At the
-        same time four of their fighting machines,
-        similarly armed with tubes, crossed the river, and
-        two of them. A dozen rockets sprang out of the
-        hills before them so soon as they began to move,
-        and warned the waiting batteries about Ditton and
-        Esher. At the same time four of their fighting
-        machines, similarly armed with tubes, crossed the
-        river, and two of them.
+        Dev Blog
 
         </div>
+
 
 
         <div class="col-md-6 col-sm-6 col-xs-6">
         <red-title><a class="red-title">Saturday</a></red-title>
 
-        Rockets sprang out of the hills before them so soon
-        as they began to move, and warned the waiting
-        batteries about Ditton and Esher. At the same time
-        four of their fighting machines, similarly armed
-        with tubes, crossed the river, and two of them. A
-        dozen rockets sprang out of the hills before them
-        so soon as they began to move, and warned the
-        waiting batteries about Ditton and Esher. At the
-        same time four of their fighting machines,
-        similarly armed with tubes, crossed the river, and
-        two of them. A dozen rockets sprang out of the
-        hills before them so soon as they began to move,
-        and warned the waiting batteries about Ditton and
-        Esher. At the same time four of their fighting
-        machines, similarly armed with tubes, crossed the
-        river, and two of them.
+        N/A
+
+        </div>
+
+
+        <div class="col-md-6 col-sm-6 col-xs-6">
+        <red-title><a class="red-title">Sunday</a></red-title>
+
+        Discover Weekly
 
         </div>
 

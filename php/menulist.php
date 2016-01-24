@@ -14,6 +14,7 @@
                                 <a>About Us</a>
                                 <ul class="sub-menu" style="display: none;">
                                     <li><a href="/authors">The Authors</a></li>
+                                    <li><a href="/production">Production Schedule</a></li>
                                     <li><a href="/history">Our History</a></li>
                                 </ul>
                             </li>
