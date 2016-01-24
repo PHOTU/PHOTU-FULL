@@ -3358,7 +3358,7 @@ address {
 
 /*--- grid ---*/
 .style1.row {
-  margin: 0 -20px; }
+  margin: 0 -0px; }
   @media screen and (max-width: 639px) {
     .style1.row > div {
       width: 100%;
@@ -6235,7 +6235,7 @@ width: 1170px; }
         colour: #f44336;
         font-weight: 700;
         display: block;
-        margin: 0 0 15px;
+        margin: 15px 0 15px;
         font-size: 32px;
         line-height: 42px; }
       }
