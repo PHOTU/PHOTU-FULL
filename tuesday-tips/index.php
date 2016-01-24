@@ -1,101 +1,118 @@
 <!DOCTYPE html>
-<html lang="en">
-        <title>PHOTU - Tuesday Tips</title>
-        <meta name="description" content="Welcome to PHOTU - Entries and updates submitted by you.">
 
-<?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
+<html lang="en">
+<head>
+    <title>PHOTU - Tuesday Tips</title>
+    <meta content="Welcome to PHOTU - Entries and updates submitted by you."
+    name="description">
+    <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/loadinstyles.php' ); ?>
+</head>
 
 <body class="kopa-home-page">
-
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/header.php' ); ?>
 
-    <div id="main-content" class="mb-20">
-
+    <div class="mb-20" id="main-content">
         <div class="wrapper">
+            <div class="widget-area-5">
+                <div align="centre" class="widget kopa-masonry-widget">
+                    <div class="row style1">
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                            <a class="red-title">Tuesday Tips</a> A dozen
+                            rockets sprang out of the hills before them so soon
+                            as they began to move, and warned the waiting
+                            batteries about Ditton and Esher. At the same time
+                            four of their fighting machines, similarly armed
+                            with tubes, crossed the river, and two of them. A
+                            dozen rockets sprang out of the hills before them
+                            so soon as they began to move, and warned the
+                            waiting batteries about Ditton and Esher. At the
+                            same time four of their fighting machines,
+                            similarly armed with tubes, crossed the river, and
+                            two of them. A dozen rockets sprang out of the
+                            hills before them so soon as they began to move,
+                            and warned the waiting batteries about Ditton and
+                            Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them.
+                        </div>
 
 
-          <div class="row style1">
-              <div class="col-md-6 col-sm-6 col-xs-6">
-                  A dozen rockets sprang out of the hills before them so soon as they began to move, and warned the waiting batteries about Ditton and Esher.  At the same time four of their fighting machines, similarly armed with tubes, crossed the river, and two of them.
-              </div>
-              <div class="col-md-6 col-sm-6 col-xs-6">
-                  <iframe width="950" height="534" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-              </div>
-          </div>
-
-
-
-            <!-- Flexible Entries Area -->
-                        <div class="widget-area-8">
-
-                            <div class="widget kopa-categories-widget">
-                                  <red-title><a class="red-title">Tuesday Tips</a></red-title>
-                                <div>
-                                    <div>
-
-
-            <!-- Add content here -->
-
-            <p>A dozen rockets sprang out of the hills before them so soon as they began to move, and warned the waiting batteries about Ditton and Esher.</p>
-
-            <br>
-
-            <!-- End content here -->
-
-
-
-
-            <h6 class="c-title">Previous Videos..</h6>
-                      <div class="row style1">
-                          <div class="col-md-4 col-sm-4 col-xs-4">
-                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                          </div>
-                          <div class="col-md-4 col-sm-4 col-xs-4">
-                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                          </div>
-                          <div class="col-md-4 col-sm-4 col-xs-4">
-                              <iframe width="560" height="315" src="https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-                          </div>
-                      </div>
-
-
-
-                                    </div>
-                                </div>
-                            </div>
-
-
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                            <iframe allowfullscreen="" frameborder="0" height=
+                            "534" src=
+                            "https://www.youtube.com/embed/sybbCmsDmYk?rel=0&amp;showinfo=0"
+                            width="950"></iframe>
                         </div>
                     </div>
                 </div>
-
-
-
-
-
             </div>
-
-            </div>
-            <!-- row -->
+            <!-- Flexible Entries Area -->
 
 
-                <!-- kopa-main-col -->
+            <div class="widget-area-8">
+                <div class="widget kopa-categories-widget">
+                    <div>
+                        <div>
+                            <h3 class="">Previous Videos..</h3>
 
 
+                            <div class="row style1">
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
+                                </div>
+
+
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
+                                </div>
+
+
+                                <div class="col-md-4 col-sm-4 col-xs-4">
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
+                                </div>
+                            </div>
+                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
+                        </div>
+                    </div>
                 </div>
-                <!-- sidebar -->
-
             </div>
-            <!-- row -->
-
         </div>
-        <!-- wrapper -->
-
     </div>
+    <!-- row -->
+    <!-- kopa-main-col -->
+    <!-- sidebar -->
+    <!-- row -->
+    <!-- wrapper -->
     <!-- main-content -->
-
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
-
 </body>
-
 </html>

@@ -107,22 +107,6 @@
 
 <!-- ADD IN REVELANT ARTICLES -->
 
-                    <div class="widget kopa-article-list-widget article-list-23">
-                        <h3 class="widget-title style3"> related <span>entries</span></h3>
-                        <div class="pd-20">
-                            <ul class="clearfix">
-
-                                <!-- BEGIN TO LIST THEM HERE -->
-
-                                <?php include( $_SERVER['DOCUMENT_ROOT'] . '' ); ?>
-
-
-                                <!-- END THE LIST HERE -->
-
-                            </ul>
-                        </div>
-                    </div>
-                    <!-- widget -->
 
 <!-- END RELEVANT ARTICLES -->
 
