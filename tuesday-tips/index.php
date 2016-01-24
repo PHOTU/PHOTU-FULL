@@ -16,7 +16,7 @@
         <div class="row style1">
         <div class="widget-area-5">
         <div class="col-md-6 col-sm-6 col-xs-6">
-        <red-title><a class="red-title">Tuesday Tips</a></red-title>
+        <red-title><a class="red-title">Tuesday </a></red-title>
 
                             Rockets sprang out of the hills before them so soon
                             as they began to move, and warned the waiting
@@ -39,10 +39,10 @@
 
 
                         <div class="col-md-6 col-sm-6 col-xs-6">
-
-                        <!-- Responsive Large Video -->
-                        <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
-
+                            <iframe allowfullscreen="" frameborder="0" height=
+                            "534" src=
+                            "https://www.youtube.com/embed/sybbCmsDmYk?rel=0&amp;showinfo=0"
+                            width="950"></iframe>
                         </div>
                     </div>
                 </div>
@@ -59,20 +59,26 @@
 
                             <div class="row style1">
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                  <!-- Responsive Third Video -->
-                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="auto" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                    <!-- Responsive Third Video -->
-                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                  <!-- Responsive Third Video -->
-                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
                             </div>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
