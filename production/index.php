@@ -26,7 +26,7 @@
         <div class="col-md-6 col-sm-6 col-xs-6">
         <red-title><a class="red-title">Tuesday</a></red-title>
 
-        Matty Gale
+        Coming soon.
 
         </div>
 
@@ -51,7 +51,7 @@
         <div class="col-md-6 col-sm-6 col-xs-6">
         <red-title><a class="red-title">Friday</a></red-title>
 
-        Dev Blog
+        Weekly Dev Blog - A summary of the previous week including website changes, staff updates and more.
 
         </div>
 
@@ -68,7 +68,7 @@
         <div class="col-md-6 col-sm-6 col-xs-6">
         <red-title><a class="red-title">Sunday</a></red-title>
 
-        Discover Weekly
+        Discover Weekly - Your music, your way. We go through the top picks of the week.
 
         </div>
 
