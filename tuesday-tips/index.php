@@ -13,12 +13,12 @@
 
     <div class="mb-20" id="main-content">
         <div class="wrapper">
-        <div class="row style1">
-        <div class="widget-area-5">
-        <div class="col-md-6 col-sm-6 col-xs-6">
-        <red-title><a class="red-title">Tuesday Tips</a></red-title>
-
-                            Rockets sprang out of the hills before them so soon
+            <div class="widget-area-5">
+                <div align="centre" class="widget kopa-masonry-widget">
+                    <div class="row style1">
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                            <a class="red-title">Tuesday Tips</a> A dozen
+                            rockets sprang out of the hills before them so soon
                             as they began to move, and warned the waiting
                             batteries about Ditton and Esher. At the same time
                             four of their fighting machines, similarly armed
@@ -33,18 +33,35 @@
                             and warned the waiting batteries about Ditton and
                             Esher. At the same time four of their fighting
                             machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
+                            river, and two of them. A dozen rockets sprang out
+                            of the hills before them so soon as they began to
+                            move, and warned the waiting batteries about Ditton
+                            and Esher. At the same time four of their fighting
+                            machines, similarly armed with tubes, crossed the
                             river, and two of them.
-
                         </div>
 
 
                         <div class="col-md-6 col-sm-6 col-xs-6">
-
-                        <!-- Responsive Large Video -->
-                        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                        .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                        </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
-
+                            <iframe allowfullscreen="" frameborder="0" height=
+                            "534" src=
+                            "https://www.youtube.com/embed/sybbCmsDmYk?rel=0&amp;showinfo=0"
+                            width="950"></iframe>
                         </div>
                     </div>
                 </div>
@@ -61,27 +78,26 @@
 
                             <div class="row style1">
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                  <!-- Responsive Third Video -->
-                                  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                  .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                  </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
                                     <iframe allowfullscreen="" frameborder="0"
-                                    <!-- Responsive Third Video -->
-                                    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                    .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                    </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                  <!-- Responsive Third Video -->
-                                  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                  .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                  </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                    <iframe allowfullscreen="" frameborder="0"
+                                    height="315" src=
+                                    "https://www.youtube.com/embed/SBtHUMfGX2o?rel=0&amp;showinfo=0"
+                                    width="560"></iframe>
                                 </div>
                             </div>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
