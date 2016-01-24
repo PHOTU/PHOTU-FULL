@@ -41,9 +41,7 @@
                         <div class="col-md-6 col-sm-6 col-xs-6">
 
                         <!-- Responsive Large Video -->
-                        <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                        .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                        </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                        <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
                         </div>
                     </div>
@@ -62,26 +60,19 @@
                             <div class="row style1">
                                 <div class="col-md-4 col-sm-4 col-xs-4">
                                   <!-- Responsive Third Video -->
-                                  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                  .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                  </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
-                                    <iframe allowfullscreen="" frameborder="0"
                                     <!-- Responsive Third Video -->
-                                    <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                    .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                    </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                                 </div>
 
 
                                 <div class="col-md-4 col-sm-4 col-xs-4">
                                   <!-- Responsive Third Video -->
-                                  <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; }
-                                  .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
-                                  </style><div class='embed-container'><iframe src='https://www.youtube.com/embed/56euqlUAgH4' frameborder='0' allowfullscreen></iframe></div>
+                                  <iframe width="850" height="478" src="https://www.youtube.com/embed/Ld8Bf5aqpz8?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
                                 </div>
                             </div>
                             <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
