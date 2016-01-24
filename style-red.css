@@ -180,7 +180,7 @@ red-title {
   colour: #f44336;
   font-weight: 700;
   display: block;
-  margin: 0 0 15px;
+  margin: 15px 0 15px;
   font-size: 34px;
   line-height: 42px; }
 }
@@ -6234,7 +6234,7 @@ width: 1170px; }
         font-family: "Roboto Condensed", sans-serif;
         colour: #f44336;
         font-weight: 700;
-        display: block; 
+        display: block;
         margin: 15px 0 15px;
         font-size: 32px;
         line-height: 42px; }

@@ -94,19 +94,8 @@
           </div>
         </div>
       </div>
-
-
-            <div class="widget-area-8">
-                <div class="widget kopa-categories-widget">
-                    <div>
-                        <div>
-                            <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/authors/matty-gale.php' ); ?>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
     </div>
+  </div>
     <?php include( $_SERVER['DOCUMENT_ROOT'] . '/php/footer.php' ); ?>
 </body>
 </html>
