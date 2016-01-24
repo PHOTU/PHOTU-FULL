@@ -22,7 +22,7 @@
                         <li class="1">
                             <article class="">
                                 <div class="">
-                                    <a href="/categories/technology/dev-blog/22-01-2016.php"><img src="/images/categories/technology/dev-blog/22-01-2016/cover.jpg" alt=""></a>
+                                    <a href="/categories/technology/dev-blog/22-01-2016"><img src="/images/categories/technology/dev-blog/22-01-2016/cover.jpg" alt=""></a>
                                 </div>
                             </article>
                         </li>
@@ -37,7 +37,7 @@
                         <div class="widget-area-8">
 
                             <div class="widget kopa-categories-widget">
-                                  <red-title><a href="/categories/technology/dev-blog/22-01-2016.php" class="red-title">DEV BLOG - WEEK ONE</a></red-title>
+                                  <red-title><a href="/categories/technology/dev-blog/22-01-2016" class="red-title">DEV BLOG - WEEK ONE</a></red-title>
                                 <div>
                                     <div>
 

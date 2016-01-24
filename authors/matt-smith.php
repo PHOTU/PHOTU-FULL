@@ -7,7 +7,7 @@
                 </div>
                 <div class="entry-content">
                     <h4 class="entry-title" itemscope="" itemtype="http://schema.org/Event"><itemprop="name">MATT SMITH</h4>
-                    <p>I'm Matt Smith, I've been with PHOTU since it's inception. I product detailed content regarding technology and assist with the development and production of the site.</p>
+                    <p>I'm Matt Smith, I've been with PHOTU since it's inception. I produce detailed content regarding technology and assist with the development and production of the site.</p>
                 </div>
             </div>
         </article>
