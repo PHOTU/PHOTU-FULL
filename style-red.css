@@ -3709,8 +3709,8 @@ address {
 /*--- kopa-categories-widget ---*/
 .owl-carousel-1.owl-theme .owl-controls {
   position: absolute;
-  top: -55px;
-  right: -5px; }
+  top: 105%;
+  right: 50%; }
 .owl-carousel-1 .item .entry-title {
   margin-bottom: 0; }
 .owl-carousel-1 .item .pd-20 .kopa-e-list li {

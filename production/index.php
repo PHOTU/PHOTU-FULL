@@ -15,7 +15,7 @@
         <div class="wrapper">
         <div class="row style1">
         <div class="widget-area-5">
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Monday</a></red-title>
 
         N/A
@@ -23,7 +23,7 @@
         </div>
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Tuesday</a></red-title>
 
         Coming soon.
@@ -31,7 +31,7 @@
         </div>
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Wednesday</a></red-title>
 
         N/A
@@ -39,7 +39,7 @@
         </div>
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Thursday</a></red-title>
 
         N/A
@@ -48,7 +48,7 @@
 
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Friday</a></red-title>
 
         Weekly Dev Blog - A summary of the previous week including website changes, staff updates and more.
@@ -57,7 +57,7 @@
 
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Saturday</a></red-title>
 
         N/A
@@ -65,7 +65,7 @@
         </div>
 
 
-        <div class="col-md-6 col-sm-6 col-xs-6">
+        <div class="col-md-12 col-sm-12 col-xs-12">
         <red-title><a class="red-title">Sunday</a></red-title>
 
         Discover Weekly - Your music, your way. We go through the top picks of the week.
